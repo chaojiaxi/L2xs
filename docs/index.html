@@ -1,0 +1,232 @@
+<!--
+ * @Author: your name
+ * @Date: 1985-10-26 16:15:00
+ * @LastEditTime: 2022-02-18 10:49:14
+ * @LastEditors: Please set LastEditors
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: /docsify/docs/index.html
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>L2xs-前端导航</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css"> -->
+    <!-- Gitalk，一个现代化的，基于Preact和Github Issue的评论系统 -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/css/friends-link.css">
+    <link rel="stylesheet" href="assets/css/doc.css">
+
+
+</head>
+
+<body>
+    <div data-app id="app">加载中</div>
+    <script>
+        window.$docsify = {
+            el: '#app', // docsify 初始化的挂载元素
+            // name: 'docsify', // 文档标题，会显示在侧边栏顶部
+            nameLink: 'http://120.24.49.88/L2xs/#/', // 点击文档标题后跳转的链接地址
+            repo: 'https://github.com/chaojiaxi/L2xs', // 配置仓库地址
+            loadSidebar: true,
+            loadSidebar: '_sidebar.md', // 加载自定义侧边栏，参考多页文档。设置为 true 后会加载 _sidebar.md 文件，也可以自定义加载的文件名。
+            subMaxLevel: 3, // 默认情况下会抓取文档中所有标题渲染成目录
+            loadNavbar: true, // 加载自定义导航栏，参考定制导航栏 了解用法。设置为 true 后会加载 _navbar.md 文件，也可以自定义加载的文件名。
+            loadNavbar: '_navbar.md',
+            coverpage: true, // 封面
+            // hideSidebar: true, // 隐藏侧边栏，侧边栏的任何内容都不会被渲染
+            auto2top: true, // 切换页面后是否自动跳转到页面顶部
+            logo: '/_media/icon.svg', // 在侧边栏中出现的网站图标，你可以使用CSS来更改大小
+            externalLinkTarget: '_blank', // 外部链接的打开方式。默认为 _blank
+            cornerExternalLinkTarget: '_self', // 右上角链接的打开方式。默认为 _blank
+            onlyCover: false, // 只在访问主页时加载封面
+            ext: '.md', // 资源的文件扩展名
+            search: { //添加搜索框
+                paths: 'auto',
+                placeholder: '🔍 关键字搜索',
+                noData: '😒 找不到结果',
+                // Headline depth, 1 - 6
+                depth: 6,
+                maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+            },
+            // ga: 'UA-164658031-2', // 谷歌分析 SEO
+
+            footer: {
+                copy: '<span id="sitetime"></span><br/><span>Copyright &copy; 2021 - 至今</span><br>',
+                auth: '<span class="happy1">希望路过的您看到这句话每天都能开心！</span><br><span class="happy2">祝各位道友考研上岸！考上体制！</span>',
+                pre: '<hr/>',
+                style: 'text-align: center;',
+            }, //添加页脚
+            scrollToTop: {
+                auto: true,
+                text: 'Top',
+                right: 15,
+                bottom: 15,
+                offset: 500
+            },
+            'flexible-alerts': {
+                style: 'flat'
+            }
+
+
+            // markdown: function(marked, renderer) {  // markdown函数
+            //   // ...
+            //   return marked;
+            // },
+            // themeColor: '#3F51B5', // 替换主题色
+            // xecuteScript: true, // 执行文档里的 script 标签里的脚本，只执行第一个 script (demo)
+            // noEmoji: true, // 禁用 emoji 解析
+            // mergeNavbar: true, // 小屏设备下合并导航栏到侧边栏
+            // formatUpdated: '{MM}/{DD} {HH}:{mm}',
+            //     formatUpdated: function(time) {
+            //     return time;
+            // },
+            // routerMode: 'history', // default: 'hash'，history或hash模式
+            // notFoundPage: {  // 加载正确的本地化过的404页面
+            //   '/': '_404.md',
+            //   '/de': 'de/_404.md',
+            // },
+            // vueComponents: {  // 创建并注册全局 Vue组件 。组件是以组件名称为键，以包含 Vue 选项的对象为值来指定的。组件data对每个实例都是唯一的，并且在用户浏览网站时不会持久
+            //   'button-counter': {
+            //     template: `
+            //       <button @click="count += 1">
+            //         You clicked me {{ count }} times
+            //       </button>
+            //     `,
+            //     data() {
+            //       return {
+            //         count: 0,
+            //       };
+            //     },
+            //   },
+            // },
+            // disqus: 'shortname' // 评论系统
+            // pagination: {
+            //   previousText: '上一章节',
+            //   nextText: '下一章节',
+            //   crossChapter: true,
+            //   crossChapterText: true,
+            // },
+        }
+    </script>
+    <!-- Docsify v4 -->
+
+    <script src="assets/js/main.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+    <!-- <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script> -->
+
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+    <!-- emoji -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
+    <!-- 搜索 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+    <!-- 分栏 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/js/docsify-example-panels.js"></script>
+
+    <!-- 复制提醒 -->
+    <!-- <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/sweetalert.min.js"></script> -->
+    <!-- <script>
+    document.body.oncopy = function () {
+     swal("复制成功"); };
+  </script> -->
+
+    <!-- 添加页脚 -->
+    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+
+    <!-- PDF -->
+    <script src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/js/pdfobject.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+
+    <!-- 侧边栏 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+    <!-- 图片缩放 - Zoom image ![](image.png ":no-zoom") -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+    <!-- 在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+    <!-- alter Note-Tip-Warning-Attention -->
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
+    <!-- Disqus评论系统支持 -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
+
+    <!-- 回到顶点 -->
+    <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+
+
+    <!-- Gitalk，一个现代化的，基于Preact和Github Issue的评论系统 -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'Github Application Client ID',
+      clientSecret: 'Github Application Client Secret',
+      repo: 'Github repo',
+      owner: 'Github repo owner',
+      admin: ['Github repo collaborators, only these guys can initialize github issues'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script> -->
+
+    <!-- 分页 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+    <!-- 提供了统计中文汉字和英文单词的功能，并且排除了一些markdown语法的特殊字符例如*、-等 -->
+    <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
+
+    <!-- 访问量统计 -->
+    <!-- <script async src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/js/busuanzi.pure.mini.js"></script> -->
+
+    <!-- 添加网站运行时间统计 -->
+    <script language=javascript>
+        siteTime();
+
+        function siteTime() {
+            window.setTimeout("siteTime()", 1000);
+            var seconds = 1000;
+            var minutes = seconds * 60;
+            var hours = minutes * 60;
+            var days = hours * 24;
+            var years = days * 365;
+            var today = new Date();
+            var todayYear = today.getFullYear();
+            var todayMonth = today.getMonth() + 1;
+            var todayDate = today.getDate();
+            var todayHour = today.getHours();
+            var todayMinute = today.getMinutes();
+            var todaySecond = today.getSeconds();
+            var t1 = Date.UTC(2021, 12, 12, 12, 12, 12);
+            var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+            var diff = t2 - t1;
+            var diffYears = Math.floor(diff / years);
+            var diffDays = Math.floor((diff / days) - diffYears * 365);
+            var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
+            var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
+            var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
+            if (document.getElementById("sitetime")) {
+                document.getElementById("sitetime").innerHTML = " 本站已安全运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分 " + diffSeconds + " 秒 ";
+            }
+        }
+    </script>
+
+    <!-- Live2D 看板娘 -->
+    <!-- <script src="https://cdn.jsdelivr.net/gh/username/live2d-widget@latest/autoload.js"></script> -->
+</body>
+
+</html>
