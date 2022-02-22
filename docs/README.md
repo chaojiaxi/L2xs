@@ -344,7 +344,10 @@
 - [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
 - [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
 - [godocms 一套开源办公套件](https://github.com/godocms/godocms)
+<<<<<<< HEAD
 - [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+=======
+>>>>>>> 4c9b1f88adef68345a7ab678a3aabbe238927b5d
 
 
 ---
