@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-01-04 08:49:25
+ * @LastEditTime: 2022-03-02 09:14:54
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -167,6 +167,7 @@
 - [异次元软件世界](https://www.iplaysoft.com/)
 - [MSDN](https://msdn.itellyou.cn/)
 - [软件缘](https://www.appcgn.com/)
+- [果核剥壳](https://www.ghxi.com/)
 - [我最喜欢的软件Windows版](https://love.appinn.com/)
 - [佛系软件](https://foxirj.com/)
 - [反斗软件](http://www.apprcn.com/)

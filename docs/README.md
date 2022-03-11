@@ -344,11 +344,7 @@
 - [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
 - [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
 - [godocms 一套开源办公套件](https://github.com/godocms/godocms)
-<<<<<<< HEAD
 - [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
-=======
->>>>>>> 4c9b1f88adef68345a7ab678a3aabbe238927b5d
-
 
 ---
 ### 视频教程推荐
@@ -416,12 +412,13 @@
     </a>
 </p>
 
-看到一些不懂分类的资源
+不懂分类的资源
 
 - [最代码](http://www.zuidaima.com/)
 - [100素材网](http://www.100sucai.com/)
 - [中国各二线以上城市的互联网环境以及生活成本](https://github.com/csguide-dabai/Programmer-look-at-China)
-
+- [LKs哔哩哔哩up主收集的网址](https://xiangjianan.github.io/lks/)
+- [翻墙-科学上网](https://github.com/Alvin9999/new-pac)
 
 ### 关于网站 :id=author
 
