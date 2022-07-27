@@ -1,12 +1,12 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-03-02 09:14:54
+ * @LastEditTime: 2022-07-27 17:40:29
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
 -->
-### Hello! World.
+### 欢迎来到我的世界！
 
 <p align="center" style="color:blue">
   <a href="https://github.com/chaojiaxi/L2xs" target="_blank">
@@ -46,57 +46,6 @@
 
 <!-- panels:end -->
 
-
-### 新闻资讯
-
-- [今日头条](https://www.toutiao.com/)
-- [环球网](https://www.huanqiu.com/)
-- [新华网](http://www.xinhuanet.com/)
-- [新浪新闻](https://news.sina.com.cn/)
-- [腾讯新闻](http://news.qq.com/)
-- [羊城晚报](http://www.ycwb.com/)
-- [澎湃新闻](https://www.thepaper.cn/)
-
-### 高效办公
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-- [I love PDF](https://www.ilovepdf.com/zh-cn)
-- [ABCD PDF](https://abcdpdf.com/)
-- [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
-- [PDF转Word](https://www.alltoall.net/)
-- [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
-- [Wondershare HiPDF](https://www.hipdf.cn/)
-- [File Converter](https://file-converter.org/)
-- [All to All](https://www.alltoall.net/)
-- [迅捷PDF转换器](https://app.xunjiepdf.com/)
-- [扫描王](https://www.camscanner.com/)
-
-<!-- div:right-panel -->
-
-- [超级PDF](https://xpdf.net/)
-- [天若OCR](http://ocr.tianruo.net/)
-- [白描在线识别](https://web.baimiaoapp.com/)
-- [remove](https://www.remove.bg/)
-- [身份证件加水印](http://tool.c7sky.com/id-card-watermark/)
-- [石墨文档](https://shimo.im/)
-- [印象笔记](https://www.yinxiang.com/)
-- [幕布](https://mubu.com/)
-
-<!-- panels:end -->
-
-
-
-### 文件分享
-
-- [阿里云盘](https://www.aliyundrive.com/)
-- [蓝奏云盘](https://www.lanzou.com/)
-- [百度网盘](https://pan.baidu.com/)
-
-
-
 ### 影视视频
 
 <!-- panels:start -->
@@ -118,8 +67,6 @@
 - [两个BT](https://www.bttwo.com/)
 - [完美看看](http://www.wanmeikk.me/)
 
-
-
 <!-- div:right-panel -->
 
 #### 视频解析
@@ -135,20 +82,10 @@
 - [斗鱼](https://www.douyu.com/)
 - [小小视频解析](http://tv.hzwdd.cn/)
 - [分享网视频解析](https://vip.fxw.la/)
-- [chrome视频解析]()
+- [小千解析](http://www.nikucms.com/)
+- [下歌吧音乐下载平台](https://music.y444.cn/#/)
 
 <!-- panels:end -->
-
-
-### 音乐电台
-
-- [豆瓣FM](https://fm.douban.com/)
-- [喜马拉雅FM](https://www.ximalaya.com/)
-- [荔枝FM](https://www.lizhi.fm/)
-- [蜻蜓](https://www.qingting.fm/)
-- [猫耳FM](https://www.missevan.com/)
-- [网易云音乐](https://music.163.com/)
-- [QQ音乐](https://y.qq.com/)
 
 
 ### 软件下载
@@ -194,6 +131,66 @@
 <!-- panels:end -->
 
 
+### 新闻资讯
+
+- [今日头条](https://www.toutiao.com/)
+- [环球网](https://www.huanqiu.com/)
+- [新华网](http://www.xinhuanet.com/)
+- [新浪新闻](https://news.sina.com.cn/)
+- [腾讯新闻](http://news.qq.com/)
+- [羊城晚报](http://www.ycwb.com/)
+- [澎湃新闻](https://www.thepaper.cn/)
+
+
+### 高效办公
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+- [I love PDF](https://www.ilovepdf.com/zh-cn)
+- [ABCD PDF](https://abcdpdf.com/)
+- [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
+- [PDF转Word](https://www.alltoall.net/)
+- [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
+- [Wondershare HiPDF](https://www.hipdf.cn/)
+- [File Converter](https://file-converter.org/)
+- [All to All](https://www.alltoall.net/)
+- [迅捷PDF转换器](https://app.xunjiepdf.com/)
+- [扫描王](https://www.camscanner.com/)
+
+<!-- div:right-panel -->
+
+- [超级PDF](https://xpdf.net/)
+- [天若OCR](http://ocr.tianruo.net/)
+- [白描在线识别](https://web.baimiaoapp.com/)
+- [remove](https://www.remove.bg/)
+- [身份证件加水印](http://tool.c7sky.com/id-card-watermark/)
+- [石墨文档](https://shimo.im/)
+- [印象笔记](https://www.yinxiang.com/)
+- [幕布](https://mubu.com/)
+
+<!-- panels:end -->
+
+
+### 文件分享
+
+- [阿里云盘](https://www.aliyundrive.com/)
+- [蓝奏云盘](https://www.lanzou.com/)
+- [百度网盘](https://pan.baidu.com/)
+
+
+### 音乐电台
+
+- [豆瓣FM](https://fm.douban.com/)
+- [喜马拉雅FM](https://www.ximalaya.com/)
+- [荔枝FM](https://www.lizhi.fm/)
+- [蜻蜓](https://www.qingting.fm/)
+- [猫耳FM](https://www.missevan.com/)
+- [网易云音乐](https://music.163.com/)
+- [QQ音乐](https://y.qq.com/)
+
+
 ### 表单问卷
 
 - [问卷网](https://www.wenjuan.com/)
@@ -214,6 +211,18 @@
 
 
 <!-- tabs:start -->
+
+#### **软件推荐**
+
+- [格式工厂v5.11.0 绿色纯净版](https://www.52pojie.cn/thread-1651312-1-1.html)
+- [360极速浏览器X_21.0.1120.0绿色版](https://www.52pojie.cn/thread-1659087-1-1.html)
+- [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
+- [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
+- [ip地址归属地查询_可单次查询、可批量查询](https://www.52pojie.cn/thread-1637698-1-4.html)
+- [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
+- [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
+- [天若OCR文字识别]()
+- [持续更新......]()
 
 #### **在线素材工具**
 

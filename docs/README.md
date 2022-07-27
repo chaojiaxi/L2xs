@@ -26,7 +26,7 @@
 > [!note]
 > 本网站取名 **磊磊闲说**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源。.
 > 方便自己也方便他人。网站内容会保持**持续更新**，欢迎各位收藏、点赞！
-
+> 关注B站账号[五伏高压电](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
 
 ---
 ### 前端开发
@@ -62,7 +62,7 @@
 
 - [CSS Tricks 效果大全 | CSS的各种效果实现](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
 - [CSS Inspiration | CSS灵感的诞生地](https://github.com/chokcoco/CSS-Inspiration)
-- [CSS 常用样式 | 有很多常用的CSS样式](https://github.com/QiShaoXuan/css_tricks)
+- [CSS Tricks 常用样式 | 有很多常用的CSS样式](https://github.com/QiShaoXuan/css_tricks)
 - [Animista | CSS动画库](https://animista.net/)
 - [CSS Minifier | 在线CSS代码简化/压缩工具](https://cssminifier.com/)
 - [Sass 中文文档 | CSS扩展语言](https://sass.bootcss.com/documentation)
@@ -114,6 +114,12 @@
 
 <!-- panels:end -->
 
+---
+### vue开源项目
+---
+
+- [vue引导页](https://github.com/Mjhuu/vue-intro-step)
+
 
 ---
 ### 前端开源项目
@@ -127,11 +133,8 @@
 - [博客网站 | vue3+ts+vite2+element](https://github.com/biaochenxuying/blog-vue-typescript)
 - [Vue+SpringBoot+MyBatis音乐网站](https://github.com/Yin-Hongwei/music-website)
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
+- [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
 
 
 ---
@@ -205,7 +208,7 @@
 - [ZDZN 文档教程](https://doc.zdzn.net/)
 - [Ruby China](https://ruby-china.org/)
 - [nodejs技术社区](https://cnodejs.org/)
-
+- [前端精读周刊](https://github.com/ascoders/weekly)
 
 <!-- panels:end -->
 
@@ -218,16 +221,18 @@
 
 <!-- div:left-panel -->
 
-- [Bootstrap 中文网](https://www.bootcss.com/)
+- [Node.js 中文网](http://nodejs.cn/)
+- [Vue.js 中文文档](https://cn.vuejs.org/)
+- [Express 中文文档](http://expressjs.com/zh-cn/)
+- [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 - [MongoDB 中文文档](https://docs.mongoing.com/)
 - [Mongoose 中文文档](https://mongoosejs.com/)
 - [jQuery API 中文文档](https://www.jquery123.com/)
-- [Node.js 中文网](http://nodejs.cn/)
-- [Vue.js 中文文档](https://cn.vuejs.org/)
 - [React 中文文档](https://zh-hans.reactjs.org/)
 - [Nginx 中文文档](https://www.nginx.cn/doc/index.html)
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-- [Express 中文文档](http://expressjs.com/zh-cn/)
+- [Bootstrap 中文网](https://www.bootcss.com/)
+- [Moment.js 文档](http://momentjs.cn/docs/)
 
 <!-- div:right-panel -->
 
@@ -240,6 +245,8 @@
 - [凤凰架构 | 构建可靠的大型分布式系统](https://icyfenix.cn/)
 - [dicsify](https://docsify.js.org/#/)
 - [dumi | 组件开发场景而生的文档工具](https://d.umijs.org/zh-CN)
+- [Lodash 中文文档](https://www.lodashjs.com/)
+- [layui 文档](https://layui.11dz.cn/)
 
 <!-- panels:end -->
 
@@ -308,13 +315,14 @@
 ---
 
 - [鸠摩搜书](https://www.jiumodiary.com/)
-- [《javascript高级程序设计》]()
-- [《javascript权威指南》]()
+- [《javascript 高级程序设计-第四版》]()
+- [《javascript 权威指南》]()
+- [《你不知道的 javascript 上中下卷]()
 - [《javascript 权威指南》第7版（中英对照)](https://js.2019919.xyz/)
-- [《HTTP权威指南》]()
-- [《MongoDB权威指南》]()
-- [《Node.js开发指南》]()
-
+- [《HTTP 权威指南》]()
+- [《MongoDB 权威指南》]()
+- [《Node.js 开发指南》]()
+- [《vue.js 实战》]()
 
 ---
 ### 面试技巧
@@ -345,6 +353,8 @@
 - [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
 - [godocms 一套开源办公套件](https://github.com/godocms/godocms)
 - [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+- [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
+- [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 
 ---
 ### 视频教程推荐
@@ -360,7 +370,7 @@
 
 
 ---
-### 我在鱼塘钓鱼......
+### 钓鱼......
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
@@ -401,7 +411,12 @@
 - [五子棋AI](https://github.com/lihongxun945/gobang)
 - [在线迷宫游戏](http://www.mazebattles.com/)
 - [免费在线游戏](https://poki.cn/?ref=www.hifast.cn)
-
+- [肯德基疯狂星期四段子收录](https://github.com/Nthily/KFC-Crazy-Thursday)
+- [100个摸鱼小游戏](https://github.com/wanghao221/moyu)
+- [收集“导师评价”相关资源](https://github.com/wangzhiye-tiancai/mysupervisor_save)
+- [系统架构设计师复习资料](https://github.com/xxlllq/system_architect)
+- [白嫖VIP](https://github.com/anran-world/Anranawsl)
+- [计算机保研交流群:605176069](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
 
 ---
 ### 其他......
