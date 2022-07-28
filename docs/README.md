@@ -1,4 +1,4 @@
-### 您好！欢迎来到磊磊闲说博客网站 :id=read
+### 欢迎来到磊磊闲说博客网站 :id=read
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
@@ -16,6 +16,7 @@
 
 <p align="center">
   <h2 align="center">座右铭：知识无价，产物有价。</h2>
+  <h2 align="center">现阶段困惑：遇到大问题无法解决问题，只会逃避问题!!!!!</h2>
 </p>
 
 
@@ -24,17 +25,19 @@
 ---
 
 > [!note]
-> 本网站取名 **磊磊闲说**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源。.
+> 本网站取名 **磊磊闲说**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源。
 > 方便自己也方便他人。网站内容会保持**持续更新**，欢迎各位收藏、点赞！
 > 关注B站账号[五伏高压电](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
 
 ---
-### 前端开发
+### HTML教程
 ---
 
 - [前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
 - [Github热榜](https://github.com/trending)
+- [Free Website Templates](https://www.themezy.com/)
 - 内容持续更新
+
 
 ---
 ### JavaScript教程
@@ -115,16 +118,14 @@
 <!-- panels:end -->
 
 ---
-### vue开源项目
+### 开源项目合集
 ---
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 - [vue引导页](https://github.com/Mjhuu/vue-intro-step)
-
-
----
-### 前端开源项目
----
-
 - [禅道 | 项目管理](https://www.zentao.net/)
 - [vue-monoplasty-slide-verify | 基于 Vue2.0+ 的验证码插件](https://github.com/monoplasty/vue-monoplasty-slide-verify)
 - [webtorrent | 基于 JS 的流媒体种子客户端](https://github.com/webtorrent/webtorrent)
@@ -135,6 +136,32 @@
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
 - [高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
+- [哔哩哔哩-API](https://github.com/SocialSisterYi/bilibili-API-collect)
+- [学之思 | 来源考试系统](https://www.mindskip.net:888/)
+- [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
+- [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
+- [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
+
+<!-- div:right-panel -->
+
+- [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
+- [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
+- [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
+- [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
+- [godocms 一套开源办公套件](https://github.com/godocms/godocms)
+- [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+- [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
+- [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+- [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+- [解决 GitHub 访问速度慢](https://github.com/521xueweihan/GitHub520)
+- [github加速神器](https://github.com/dotnetcore/FastGithub)
+- [简单图床](https://github.com/icret/EasyImages2.0)
+- [隔离食用手册大全](https://github.com/YunYouJun/cook)
+- [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
+- [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
+- [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
+
+<!-- panels:end -->
 
 
 ---
@@ -150,7 +177,7 @@
 - [GitHub最全的前端资源汇总仓库](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
-
+- [千古前端图文教程](https://github.com/qianguyihao/web)
 
 ---
 ### 前端算法
@@ -314,15 +341,19 @@
 ### 书籍推荐
 ---
 
+- [计算机电子书免费下载](https://github.com/itdevbooks/pdf)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [《javascript 高级程序设计-第四版》]()
 - [《javascript 权威指南》]()
-- [《你不知道的 javascript 上中下卷]()
+- [《你不知道的 javascript 上-中-下卷]()
 - [《javascript 权威指南》第7版（中英对照)](https://js.2019919.xyz/)
 - [《HTTP 权威指南》]()
 - [《MongoDB 权威指南》]()
+- [MongoDB实战](https://pan.baidu.com/share/init?surl=z81kDxzBUphuvmC-bOleZA)
+- [MySQL权威指南](https://pan.baidu.com/s/1uGow9RNUz5ZpzpOKcJHcqw)
 - [《Node.js 开发指南》]()
 - [《vue.js 实战》]()
+
 
 ---
 ### 面试技巧
@@ -332,6 +363,7 @@
 - []()
 - []()
 
+
 ---
 ### 优质文章
 ---
@@ -340,21 +372,6 @@
 - []()
 - []()
 
-
----
-### Github项目资源
----
-
-- [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
-- [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
-- [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
-- [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
-- [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
-- [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
-- [godocms 一套开源办公套件](https://github.com/godocms/godocms)
-- [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
-- [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
-- [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 
 ---
 ### 视频教程推荐
@@ -441,6 +458,7 @@
 > - 一个刚刚入门前端的前端小菜鸟
 > - 欢迎路过的看官们点点收藏
 > - 联系作者请关注“磊磊闲说”公众号
+> - 关于作者 - 2020年毕业的菜鸟，目前工作是做初级前端，方向是全栈工程师
 
 
 # 内容持续更新......
