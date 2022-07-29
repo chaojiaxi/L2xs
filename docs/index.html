@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 1985-10-26 16:15:00
- * @LastEditTime: 2022-02-18 10:49:14
- * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-07-29 15:02:20
+ * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/docs/index.html
 -->
@@ -168,21 +168,26 @@
     <!-- 回到顶点 -->
     <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
 
+    <!-- PDFObject.js is a required dependency of this plugin -->
+    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> -->
+    <!-- docsify-pdf-embed.js  -->
+    <!-- <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script> -->
+
 
     <!-- Gitalk，一个现代化的，基于Preact和Github Issue的评论系统 -->
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: 'Github Application Client ID',
-      clientSecret: 'Github Application Client Secret',
-      repo: 'Github repo',
-      owner: 'Github repo owner',
-      admin: ['Github repo collaborators, only these guys can initialize github issues'],
-      // facebook-like distraction free mode
-      distractionFreeMode: false
-    })
-  </script> -->
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+    <script>
+        const gitalk = new Gitalk({
+        clientID: 'Github Application Client ID',
+        clientSecret: 'Github Application Client Secret',
+        repo: 'Github repo',
+        owner: 'Github repo owner',
+        admin: ['Github repo collaborators, only these guys can initialize github issues'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
+        })
+    </script> -->
 
     <!-- 分页 -->
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
@@ -191,7 +196,7 @@
     <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
 
     <!-- 访问量统计 -->
-    <!-- <script async src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/js/busuanzi.pure.mini.js"></script> -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
     <!-- 添加网站运行时间统计 -->
     <script language=javascript>

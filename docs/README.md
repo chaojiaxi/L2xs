@@ -35,17 +35,6 @@
 <!-- div:left-panel -->
 
 ---
-### HTML教程
----
-
-- [前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
-- [Github热榜](https://github.com/trending)
-- [Free Website Templates](https://www.themezy.com/)
-- 内容持续更新
-
-<!-- div:right-panel -->
-
----
 ### JavaScript教程
 ---
 
@@ -59,6 +48,17 @@
 - [TypeScript 教程 |  最好的TypeScript 视频+图文教程](https://jspang.com/detailed?id=63)
 - [50projects50days | 50 个采用 HTML+CSS+JS 的前端小项目](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
+
+<!-- div:right-panel -->
+
+---
+### HTML教程
+---
+
+- [前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
+- [Github热榜](https://github.com/trending)
+- [Free Website Templates](https://www.themezy.com/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -115,12 +115,12 @@
 - [50天用JavaScript完成50个web项目 | SegmentFault](https://segmentfault.com/a/1190000040481518)
 - [Linux命令大全(手册) – 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)
 - [Markdown 语法速查表 | Markdown 官方教程](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
-- [HTTP状态码详解](https://tool.oschina.net/commons?type=5)
-- [makeapie - 众多echarts案例](https://www.makeapie.com/explore.html)
-- [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
 
 <!-- div:right-panel -->
 
+- [HTTP状态码详解](https://tool.oschina.net/commons?type=5)
+- [makeapie - 众多echarts案例](https://www.makeapie.com/explore.html)
+- [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
 - [elevator.js | 返回顶部过程中像电梯向上运行插件](https://github.com/tholman/elevator.js)
 - [dayjs](https://github.com/iamkun/dayjs)
 - [pdfjs](http://mozilla.github.io/pdf.js/)
@@ -182,12 +182,30 @@
 <!-- div:left-panel -->
 
 ---
+### 前端算法
+---
+
+- [JavaScript 算法与数据结构](http://github.com/trekhleb/javascript-algorithms)
+- [leetcode 解题之路 | 私藏LeetCode解题攻略 ](https://github.com/azl397985856/leetcode)
+- [五分钟学算法 | 每天拿出五分钟](https://github.com/MisterBooo/LeetCodeAnimation)
+- [数据结构与算法项目推荐](https://github.com/biaochenxuying/blog/issues/43)
+- [JavaScript经典排序算法 | 必会题目](https://github.com/biaochenxuying/blog/issues/42)
+- [算法可视化工具 | 用可视化工具和交互方式](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [算法可视化来源 ](https://visualgo.net/en)
+- [算法的工作方式 | 可视化](https://github.com/skidding/illustrated-algorithms)
+- [九章算法](ttps://www.jiuzhang.com/)
+- [LeetCode官网](https://leetcode-cn.com/)
+
+<!-- div:right-panel -->
+
+---
 ### 前端教程
 ---
 
 - [StackOverFlow](https://stackoverflow.com/)
 - [LeetCode](https://leetcode-cn.com/)
 - [LintCode](https://www.lintcode.com/)
+- [LeetCode刷题](https://github.com/doocs/leetcode)
 - [Nodejs-Roadmap | Node技术栈学习指南](https://github.com/qufei1993/Nodejs-Roadmap)
 - [如何提出正确的问题](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - [LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
@@ -195,23 +213,6 @@
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
 - [千古前端图文教程](https://github.com/qianguyihao/web)
-
-<!-- div:right-panel -->
-
----
-### 前端算法
----
-
-- [JavaScript 算法与数据结构 | 多种基于JavaScript的算法与数据结构](http://github.com/trekhleb/javascript-algorithms)
-- [leetcode 解题之路 | 私藏LeetCode解题攻略 ](https://github.com/azl397985856/leetcode)
-- [五分钟学算法 | 每天拿出五分钟  学学算法  比如上个厕所就学了 ](https://github.com/MisterBooo/LeetCodeAnimation)
-- [数据结构与算法项目推荐 | Github上170K+Star的前端学习数据结构和算法题目 ](https://github.com/biaochenxuying/blog/issues/43)
-- [JavaScript  十大经典排序算法 | JavaScript排序必会题目](https://github.com/biaochenxuying/blog/issues/42)
-- [算法可视化工具 | 用可视化工具和交互方式 让你从代码中可视化算法 ](https://github.com/algorithm-visualizer/algorithm-visualizer)
-- [算法可视化来源 ](https://visualgo.net/en)
-- [算法的工作方式 | 可视化](https://github.com/skidding/illustrated-algorithms)
-- [九章算法](ttps://www.jiuzhang.com/)
-- [LeetCode官网](https://leetcode-cn.com/)
 
 <!-- panels:end -->
 
@@ -245,6 +246,7 @@
 - [Ruby China](https://ruby-china.org/)
 - [nodejs技术社区](https://cnodejs.org/)
 - [前端精读周刊](https://github.com/ascoders/weekly)
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
 <!-- panels:end -->
 
@@ -337,11 +339,11 @@
 - [Idea-Intellij IDEA]()
 - [PyCharm]()
 - [MyEcplise]()
-- [Xcode]()
-- [SecureCRT | SSH终端仿真程序]()
 
 <!-- div:right-panel -->
 
+- [Xcode]()
+- [SecureCRT | SSH终端仿真程序]()
 - [Termius | 全平台的远程终端]()
 - [iTerm]()
 - [Postman]()
@@ -354,20 +356,6 @@
 <!-- panels:start -->
 
 <!-- div:left-panel -->
-
----
-### 编程课程
----
-
-- [哔哩哔哩](https://www.bilibili.com/)
-- [C语言网](https://www.dotcpp.com/)
-- [cppreference](http://zh.cppreference.com/)
-- [中国大学MOOC](https://www.icourse163.org/)
-- [牛客网](www.nowcoder.com)
-- [网易公开课](https://open.163.com/)
-- [Coursera](https://www.coursera.org/)
-
-<!-- div:right-panel -->
 
 ---
 ### 书籍推荐
@@ -385,6 +373,20 @@
 - [MySQL权威指南](https://pan.baidu.com/s/1uGow9RNUz5ZpzpOKcJHcqw)
 - [《Node.js 开发指南》]()
 - [《vue.js 实战》]()
+
+<!-- div:right-panel -->
+
+---
+### 编程课程
+---
+
+- [哔哩哔哩](https://www.bilibili.com/)
+- [C语言网](https://www.dotcpp.com/)
+- [cppreference](http://zh.cppreference.com/)
+- [中国大学MOOC](https://www.icourse163.org/)
+- [牛客网](www.nowcoder.com)
+- [网易公开课](https://open.163.com/)
+- [Coursera](https://www.coursera.org/)
 
 <!-- panels:end -->
 
@@ -508,3 +510,8 @@
 
 
 # 内容持续更新......
+
+
+### 访问量统计
+<span id="busuanzi_container_site_pv">本站总访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
+<!-- <span id="busuanzi_container_site_uv">本站总访客数：<span id="busuanzi_value_site_uv"></span> 人</span> -->
