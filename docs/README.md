@@ -1,4 +1,4 @@
-### 欢迎来到磊磊闲说博客网站 :id=read
+### 欢迎来到五伏高压博客网站 :id=read
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
@@ -29,6 +29,11 @@
 > 方便自己也方便他人。网站内容会保持**持续更新**，欢迎各位收藏、点赞！
 > 关注B站账号[五伏高压电](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
 
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
 ---
 ### HTML教程
 ---
@@ -38,6 +43,7 @@
 - [Free Website Templates](https://www.themezy.com/)
 - 内容持续更新
 
+<!-- div:right-panel -->
 
 ---
 ### JavaScript教程
@@ -53,6 +59,9 @@
 - [TypeScript 教程 |  最好的TypeScript 视频+图文教程](https://jspang.com/detailed?id=63)
 - [50projects50days | 50 个采用 HTML+CSS+JS 的前端小项目](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
+
+<!-- panels:end -->
+
 
 
 ---
@@ -90,6 +99,7 @@
 <!-- panels:end -->
 
 
+
 ---
 ### 前端常用JS
 ---
@@ -116,6 +126,8 @@
 - [pdfjs](http://mozilla.github.io/pdf.js/)
 
 <!-- panels:end -->
+
+
 
 ---
 ### 开源项目合集
@@ -164,6 +176,11 @@
 <!-- panels:end -->
 
 
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
 ---
 ### 前端教程
 ---
@@ -178,6 +195,8 @@
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
 - [千古前端图文教程](https://github.com/qianguyihao/web)
+
+<!-- div:right-panel -->
 
 ---
 ### 前端算法
@@ -194,18 +213,8 @@
 - [九章算法](ttps://www.jiuzhang.com/)
 - [LeetCode官网](https://leetcode-cn.com/)
 
+<!-- panels:end -->
 
----
-### 编程课程
----
-
-- [哔哩哔哩](https://www.bilibili.com/)
-- [C语言网](https://www.dotcpp.com/)
-- [cppreference](http://zh.cppreference.com/)
-- [中国大学MOOC](https://www.icourse163.org/)
-- [牛客网](www.nowcoder.com)
-- [网易公开课](https://open.163.com/)
-- [Coursera](https://www.coursera.org/)
 
 
 ---
@@ -238,6 +247,7 @@
 - [前端精读周刊](https://github.com/ascoders/weekly)
 
 <!-- panels:end -->
+
 
 
 ---
@@ -278,6 +288,7 @@
 <!-- panels:end -->
 
 
+
 ---
 ### 前端工具
 ---
@@ -308,6 +319,8 @@
 
 <!-- panels:end -->
 
+
+
 ---
 ### 开发软件
 ---
@@ -337,6 +350,25 @@
 <!-- panels:end -->
 
 
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+---
+### 编程课程
+---
+
+- [哔哩哔哩](https://www.bilibili.com/)
+- [C语言网](https://www.dotcpp.com/)
+- [cppreference](http://zh.cppreference.com/)
+- [中国大学MOOC](https://www.icourse163.org/)
+- [牛客网](www.nowcoder.com)
+- [网易公开课](https://open.163.com/)
+- [Coursera](https://www.coursera.org/)
+
+<!-- div:right-panel -->
+
 ---
 ### 书籍推荐
 ---
@@ -354,6 +386,13 @@
 - [《Node.js 开发指南》]()
 - [《vue.js 实战》]()
 
+<!-- panels:end -->
+
+
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 ---
 ### 面试技巧
@@ -363,6 +402,7 @@
 - []()
 - []()
 
+<!-- div:right-panel -->
 
 ---
 ### 优质文章
@@ -371,6 +411,9 @@
 - []()
 - []()
 - []()
+
+<!-- panels:end -->
+
 
 
 ---
@@ -421,6 +464,7 @@
 <!-- panels:end -->
 
 
+
 ---
 ### 我在鱼塘玩耍......
 ---
@@ -434,6 +478,8 @@
 - [系统架构设计师复习资料](https://github.com/xxlllq/system_architect)
 - [白嫖VIP](https://github.com/anran-world/Anranawsl)
 - [计算机保研交流群:605176069](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
+
+
 
 ---
 ### 其他......
