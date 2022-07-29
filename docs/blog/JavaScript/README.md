@@ -7,3 +7,9 @@
  * @FilePath: /L2xs/docs/blog/JavaScript/README.md
 -->
 ### JavaScript教程
+
+<p align="certer">
+    <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
+        <img src="assets/img/er012.png" width="100%"/>
+    </a>
+</p>

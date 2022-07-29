@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-07-27 17:40:29
+ * @LastEditTime: 2022-07-29 11:27:30
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -66,18 +66,20 @@
 - [片库](https://www.pianku.li/)
 - [两个BT](https://www.bttwo.com/)
 - [完美看看](http://www.wanmeikk.me/)
+- [电影先生](https://dyxs20.com/?dianying.im)
 
 <!-- div:right-panel -->
 
 #### 视频解析
 
+- [麻花电影](https://www.mhyyy.com/)
 - [厂长资源](https://www.czspp.com/)
 - [人人影视](https://m.rr.tv/)
 - [大师兄影视](https://tv.ci/)
 - [腾讯视频](https://v.qq.com/)
+- [爱奇艺](https://www.iqiyi.com/)
 - [西瓜视频](https://www.ixigua.com/)
 - [优酷](http://www.youku.com/)
-- [麻花电影](https://www.ubo110.com/)
 - [虎牙](https://www.huya.com/)
 - [斗鱼](https://www.douyu.com/)
 - [小小视频解析](http://tv.hzwdd.cn/)
@@ -99,6 +101,7 @@
 - [吾爱破解](https://www.52pojie.cn/)
 - [极简插件](https://chrome.zzzmh.cn/index#/index)
 - [Dism++](http://www.chuyu.me/zh-Hans/index.html)
+- [扩展迷 | 专业的Chrome插件网](https://www.extfans.com/)
 - [大眼仔旭](http://www.dayanzai.me/)
 - [老殁免费分享优秀软件](https://www.mpyit.com/)
 - [异次元软件世界](https://www.iplaysoft.com/)
@@ -109,13 +112,14 @@
 - [佛系软件](https://foxirj.com/)
 - [反斗软件](http://www.apprcn.com/)
 - [423DOWN](https://www.423down.com/)
-- [小众软件](https://www.appinn.com/)
-- [KoolCenter | 源于玩家，服务玩家](https://www.koolcenter.com/)
 
 <!-- div:right-panel -->
 
 #### MAC软件
 
+- [小众软件](https://www.appinn.com/)
+- [KoolCenter | 源于玩家，服务玩家](https://www.koolcenter.com/)
+- [LR | 俄罗斯软件破解站](https://lrepacks.net/)
 - [Mac金币](https://www.macjb.com/)
 - [未来mac下载](https://mac.orsoon.com/)
 - [爱奶酪](https://www.icheese.org/)
@@ -131,6 +135,17 @@
 <!-- panels:end -->
 
 
+<p align="certer">
+    <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
+        <img src="assets/img/er010.png" width="100%"/>
+    </a>
+</p>
+
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
 ### 新闻资讯
 
 - [今日头条](https://www.toutiao.com/)
@@ -140,6 +155,15 @@
 - [腾讯新闻](http://news.qq.com/)
 - [羊城晚报](http://www.ycwb.com/)
 - [澎湃新闻](https://www.thepaper.cn/)
+
+<!-- div:right-panel -->
+
+### 壁纸
+
+- [极简壁纸](https://bz.zzzmh.cn/)
+- 持续更新至
+
+<!-- panels:end -->
 
 
 ### 高效办公
@@ -169,9 +193,14 @@
 - [石墨文档](https://shimo.im/)
 - [印象笔记](https://www.yinxiang.com/)
 - [幕布](https://mubu.com/)
+- [语雀](https://www.yuque.com/)
 
 <!-- panels:end -->
 
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 ### 文件分享
 
@@ -179,17 +208,34 @@
 - [蓝奏云盘](https://www.lanzou.com/)
 - [百度网盘](https://pan.baidu.com/)
 
+<!-- div:right-panel -->
+
+### 排版设计
+
+- [365编译器](http://www.365editor.com/)
+- [135编译器](https://www.135editor.com/)
+- [Md2All](http://md.aclickall.com/)
+- [草料二维码](https://cli.im/tools)
+
+<!-- panels:end -->
+
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 ### 音乐电台
 
+- [酷狗音乐]()
+- [网易云音乐](https://music.163.com/)
+- [QQ音乐](https://y.qq.com/)
 - [豆瓣FM](https://fm.douban.com/)
 - [喜马拉雅FM](https://www.ximalaya.com/)
 - [荔枝FM](https://www.lizhi.fm/)
 - [蜻蜓](https://www.qingting.fm/)
 - [猫耳FM](https://www.missevan.com/)
-- [网易云音乐](https://music.163.com/)
-- [QQ音乐](https://y.qq.com/)
 
+<!-- div:right-panel -->
 
 ### 表单问卷
 
@@ -198,6 +244,8 @@
 - [腾讯问卷](https://wj.qq.com/)
 - [金数据](https://jinshuju.net/)
 - [iH5](https://www.ih5.cn/)
+
+<!-- panels:end -->
 
 
 ---
@@ -222,6 +270,8 @@
 - [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
 - [天若OCR文字识别]()
+- [File Converter | 文件格式转换软件](https://file-converter.org/)
+- [PDFPatcher | PDF处理工具](https://github.com/wmjordan/PDFPatcher)
 - [持续更新......]()
 
 #### **在线素材工具**
