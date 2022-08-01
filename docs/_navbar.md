@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 20:08:35
- * @LastEditTime: 2022-01-02 14:10:24
+ * @LastEditTime: 2022-08-01 09:40:16
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/_navbar.md
@@ -16,6 +16,7 @@
   * [BootCDN](https://www.bootcdn.cn/all/)
   * [前端3+1面试](http://www.h-camel.com/index.html)
   * [小呆导航](https://webjike.com/index.html)
+  * [编程导航](https://www.code-nav.cn/)
 
 
 * 开发教程
@@ -30,16 +31,16 @@
 
 
 * 划水摸鱼
-  * [0x00000001](https://www.bilibili.com/)
-  * [0x00000010](https://juejin.cn/)
-  * [0x00000011](https://duomoyu.com/)
-  * [0x00000100](https://mo.fish/?source=giaoshou.com)
-  * [0x00000101](https://www.douyin.com/)
-  * [0x00000111](https://www.zhihu.com/)
-  * [0x00001000](https://www.cnblogs.com/)
-  * [0x00001001](https://www.ithome.com/)
-  * [0x00001010](https://tophub.today/)
-  * [0x00001011](https://fm.douban.com/)
+  * [B站](https://www.bilibili.com/)
+  * [掘金](https://juejin.cn/)
+  * [多摸鱼](https://duomoyu.com/)
+  * [鱼塘热榜](https://mo.fish/?source=giaoshou.com)
+  * [抖音](https://www.douyin.com/)
+  * [知乎](https://www.zhihu.com/)
+  * [博客园](https://www.cnblogs.com/)
+  * [IT之家](https://www.ithome.com/)
+  * [今日热榜](https://tophub.today/)
+  * [豆瓣FM](https://fm.douban.com/)
 
 
 * 在线文档

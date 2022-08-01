@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-07-29 12:10:50
+ * @LastEditTime: 2022-08-01 09:16:03
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -112,6 +112,7 @@
 - [佛系软件](https://foxirj.com/)
 - [反斗软件](http://www.apprcn.com/)
 - [423DOWN](https://www.423down.com/)
+- [黑域基地](https://www.hybase.com/)
 
 <!-- div:right-panel -->
 
@@ -272,6 +273,9 @@
 - [天若OCR文字识别]()
 - [File Converter | 文件格式转换软件](https://file-converter.org/)
 - [PDFPatcher | PDF处理工具](https://github.com/wmjordan/PDFPatcher)
+- [阅读3.0](https://github.com/gedoor/legado/releases/tag/3.22.072122)
+- [异次元](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
+- [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
 - [持续更新......]()
 
 #### **在线素材工具**

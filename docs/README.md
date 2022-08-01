@@ -147,9 +147,11 @@
 - [Vue+SpringBoot+MyBatis音乐网站](https://github.com/Yin-Hongwei/music-website)
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
 - [高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
+- [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
 - [哔哩哔哩-API](https://github.com/SocialSisterYi/bilibili-API-collect)
 - [学之思 | 来源考试系统](https://www.mindskip.net:888/)
+- [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
 - [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
 - [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
@@ -213,6 +215,7 @@
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
 - [千古前端图文教程](https://github.com/qianguyihao/web)
+- [vue-cli脚手架学习vue核心知识](https://github.com/trending/vue?since=daily&spoken_language_code=zh)
 
 <!-- panels:end -->
 
@@ -444,24 +447,20 @@
 
 <!-- div:left-panel -->
 
-- [0x00000001](https://www.bilibili.com/)
-- [0x00000010](https://mo.fish/)
-- [0x00000011](http://www.mazegenerator.net/)
-- [0x00000100](https://duomoyu.com/)
-- [0x00000101](http://slither.io/)
-- [0x00000110](https://www.anyknew.com/#/)
-- [0x00000111](http://gogoame.sumbioun.com/)
-- [0x00001000](https://flipanim.com/)
-- [0x00001001](https://zty.pe/)
-- [0x00001010](https://aidn.jp/mikutap/)
+- [哔哩哔哩](https://www.bilibili.com/)
+- [鱼塘热榜](https://mo.fish/)
+- [Maze Generator](http://www.mazegenerator.net/)
+- [多摸鱼](https://duomoyu.com/)
+- [贪吃蛇web](http://slither.io/)
+
 
 <!-- div:right-panel -->
 
-- [0x00001011](http://zoomquilt.org/)
-- [0x00001100](https://lab.bangbang93.com/wsyw)
-- [0x00001101](https://lmbtfy.cn/)
-- [0x00001110](https://suulnnka.github.io/BullshitGenerator/index.html)
-- [0x00001111](https://zzkia.noddl.me/)
+- [anyknew](https://www.anyknew.com/#/)
+- [gogoame](http://gogoame.sumbioun.com/)
+- [开始为所欲为](https://lab.bangbang93.com/wsyw)
+- [教你如何百度](https://lmbtfy.cn/)
+- [文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
 
 <!-- panels:end -->
 
@@ -480,7 +479,8 @@
 - [系统架构设计师复习资料](https://github.com/xxlllq/system_architect)
 - [白嫖VIP](https://github.com/anran-world/Anranawsl)
 - [计算机保研交流群:605176069](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
-
+- [雨花阁BT搜索](https://github.com/yuhuage/dizhi)
+- [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 
 
 ---
@@ -499,6 +499,11 @@
 - [中国各二线以上城市的互联网环境以及生活成本](https://github.com/csguide-dabai/Programmer-look-at-China)
 - [LKs哔哩哔哩up主收集的网址](https://xiangjianan.github.io/lks/)
 - [翻墙-科学上网](https://github.com/Alvin9999/new-pac)
+- [科学上网1](https://github.com/xiaoming2028/FreePAC)
+- [科学上网2](https://github.com/yu-steven/openit)
+- [科学上网3](https://github.com/trending/html?since=daily&spoken_language_code=zh)
+- [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
+
 
 ### 关于网站 :id=author
 
