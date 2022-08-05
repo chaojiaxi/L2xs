@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-08-01 09:16:03
+ * @LastEditTime: 2022-08-05 09:03:20
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -86,6 +86,7 @@
 - [分享网视频解析](https://vip.fxw.la/)
 - [小千解析](http://www.nikucms.com/)
 - [下歌吧音乐下载平台](https://music.y444.cn/#/)
+- [抖音/TikTok无水印在线解析](https://douyin.wtf/)
 
 <!-- panels:end -->
 
@@ -276,6 +277,9 @@
 - [阅读3.0](https://github.com/gedoor/legado/releases/tag/3.22.072122)
 - [异次元](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
+- [360驱动大师 2.0.0.1790 纯净绿色单文件](https://www.52pojie.cn/thread-1650151-1-1.html)
+- [某音、某手、某瓜批量解析、主页解析等多款短视频平台去水印工具](https://www.aliyundrive.com/s/woQzc2y3xwP)
+- [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [持续更新......]()
 
 #### **在线素材工具**

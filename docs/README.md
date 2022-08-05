@@ -376,6 +376,8 @@
 - [MySQL权威指南](https://pan.baidu.com/s/1uGow9RNUz5ZpzpOKcJHcqw)
 - [《Node.js 开发指南》]()
 - [《vue.js 实战》]()
+- [《CS 自学指南》](https://csdiy.wiki/)
+- [《影响现代软件架构的经典论文》](https://github.com/davideuler/architecture.of.internet-product)
 
 <!-- div:right-panel -->
 
@@ -403,9 +405,15 @@
 ### 面试技巧
 ---
 
+- [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+- [前端面试3+1](https://github.com/haizlin/fe-interview)
+- [牛客网](https://www.nowcoder.com/)
+- [前端进阶之旅](https://interview2.poetries.top/)
+- [掘金面试宝典](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
+- [前端进阶之道](https://yuchengkai.cn/)
+- [GitHub上100K+Star的前端面试开源项目汇总](https://github.com/biaochenxuying/blog/issues/47)
 - []()
-- []()
-- []()
+
 
 <!-- div:right-panel -->
 
@@ -453,7 +461,6 @@
 - [多摸鱼](https://duomoyu.com/)
 - [贪吃蛇web](http://slither.io/)
 
-
 <!-- div:right-panel -->
 
 - [anyknew](https://www.anyknew.com/#/)
@@ -467,7 +474,7 @@
 
 
 ---
-### 我在鱼塘玩耍......
+### 鱼塘游泳......
 ---
 
 - [五子棋AI](https://github.com/lihongxun945/gobang)
@@ -492,7 +499,9 @@
     </a>
 </p>
 
-不懂分类的资源
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 - [最代码](http://www.zuidaima.com/)
 - [100素材网](http://www.100sucai.com/)
@@ -503,6 +512,20 @@
 - [科学上网2](https://github.com/yu-steven/openit)
 - [科学上网3](https://github.com/trending/html?since=daily&spoken_language_code=zh)
 - [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
+
+<!-- div:right-panel -->
+
+- [翻墙软件VPN推荐](https://github.com/vpncn/vpncn.github.io)
+- [Youtube-油管](https://www.youtube.com)
+- [Netflix-奈飞](https://www.netflix.com)
+- [TikTok-抖音国际版](https://www.tiktok.com/)
+- [Facebook-脸书](http://www.facebook.com)
+- [Twitter-推特](http://www.twitter.com)
+- [Reddit，热门事实社交论坛](https://www.reddit.com)
+- [Quora，知乎就是学的它](https://www.quora.com)
+
+<!-- panels:end -->
+
 
 
 ### 关于网站 :id=author
