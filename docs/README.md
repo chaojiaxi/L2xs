@@ -487,8 +487,9 @@
 - [白嫖VIP](https://github.com/anran-world/Anranawsl)
 - [计算机保研交流群:605176069](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
 - [雨花阁BT搜索](https://github.com/yuhuage/dizhi)
+- [最热种子磁力链接搜索](https://github.com/fwonggh/Bthub)
 - [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-
+- [直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv)
 
 ---
 ### 其他......
@@ -511,6 +512,7 @@
 - [科学上网1](https://github.com/xiaoming2028/FreePAC)
 - [科学上网2](https://github.com/yu-steven/openit)
 - [科学上网3](https://github.com/trending/html?since=daily&spoken_language_code=zh)
+- [科学上网4](https://github.com/Alvin9999/new-pac)
 - [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
 
 <!-- div:right-panel -->
