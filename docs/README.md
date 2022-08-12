@@ -74,21 +74,22 @@
 
 - [CSS Tricks 效果大全 | CSS的各种效果实现](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
 - [CSS Inspiration | CSS灵感的诞生地](https://github.com/chokcoco/CSS-Inspiration)
+- [css灵感](https://csscoco.com/inspiration/#/)
 - [CSS Tricks 常用样式 | 有很多常用的CSS样式](https://github.com/QiShaoXuan/css_tricks)
-- [Animista | CSS动画库](https://animista.net/)
 - [CSS Minifier | 在线CSS代码简化/压缩工具](https://cssminifier.com/)
-- [Sass 中文文档 | CSS扩展语言](https://sass.bootcss.com/documentation)
+- [Sass 中文文档 | CSS扩展语言](https://sass-guidelin.es/zh/)
 - [Less.js 中文文档](https://less.bootcss.com/)
 - [stylus | CSS扩展](https://stylus-lang.com/)
 - [Sass Guidelines](https://sass-guidelin.es/zh/)
 - [CSS3 Generator | 可视化实现](http://css3generator.com/)
+- [Hover.css | hover悬停效果](https://github.com/IanLunn/Hover)
 
 <!-- div:right-panel -->
 
 - [ColorHunt](https://colorhunt.co/)
 - [WebGradients](https://webgradients.com/)
 - [渐变色](https://uigradients.com/#Disco)
-- [css灵感](https://csscoco.com/inspiration/#/)
+- [Animista | CSS动画库](https://animista.net/)
 - [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
 - [Normalize.css | 重置样式](https://necolas.github.io/normalize.css/)
 - [不止于 CSS](https://github.com/chokcoco/iCSS)
@@ -108,6 +109,7 @@
 
 <!-- div:left-panel -->
 
+- [常用js库汇总](https://github.com/MrXujiang/frontend-developer-roadmap)
 - [西瓜播放器 | xgplayer.JS](https://v2.h5player.bytedance.com/)
 - [MuiPlayer](https://muiplayer.js.org/zh/)
 - [slick：几乎实现了所有效果的幻灯轮播图插件库](https://github.com/kenwheeler/slick)
@@ -115,6 +117,16 @@
 - [50天用JavaScript完成50个web项目 | SegmentFault](https://segmentfault.com/a/1190000040481518)
 - [Linux命令大全(手册) – 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)
 - [Markdown 语法速查表 | Markdown 官方教程](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
+- [swiper](https://www.swiper.com.cn/index.html)
+- [slick](https://github.com/kenwheeler/slick)
+- [iSlider | 移动端滑动组件](http://eux.baidu.com/iSlider/demo/index_chinese.html)
+- [layer | layui独立维护的三大组件之一](http://layer.layui.com/)
+- [Anime | 强大的、轻量级的用来制作动画的javascript库](http://animejs.com/)
+- [wow.js | 滚动展示动画](https://github.com/matthieua/WOW)
+- [Chimee | 组件化H5播放器框架](http://chimee.org/)
+- [mescroll.js | H5端运行的下拉刷新和上拉加载插件](http://www.mescroll.com/index.html)
+- [echarts](https://echarts.apache.org/zh/index.html)
+- [three.js](https://threejs.docschina.org/)
 
 <!-- div:right-panel -->
 
@@ -123,7 +135,18 @@
 - [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
 - [elevator.js | 返回顶部过程中像电梯向上运行插件](https://github.com/tholman/elevator.js)
 - [dayjs](https://github.com/iamkun/dayjs)
+- [momentjs]()
 - [pdfjs](http://mozilla.github.io/pdf.js/)
+- [Mockjs | 生成任意随机数据](http://mockjs.com)
+- [Easy Mock](https://github.com/easy-mock/easy-mock)
+- [wangEditor]()
+- [百度UEditor]()
+- [Quill]()
+- [lodash | JavaScript实用工具库](https://www.lodashjs.com/)
+- [JQuery](https://jquery.com/download/)
+- [zepto |  针对现代高级浏览器的JavaScript工具库](https://zeptojs.bootcss.com/)
+- [Axios | 网络请求库](https://www.axios-http.cn/)
+- [Fly.js | 基Promise的请求转发、强大的http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
 
 <!-- panels:end -->
 
@@ -265,6 +288,8 @@
 
 - [Node.js 中文网](http://nodejs.cn/)
 - [Vue.js 中文文档](https://cn.vuejs.org/)
+- [Vuejs.org 新版中文文档](https://staging-cn.vuejs.org/)
+- [Angular 文档](https://angular.cn/)
 - [Express 中文文档](http://expressjs.com/zh-cn/)
 - [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 - [MongoDB 中文文档](https://docs.mongoing.com/)
@@ -275,6 +300,13 @@
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [Bootstrap 中文网](https://www.bootcss.com/)
 - [Moment.js 文档](http://momentjs.cn/docs/)
+- [Vuex 文档](https://vuex.vuejs.org/zh/)
+- [jQuery API 文档](http://hemin.cn/jq/)
+- [Taro 文档](https://taro.jd.com/)
+- [kbone 文档](https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/extended/kbone/)
+- [mpvue 文档](http://mpvue.com/)
+- [uni-app 文档](https://uniapp.dcloud.net.cn/)
+- [Deno 文档](https://manual.deno.js.cn/introduction)
 
 <!-- div:right-panel -->
 
@@ -288,7 +320,17 @@
 - [dicsify](https://docsify.js.org/#/)
 - [dumi | 组件开发场景而生的文档工具](https://d.umijs.org/zh-CN)
 - [Lodash 中文文档](https://www.lodashjs.com/)
-- [layui 文档](https://layui.11dz.cn/)
+- [layui 文档](https://layui.github.io/)
+- [koa 文档](https://koajs.docschina.org/)
+- [Egg.js 文档](https://www.eggjs.org/zh-CN)
+- [next 英文文档](https://docs.nestjs.com/)
+- [v-charts 文档](https://v-charts.js.org/#/)
+- [Ant Design 文档](https://ant.design/index-cn)
+- [Vuetify 文档](https://vuetifyjs.com/zh-Hans/)
+- [View Design 文档](https://www.iviewui.com/)
+- [vue cli 文档](https://cli.vuejs.org/zh/)
+- [koajs 文档](https://koajs.docschina.org/)
+- [nuxtjs 文档](https://nuxtjs.org/)
 
 <!-- panels:end -->
 
@@ -303,6 +345,7 @@
 <!-- div:left-panel -->
 
 - [NPM | 包管理和项目构建工具](https://www.npmjs.com/)
+- [cnpm](https://npmmirror.com/)
 - [webpack | 目构建工具](https://webpack.js.org/)
 - [Yarn | 包管理和构建工具](https://yarnpkg.com/)
 - [Gulp | 构建工具](https://www.gulpjs.com.cn/)
@@ -310,11 +353,11 @@
 - [ESLint | avaScript和JSX检查工具](https://cn.eslint.org/)
 - [Github Page | Github提供的免费静态网站托管服务](https://pages.github.com/)
 - [Netlify | 30秒内部署你的网站](https://www.netlify.com/)
-- [Surge | 一个命令部署你的网站](https://surge.sh/)
-- [eroku | 运动构建 、 运行你的网站和应用](https://www.heroku.com/)
 
 <!-- div:right-panel -->
 
+- [Surge | 一个命令部署你的网站](https://surge.sh/)
+- [eroku | 运动构建 、 运行你的网站和应用](https://www.heroku.com/)
 - [Hexo | Markdown编写生成静态站点](https://hexo.io/zh-cn/)
 - [VuePress | Vue驱动的静态网站生成器](https://www.vuepress.cn/)
 - [GitBook | 现代化的文档平台，支持团队协作](https://www.gitbook.com/)
@@ -372,8 +415,8 @@
 - [《javascript 权威指南》第7版（中英对照)](https://js.2019919.xyz/)
 - [《HTTP 权威指南》]()
 - [《MongoDB 权威指南》]()
-- [MongoDB实战](https://pan.baidu.com/share/init?surl=z81kDxzBUphuvmC-bOleZA)
-- [MySQL权威指南](https://pan.baidu.com/s/1uGow9RNUz5ZpzpOKcJHcqw)
+- [《MongoDB实战》](https://pan.baidu.com/share/init?surl=z81kDxzBUphuvmC-bOleZA)
+- [《MySQL权威指南》](https://pan.baidu.com/s/1uGow9RNUz5ZpzpOKcJHcqw)
 - [《Node.js 开发指南》]()
 - [《vue.js 实战》]()
 - [《CS 自学指南》](https://csdiy.wiki/)
@@ -392,6 +435,10 @@
 - [牛客网](www.nowcoder.com)
 - [网易公开课](https://open.163.com/)
 - [Coursera](https://www.coursera.org/)
+- [慕课网](https://www.imooc.com/)
+- [腾讯课堂](https://ke.qq.com/)
+- [开课吧](https://www.kaikeba.com/)
+- [666资源站](https://666java.com/)
 
 <!-- panels:end -->
 

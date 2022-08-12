@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-08-05 09:03:20
+ * @LastEditTime: 2022-08-09 09:24:53
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -279,6 +279,8 @@
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
 - [360驱动大师 2.0.0.1790 纯净绿色单文件](https://www.52pojie.cn/thread-1650151-1-1.html)
 - [某音、某手、某瓜批量解析、主页解析等多款短视频平台去水印工具](https://www.aliyundrive.com/s/woQzc2y3xwP)
+- [抖音视频下载](https://www.52pojie.cn/thread-1668793-1-1.html)
+- [抖音下载工具(flutter全平台)](https://www.52pojie.cn/thread-1663615-1-1.html)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [持续更新......]()
 
