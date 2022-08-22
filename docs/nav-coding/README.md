@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-08-09 09:24:53
+ * @LastEditTime: 2022-08-15 09:27:02
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -75,6 +75,7 @@
 - [麻花电影](https://www.mhyyy.com/)
 - [厂长资源](https://www.czspp.com/)
 - [人人影视](https://m.rr.tv/)
+- [人人影视分享站](https://github.com/tgbot-collection/YYeTsBot)
 - [大师兄影视](https://tv.ci/)
 - [腾讯视频](https://v.qq.com/)
 - [爱奇艺](https://www.iqiyi.com/)
@@ -280,6 +281,7 @@
 - [360驱动大师 2.0.0.1790 纯净绿色单文件](https://www.52pojie.cn/thread-1650151-1-1.html)
 - [某音、某手、某瓜批量解析、主页解析等多款短视频平台去水印工具](https://www.aliyundrive.com/s/woQzc2y3xwP)
 - [抖音视频下载](https://www.52pojie.cn/thread-1668793-1-1.html)
+- [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 - [抖音下载工具(flutter全平台)](https://www.52pojie.cn/thread-1663615-1-1.html)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [持续更新......]()

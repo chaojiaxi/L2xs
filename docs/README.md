@@ -16,7 +16,7 @@
 
 <p align="center">
   <h2 align="center">座右铭：知识无价，产物有价。</h2>
-  <h2 align="center">现阶段困惑：遇到大问题无法解决问题，只会逃避问题!!!!!</h2>
+  <h2 align="center">现阶段感想：遇到问题要敢于尝试解决问题（关键问题请上Google），而不是要逃避问题!!!!!</h2>
 </p>
 
 
@@ -171,6 +171,7 @@
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
 - [高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
 - [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
+- [高颜值的第三方网易云播放器 Electron版](https://github.com/qier222/YesPlayMusic)
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
 - [哔哩哔哩-API](https://github.com/SocialSisterYi/bilibili-API-collect)
 - [学之思 | 来源考试系统](https://www.mindskip.net:888/)
@@ -196,7 +197,7 @@
 - [隔离食用手册大全](https://github.com/YunYouJun/cook)
 - [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
 - [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
-- [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
+- [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 
 <!-- panels:end -->
 
@@ -421,6 +422,7 @@
 - [《vue.js 实战》]()
 - [《CS 自学指南》](https://csdiy.wiki/)
 - [《影响现代软件架构的经典论文》](https://github.com/davideuler/architecture.of.internet-product)
+- [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 
 <!-- div:right-panel -->
 
@@ -459,7 +461,7 @@
 - [掘金面试宝典](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
 - [前端进阶之道](https://yuchengkai.cn/)
 - [GitHub上100K+Star的前端面试开源项目汇总](https://github.com/biaochenxuying/blog/issues/47)
-- []()
+- [总结前端面试中经典的vue相关题目](https://github.com/57code/vue-interview)
 
 
 <!-- div:right-panel -->
@@ -534,6 +536,7 @@
 - [白嫖VIP](https://github.com/anran-world/Anranawsl)
 - [计算机保研交流群:605176069](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
 - [雨花阁BT搜索](https://github.com/yuhuage/dizhi)
+- [香色闺阁源 | ](https://github.com/zqzess/MyWebStorage)
 - [最热种子磁力链接搜索](https://github.com/fwonggh/Bthub)
 - [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv)
@@ -553,17 +556,20 @@
 
 - [最代码](http://www.zuidaima.com/)
 - [100素材网](http://www.100sucai.com/)
-- [中国各二线以上城市的互联网环境以及生活成本](https://github.com/csguide-dabai/Programmer-look-at-China)
 - [LKs哔哩哔哩up主收集的网址](https://xiangjianan.github.io/lks/)
 - [翻墙-科学上网](https://github.com/Alvin9999/new-pac)
 - [科学上网1](https://github.com/xiaoming2028/FreePAC)
 - [科学上网2](https://github.com/yu-steven/openit)
 - [科学上网3](https://github.com/trending/html?since=daily&spoken_language_code=zh)
 - [科学上网4](https://github.com/Alvin9999/new-pac)
-- [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
+- [科学上网5](https://github.com/alanbobs999/TopFreeProxies)
+- [Clash For Windows 汉化补丁和汉化脚本](https://github.com/BoyceLig/Clash_Chinese_Patch)
+- [clash for windows汉化版，提供clash for windows的汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 
 <!-- div:right-panel -->
 
+- [中国各二线以上城市的互联网环境以及生活成本](https://github.com/csguide-dabai/Programmer-look-at-China)
+- [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
 - [翻墙软件VPN推荐](https://github.com/vpncn/vpncn.github.io)
 - [Youtube-油管](https://www.youtube.com)
 - [Netflix-奈飞](https://www.netflix.com)
