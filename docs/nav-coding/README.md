@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-08-15 09:27:02
+ * @LastEditTime: 2022-09-01 09:31:42
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -115,6 +115,7 @@
 - [反斗软件](http://www.apprcn.com/)
 - [423DOWN](https://www.423down.com/)
 - [黑域基地](https://www.hybase.com/)
+- [分享蓝同学收集的软件资源、使用心得](https://github.com/lanbao2021/share)
 
 <!-- div:right-panel -->
 
@@ -134,6 +135,7 @@
 - [精品MAC应用分享](https://xclient.info/)
 - [马可菠萝](https://www.macbl.com/)
 - [Mac毒](https://www.macdo.cn/)
+- [Mac微信功能拓展/微信插件/微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
 
 <!-- panels:end -->
 

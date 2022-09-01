@@ -189,6 +189,7 @@
 - [godocms 一套开源办公套件](https://github.com/godocms/godocms)
 - [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 - [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
+- [Aurora---前后端分离博客](https://github.com/linhaojun857/aurora-public)
 - [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 - [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 - [解决 GitHub 访问速度慢](https://github.com/521xueweihan/GitHub520)
@@ -200,6 +201,20 @@
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 
 <!-- panels:end -->
+
+
+---
+### 谷歌插件
+---
+
+- [文章同步助手](https://github.com/wechatsync/Wechatsync)
+- [Tampermonkey 油猴脚本](https://www.tampermonkey.net/)
+- [Abcd PDF](https://chrome.zzzmh.cn/info/mcgnagemenncafhpabimmooimpngdcpn)
+- [Adblock Plus 广告拦截](https://chrome.zzzmh.cn/info/cfhdojbkjhnklbpkdaibdccddilifddb)
+- [Vue Devtools](https://chrome.zzzmh.cn/info/nhdogjmejiglipccpnnnanhbledajbpd)
+- [哔哩哔哩助手_bilibili helper](https://chrome.zzzmh.cn/info/kpbnombpnpcffllnianjibmpadjolanh)
+- [Github 加速器](https://chrome.zzzmh.cn/info/mfnkflidjnladnkldfonnaicljppahpg)
+- [SuperCopy 超级复制](https://chrome.zzzmh.cn/info/onepmapfbjohnegdmfhndpefjkppbjkm)
 
 
 
