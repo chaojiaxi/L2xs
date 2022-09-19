@@ -554,7 +554,9 @@
 - [香色闺阁源 | ](https://github.com/zqzess/MyWebStorage)
 - [最热种子磁力链接搜索](https://github.com/fwonggh/Bthub)
 - [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+- [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 - [直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv)
+- [获取58个直播平台的真实流媒体地址](https://github.com/wbt5/real-url)
 
 ---
 ### 其他......
