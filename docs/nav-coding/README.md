@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-09-01 09:31:42
+ * @LastEditTime: 2022-10-08 08:41:19
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -286,6 +286,7 @@
 - [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 - [抖音下载工具(flutter全平台)](https://www.52pojie.cn/thread-1663615-1-1.html)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
+- [XMusicDownloader音乐下载](https://github.com/jadepeng/XMusicDownloader)
 - [持续更新......]()
 
 #### **在线素材工具**

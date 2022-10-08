@@ -179,6 +179,7 @@
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
 - [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
 - [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
+- [掘金定时签到任务](https://github.com/hccluck/public_actions)
 
 <!-- div:right-panel -->
 
@@ -199,6 +200,7 @@
 - [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
 - [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
+- [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
 
 <!-- panels:end -->
 
