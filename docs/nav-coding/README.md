@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-10-08 08:41:19
+ * @LastEditTime: 2022-10-31 10:04:28
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -274,7 +274,11 @@
 - [ip地址归属地查询_可单次查询、可批量查询](https://www.52pojie.cn/thread-1637698-1-4.html)
 - [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
-- [天若OCR文字识别]()
+- [天若OCR文字识别](https://www.52pojie.cn/thread-1668148-1-1.html)
+- [百度文库下载](https://www.52pojie.cn/thread-1690024-1-1.html)
+- [快手视频下载，指定作者批量下载无水印](https://www.52pojie.cn/thread-1668148-1-1.html)
+- [西瓜视频，无水印视频解析](https://www.52pojie.cn/thread-1700553-1-1.html)
+- [抖音批量下载作者所有视频](https://www.52pojie.cn/thread-1634311-1-1.html)
 - [File Converter | 文件格式转换软件](https://file-converter.org/)
 - [PDFPatcher | PDF处理工具](https://github.com/wmjordan/PDFPatcher)
 - [阅读3.0](https://github.com/gedoor/legado/releases/tag/3.22.072122)

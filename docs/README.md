@@ -48,6 +48,7 @@
 - [TypeScript 教程 |  最好的TypeScript 视频+图文教程](https://jspang.com/detailed?id=63)
 - [50projects50days | 50 个采用 HTML+CSS+JS 的前端小项目](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
+- [为开发人员分享快速参考备忘单](https://github.com/jaywcjlove/reference)
 
 <!-- div:right-panel -->
 
@@ -180,16 +181,20 @@
 - [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
 - [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
 - [掘金定时签到任务](https://github.com/hccluck/public_actions)
+- [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
+- [大前端技术](https://github.com/biaochenxuying/blog)
+- [微信聊天记录持久化备份本地硬盘](https://github.com/greycodee/wechat-backup)
 
 <!-- div:right-panel -->
 
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
 - [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
 - [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
 - [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
 - [godocms 一套开源办公套件](https://github.com/godocms/godocms)
-- [Awesome GitHub Repo | 高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 - [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
+- [RuoYi官方仓库-基于SpringBoot的权限管理系统](https://github.com/yangzongzhuan/RuoYi)
 - [Aurora---前后端分离博客](https://github.com/linhaojun857/aurora-public)
 - [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 - [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
@@ -201,7 +206,7 @@
 - [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 - [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
-
+- [一个用来深入学习并实战 Spring Boot 的项目](https://github.com/xkcoding/spring-boot-demo)
 <!-- panels:end -->
 
 
@@ -230,6 +235,7 @@
 
 - [JavaScript 算法与数据结构](http://github.com/trekhleb/javascript-algorithms)
 - [leetcode 解题之路 | 私藏LeetCode解题攻略 ](https://github.com/azl397985856/leetcode)
+- [《代码随想录》LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
 - [五分钟学算法 | 每天拿出五分钟](https://github.com/MisterBooo/LeetCodeAnimation)
 - [数据结构与算法项目推荐](https://github.com/biaochenxuying/blog/issues/43)
 - [JavaScript经典排序算法 | 必会题目](https://github.com/biaochenxuying/blog/issues/42)
@@ -396,16 +402,17 @@
 <!-- div:left-panel -->
 
 - [VSCode](https://code.visualstudio.com/)
+- [JetBrains Fleet](https://www.jetbrains.com/zh-cn/fleet/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [WebStom](https://www.jetbrains.com/webstorm/)
 - [Atom](https://atom.io/)
 - [Typora](https://www.typora.io/)
 - [Idea-Intellij IDEA]()
 - [PyCharm]()
-- [MyEcplise]()
 
 <!-- div:right-panel -->
 
+- [MyEcplise]()
 - [Xcode]()
 - [SecureCRT | SSH终端仿真程序]()
 - [Termius | 全平台的远程终端]()
@@ -425,6 +432,8 @@
 ### 书籍推荐
 ---
 
+- [认知觉醒：开启自我改变的原动力]()
+- [认知驱动：做成一件对他人有用的事]()
 - [计算机电子书免费下载](https://github.com/itdevbooks/pdf)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [《javascript 高级程序设计-第四版》]()
@@ -479,6 +488,7 @@
 - [前端进阶之道](https://yuchengkai.cn/)
 - [GitHub上100K+Star的前端面试开源项目汇总](https://github.com/biaochenxuying/blog/issues/47)
 - [总结前端面试中经典的vue相关题目](https://github.com/57code/vue-interview)
+- [各大银行的基本介绍和笔试面试](https://github.com/MikeCreken/lanlanInterview)
 
 
 <!-- div:right-panel -->
