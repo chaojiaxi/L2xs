@@ -184,6 +184,7 @@
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [大前端技术](https://github.com/biaochenxuying/blog)
 - [微信聊天记录持久化备份本地硬盘](https://github.com/greycodee/wechat-backup)
+- [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region)
 
 <!-- div:right-panel -->
 
@@ -207,6 +208,9 @@
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 - [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
 - [一个用来深入学习并实战 Spring Boot 的项目](https://github.com/xkcoding/spring-boot-demo)
+- [微信公众号管理系统](https://github.com/niefy/wx-manage)
+- [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
+- [冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
 <!-- panels:end -->
 
 
@@ -222,7 +226,7 @@
 - [哔哩哔哩助手_bilibili helper](https://chrome.zzzmh.cn/info/kpbnombpnpcffllnianjibmpadjolanh)
 - [Github 加速器](https://chrome.zzzmh.cn/info/mfnkflidjnladnkldfonnaicljppahpg)
 - [SuperCopy 超级复制](https://chrome.zzzmh.cn/info/onepmapfbjohnegdmfhndpefjkppbjkm)
-
+- [一款完全被动监听的谷歌插件](https://github.com/graynjo/Heimdallr)
 
 
 <!-- panels:start -->
@@ -467,6 +471,7 @@
 - [腾讯课堂](https://ke.qq.com/)
 - [开课吧](https://www.kaikeba.com/)
 - [666资源站](https://666java.com/)
+- [自用资源](https://github.com/heroaku/TVboxo)
 
 <!-- panels:end -->
 
@@ -489,7 +494,7 @@
 - [GitHub上100K+Star的前端面试开源项目汇总](https://github.com/biaochenxuying/blog/issues/47)
 - [总结前端面试中经典的vue相关题目](https://github.com/57code/vue-interview)
 - [各大银行的基本介绍和笔试面试](https://github.com/MikeCreken/lanlanInterview)
-
+- [你想知道的前端内容都在这](https://github.com/KieSun/all-of-frontend)
 
 <!-- div:right-panel -->
 
