@@ -211,8 +211,14 @@
 - [微信公众号管理系统](https://github.com/niefy/wx-manage)
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
 - [冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
+- [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
+
 <!-- panels:end -->
 
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 ---
 ### 谷歌插件
@@ -227,6 +233,22 @@
 - [Github 加速器](https://chrome.zzzmh.cn/info/mfnkflidjnladnkldfonnaicljppahpg)
 - [SuperCopy 超级复制](https://chrome.zzzmh.cn/info/onepmapfbjohnegdmfhndpefjkppbjkm)
 - [一款完全被动监听的谷歌插件](https://github.com/graynjo/Heimdallr)
+- [Zotero translator中文网页学术抓取插件](https://github.com/l0o0/translators_CN)
+
+<!-- div:right-panel -->
+
+---
+### 爬虫技术
+---
+
+- [新浪微博爬虫，用python爬取新浪微博数据](https://github.com/dataabc/weiboSpider)
+- [一些非常有趣的python爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
+- [funNLP](https://github.com/fighting41love/funNLP)
+- [AI 写小说](https://github.com/BlinkDL/AI-Writer)
+- [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
+
+<!-- panels:end -->
+
 
 
 <!-- panels:start -->
