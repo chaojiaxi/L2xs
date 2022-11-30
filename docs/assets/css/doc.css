@@ -1,6 +1,6 @@
 /*  */
 section.cover {
-    min-height: 500px !important;
+    height: 100vh !important;
 }
 
 footer {

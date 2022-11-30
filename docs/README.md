@@ -621,6 +621,7 @@
 - [科学上网5](https://github.com/alanbobs999/TopFreeProxies)
 - [Clash For Windows 汉化补丁和汉化脚本](https://github.com/BoyceLig/Clash_Chinese_Patch)
 - [clash for windows汉化版，提供clash for windows的汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+- [得意黑字体](https://github.com/atelier-anchor/smiley-sans)
 
 <!-- div:right-panel -->
 
