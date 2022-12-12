@@ -152,7 +152,6 @@
 <!-- panels:end -->
 
 
-
 ---
 ### 开源项目合集
 ---
@@ -174,21 +173,18 @@
 - [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [高颜值的第三方网易云播放器 Electron版](https://github.com/qier222/YesPlayMusic)
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
-- [哔哩哔哩-API](https://github.com/SocialSisterYi/bilibili-API-collect)
 - [学之思 | 来源考试系统](https://www.mindskip.net:888/)
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
 - [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
 - [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
-- [掘金定时签到任务](https://github.com/hccluck/public_actions)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
-- [大前端技术](https://github.com/biaochenxuying/blog)
-- [微信聊天记录持久化备份本地硬盘](https://github.com/greycodee/wechat-backup)
-- [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region)
+- [客户关系管理系统](https://github.com/zchengo/crm)
 
 <!-- div:right-panel -->
 
-- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [大前端技术](https://github.com/biaochenxuying/blog)
+- [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region)
 - [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
 - [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
 - [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
@@ -197,23 +193,33 @@
 - [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
 - [RuoYi官方仓库-基于SpringBoot的权限管理系统](https://github.com/yangzongzhuan/RuoYi)
 - [Aurora---前后端分离博客](https://github.com/linhaojun857/aurora-public)
-- [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
-- [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-- [解决 GitHub 访问速度慢](https://github.com/521xueweihan/GitHub520)
-- [github加速神器](https://github.com/dotnetcore/FastGithub)
 - [简单图床](https://github.com/icret/EasyImages2.0)
 - [隔离食用手册大全](https://github.com/YunYouJun/cook)
 - [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
-- [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
-- [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
 - [一个用来深入学习并实战 Spring Boot 的项目](https://github.com/xkcoding/spring-boot-demo)
-- [微信公众号管理系统](https://github.com/niefy/wx-manage)
-- [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
 - [冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
 - [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
+- [一款简洁高效的VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
 <!-- panels:end -->
+
+
+---
+### 关于微信小程序
+---
+
+- [微信聊天记录持久化备份本地硬盘](https://github.com/greycodee/wechat-backup)
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
+- [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
+- [微信公众号管理系统](https://github.com/niefy/wx-manage)
+- [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
+- [个人微信化身GPT机器人](https://github.com/869413421/wechatbot)
+- [ChatGPT化身QQ机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
+- [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
+- [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
+- [一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
 
 
 <!-- panels:start -->
@@ -246,6 +252,14 @@
 - [funNLP](https://github.com/fighting41love/funNLP)
 - [AI 写小说](https://github.com/BlinkDL/AI-Writer)
 - [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
+- [GitHub，解决访问时图裂、加载慢的问题](https://github.com/521xueweihan/GitHub520)
+- [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+- [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+- [github加速神器](https://github.com/dotnetcore/FastGithub)
+- [哔哩哔哩-API](https://github.com/SocialSisterYi/bilibili-API-collect)
+- [掘金定时签到任务](https://github.com/hccluck/public_actions)
+- [团子翻译器 - 基于OCR的生肉翻译软件](https://github.com/PantsuDango/Dango-Translator)
+- [新版B站粉丝牌助手 全自动升级粉丝牌](https://github.com/XiaoMiku01/fansMedalHelper)
 
 <!-- panels:end -->
 
@@ -619,6 +633,7 @@
 - [科学上网3](https://github.com/trending/html?since=daily&spoken_language_code=zh)
 - [科学上网4](https://github.com/Alvin9999/new-pac)
 - [科学上网5](https://github.com/alanbobs999/TopFreeProxies)
+- [每日分享免费节点](https://github.com/abshare/abshare.github.io)
 - [Clash For Windows 汉化补丁和汉化脚本](https://github.com/BoyceLig/Clash_Chinese_Patch)
 - [clash for windows汉化版，提供clash for windows的汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 - [得意黑字体](https://github.com/atelier-anchor/smiley-sans)
