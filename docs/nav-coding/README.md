@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2022-10-31 10:04:28
+ * @LastEditTime: 2023-01-03 09:34:43
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -282,6 +282,7 @@
 - [File Converter | 文件格式转换软件](https://file-converter.org/)
 - [PDFPatcher | PDF处理工具](https://github.com/wmjordan/PDFPatcher)
 - [阅读3.0](https://github.com/gedoor/legado/releases/tag/3.22.072122)
+- [阅读APP书源](https://github.com/aoaostar/legado)
 - [异次元](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
 - [360驱动大师 2.0.0.1790 纯净绿色单文件](https://www.52pojie.cn/thread-1650151-1-1.html)
@@ -291,6 +292,10 @@
 - [抖音下载工具(flutter全平台)](https://www.52pojie.cn/thread-1663615-1-1.html)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader音乐下载](https://github.com/jadepeng/XMusicDownloader)
+- [jellyfin-优秀的本地媒体库管理工具](jellyfin：优秀的本地媒体库管理工具)
+- [Umi-OCR-基于PaddleOCR的OCR图片转文字识别软件](https://github.com/hiroi-sora/Umi-OCR)
+- [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
+- [在Windows上统计软件使用时长](https://github.com/Planshit/Tai)
 - [持续更新......]()
 
 #### **在线素材工具**

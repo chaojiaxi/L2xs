@@ -17,6 +17,7 @@
 <p align="center">
   <h2 align="center">座右铭：知识无价，产物有价。</h2>
   <h2 align="center">现阶段感想：遇到问题要敢于尝试解决问题（关键问题请上Google），而不是要逃避问题!!!!!</h2>
+  <h2 align="center">多看看别人的源码，学习别人的逻辑思维，真的很受用!!!</h2>
 </p>
 
 
@@ -49,6 +50,7 @@
 - [50projects50days | 50 个采用 HTML+CSS+JS 的前端小项目](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
 - [为开发人员分享快速参考备忘单](https://github.com/jaywcjlove/reference)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -75,28 +77,28 @@
 
 - [CSS Tricks 效果大全 | CSS的各种效果实现](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
 - [CSS Inspiration | CSS灵感的诞生地](https://github.com/chokcoco/CSS-Inspiration)
-- [css灵感](https://csscoco.com/inspiration/#/)
 - [CSS Tricks 常用样式 | 有很多常用的CSS样式](https://github.com/QiShaoXuan/css_tricks)
+- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
 - [CSS Minifier | 在线CSS代码简化/压缩工具](https://cssminifier.com/)
-- [Sass 中文文档 | CSS扩展语言](https://sass-guidelin.es/zh/)
-- [Less.js 中文文档](https://less.bootcss.com/)
-- [stylus | CSS扩展](https://stylus-lang.com/)
+- [css灵感](https://csscoco.com/inspiration/#/)
+- [不止于 CSS](https://github.com/chokcoco/iCSS)
+- [simple-icons | 免费SVG图标库](https://github.com/simple-icons/simple-icons)
+- [SpinKit | 纯 CSS 实现加载动画的项目](https://github.com/tobiasahlin/SpinKit)
 - [Sass Guidelines](https://sass-guidelin.es/zh/)
 - [CSS3 Generator | 可视化实现](http://css3generator.com/)
-- [Hover.css | hover悬停效果](https://github.com/IanLunn/Hover)
 
 <!-- div:right-panel -->
 
+- [Sass 中文文档 | CSS扩展语言](https://sass-guidelin.es/zh/)
+- [Less.js 中文文档](https://less.bootcss.com/)
+- [stylus | CSS扩展](https://stylus-lang.com/)
 - [ColorHunt](https://colorhunt.co/)
 - [WebGradients](https://webgradients.com/)
 - [渐变色](https://uigradients.com/#Disco)
 - [Animista | CSS动画库](https://animista.net/)
-- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
+- [Hover.css | hover悬停效果](https://github.com/IanLunn/Hover)
 - [Normalize.css | 重置样式](https://necolas.github.io/normalize.css/)
-- [不止于 CSS](https://github.com/chokcoco/iCSS)
-- [simple-icons | 免费SVG图标库](https://github.com/simple-icons/simple-icons)
-- [SpinKit | 纯 CSS 实现加载动画的项目](https://github.com/tobiasahlin/SpinKit)
-- [更多更新]()
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -148,6 +150,7 @@
 - [zepto |  针对现代高级浏览器的JavaScript工具库](https://zeptojs.bootcss.com/)
 - [Axios | 网络请求库](https://www.axios-http.cn/)
 - [Fly.js | 基Promise的请求转发、强大的http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -201,6 +204,7 @@
 - [冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
 - [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
 - [一款简洁高效的VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -220,6 +224,8 @@
 - [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
 - [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
 - [一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
+- [关于公众号推送](https://github.com/hzbnb/wx-push)
+- 内容持续更新
 
 
 <!-- panels:start -->
@@ -240,6 +246,9 @@
 - [SuperCopy 超级复制](https://chrome.zzzmh.cn/info/onepmapfbjohnegdmfhndpefjkppbjkm)
 - [一款完全被动监听的谷歌插件](https://github.com/graynjo/Heimdallr)
 - [Zotero translator中文网页学术抓取插件](https://github.com/l0o0/translators_CN)
+- [猫抓 chrome资源嗅探扩展](https://github.com/xifangczy/cat-catch)
+- [收集B站时更加方便的浏览器扩展](https://github.com/HCLonely/awesome-bilibili-extra)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -260,6 +269,8 @@
 - [掘金定时签到任务](https://github.com/hccluck/public_actions)
 - [团子翻译器 - 基于OCR的生肉翻译软件](https://github.com/PantsuDango/Dango-Translator)
 - [新版B站粉丝牌助手 全自动升级粉丝牌](https://github.com/XiaoMiku01/fansMedalHelper)
+- [分享GitHub有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -284,6 +295,8 @@
 - [算法的工作方式 | 可视化](https://github.com/skidding/illustrated-algorithms)
 - [九章算法](ttps://www.jiuzhang.com/)
 - [LeetCode官网](https://leetcode-cn.com/)
+- [集锦前端JavaScript编程题](https://github.com/Sunny-117/js-challenges)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -303,6 +316,7 @@
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
 - [千古前端图文教程](https://github.com/qianguyihao/web)
 - [vue-cli脚手架学习vue核心知识](https://github.com/trending/vue?since=daily&spoken_language_code=zh)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -337,6 +351,7 @@
 - [nodejs技术社区](https://cnodejs.org/)
 - [前端精读周刊](https://github.com/ascoders/weekly)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -395,6 +410,7 @@
 - [vue cli 文档](https://cli.vuejs.org/zh/)
 - [koajs 文档](https://koajs.docschina.org/)
 - [nuxtjs 文档](https://nuxtjs.org/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -428,6 +444,7 @@
 - [Whistle | 代理抓包工具](https://wproxy.org/whistle/)
 - [Fiddler | 抓包工具](https://www.telerik.com/fiddler)
 - [TEXT文本美化工具](http://www.txttool.com/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -459,6 +476,7 @@
 - [iTerm]()
 - [Postman]()
 - [Postman汉化中文版](https://github.com/hlmd/Postman-cn)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -489,6 +507,7 @@
 - [《CS 自学指南》](https://csdiy.wiki/)
 - [《影响现代软件架构的经典论文》](https://github.com/davideuler/architecture.of.internet-product)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -508,6 +527,7 @@
 - [开课吧](https://www.kaikeba.com/)
 - [666资源站](https://666java.com/)
 - [自用资源](https://github.com/heroaku/TVboxo)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -531,6 +551,7 @@
 - [总结前端面试中经典的vue相关题目](https://github.com/57code/vue-interview)
 - [各大银行的基本介绍和笔试面试](https://github.com/MikeCreken/lanlanInterview)
 - [你想知道的前端内容都在这](https://github.com/KieSun/all-of-frontend)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -585,6 +606,7 @@
 - [开始为所欲为](https://lab.bangbang93.com/wsyw)
 - [教你如何百度](https://lmbtfy.cn/)
 - [文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -610,6 +632,7 @@
 - [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 - [直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv)
 - [获取58个直播平台的真实流媒体地址](https://github.com/wbt5/real-url)
+- 内容持续更新
 
 ---
 ### 其他......
@@ -650,6 +673,7 @@
 - [Twitter-推特](http://www.twitter.com)
 - [Reddit，热门事实社交论坛](https://www.reddit.com)
 - [Quora，知乎就是学的它](https://www.quora.com)
+- 内容持续更新
 
 <!-- panels:end -->
 
