@@ -16,7 +16,7 @@
 
 <p align="center">
   <h2 align="center">座右铭：知识无价，产物有价。</h2>
-  <h2 align="center">现阶段感想：遇到问题要敢于尝试解决问题（关键问题请上Google），而不是要逃避问题!!!!!</h2>
+  <h2 align="center">遇到问题要敢于尝试解决问题（关键问题请上Google）</h2>
   <h2 align="center">多看看别人的源码，学习别人的逻辑思维，真的很受用!!!</h2>
 </p>
 
@@ -26,9 +26,9 @@
 ---
 
 > [!note]
-> 本网站取名 **磊磊闲说**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源。
+> 本网站取名 **五伏高压**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源导航。
 > 方便自己也方便他人。网站内容会保持**持续更新**，欢迎各位收藏、点赞！
-> 关注B站账号[五伏高压电](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
+> 关注B站账号[五伏高压](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
 
 
 <!-- panels:start -->
@@ -46,7 +46,6 @@
 - [Node.js学习指南 | 系统的Node.js学习教程和笔记系统整理](https://blog.poetries.top/node-learning-notes/)
 - [JS 代码规范 | 优秀的 JS代码规范](https://github.com/ryanmcdermott/clean-code-javascript)
 - [TypeScript 教程 | 通俗易懂的TypeScript教程](https://github.com/xcatliu/typescript-tutorial)
-- [TypeScript 教程 |  最好的TypeScript 视频+图文教程](https://jspang.com/detailed?id=63)
 - [50projects50days | 50 个采用 HTML+CSS+JS 的前端小项目](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
 - [为开发人员分享快速参考备忘单](https://github.com/jaywcjlove/reference)
@@ -84,7 +83,7 @@
 - [不止于 CSS](https://github.com/chokcoco/iCSS)
 - [simple-icons | 免费SVG图标库](https://github.com/simple-icons/simple-icons)
 - [SpinKit | 纯 CSS 实现加载动画的项目](https://github.com/tobiasahlin/SpinKit)
-- [Sass Guidelines](https://sass-guidelin.es/zh/)
+- [Sass Guidelines | 编写代码的通用准则](https://sass-guidelin.es/zh/)
 - [CSS3 Generator | 可视化实现](http://css3generator.com/)
 
 <!-- div:right-panel -->
@@ -92,9 +91,9 @@
 - [Sass 中文文档 | CSS扩展语言](https://sass-guidelin.es/zh/)
 - [Less.js 中文文档](https://less.bootcss.com/)
 - [stylus | CSS扩展](https://stylus-lang.com/)
-- [ColorHunt](https://colorhunt.co/)
-- [WebGradients](https://webgradients.com/)
-- [渐变色](https://uigradients.com/#Disco)
+- [ColorHunt | 渐变色](https://colorhunt.co/)
+- [WebGradients | 好看的渐变色](https://webgradients.com/)
+- [渐变色 | uigradients](https://uigradients.com/#Disco)
 - [Animista | CSS动画库](https://animista.net/)
 - [Hover.css | hover悬停效果](https://github.com/IanLunn/Hover)
 - [Normalize.css | 重置样式](https://necolas.github.io/normalize.css/)
@@ -114,39 +113,42 @@
 
 - [常用js库汇总](https://github.com/MrXujiang/frontend-developer-roadmap)
 - [西瓜播放器 | xgplayer.JS](https://v2.h5player.bytedance.com/)
-- [MuiPlayer](https://muiplayer.js.org/zh/)
+- [MuiPlayer | HTML5视媒体播放](https://muiplayer.js.org/zh/)
+- [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
+- [Chimee | 组件化H5播放器框架](http://chimee.org/)
 - [slick：几乎实现了所有效果的幻灯轮播图插件库](https://github.com/kenwheeler/slick)
 - [videoUI: HTML5 Videojs](https://gitee.com/cnbrucelee/videoUI)
 - [50天用JavaScript完成50个web项目 | SegmentFault](https://segmentfault.com/a/1190000040481518)
 - [Linux命令大全(手册) – 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)
 - [Markdown 语法速查表 | Markdown 官方教程](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
-- [swiper](https://www.swiper.com.cn/index.html)
-- [slick](https://github.com/kenwheeler/slick)
+- [swiper | 滑动插件](https://www.swiper.com.cn/index.html)
+- [slick | 轮播图](https://github.com/kenwheeler/slick)
 - [iSlider | 移动端滑动组件](http://eux.baidu.com/iSlider/demo/index_chinese.html)
-- [layer | layui独立维护的三大组件之一](http://layer.layui.com/)
+- [layer | layui独立维护的三大组件之一](https://layui.11dz.cn/)
 - [Anime | 强大的、轻量级的用来制作动画的javascript库](http://animejs.com/)
 - [wow.js | 滚动展示动画](https://github.com/matthieua/WOW)
-- [Chimee | 组件化H5播放器框架](http://chimee.org/)
 - [mescroll.js | H5端运行的下拉刷新和上拉加载插件](http://www.mescroll.com/index.html)
-- [echarts](https://echarts.apache.org/zh/index.html)
-- [three.js](https://threejs.docschina.org/)
+- [echarts | JavaScript开源可视化图标库](https://echarts.apache.org/zh/index.html)
+
 
 <!-- div:right-panel -->
 
+- [WTF Ethers.js极简入门](https://github.com/WTFAcademy/WTF-Ethers)
+- [three.js| 中文文档](https://threejs.docschina.org/)
 - [HTTP状态码详解](https://tool.oschina.net/commons?type=5)
-- [makeapie - 众多echarts案例](https://www.makeapie.com/explore.html)
-- [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
+- [Made A Pie | 众多echarts案例](https://madeapie.com/#/)
 - [elevator.js | 返回顶部过程中像电梯向上运行插件](https://github.com/tholman/elevator.js)
-- [dayjs](https://github.com/iamkun/dayjs)
-- [momentjs]()
-- [pdfjs](http://mozilla.github.io/pdf.js/)
+- [dayjs | 极简的JavaScript库](https://dayjs.fenxianglu.cn/)
+- [momentjs | JavaScript日期处理类库](http://momentjs.cn/docs/)
+- [pdfjs | PDF查看](http://mozilla.github.io/pdf.js/)
 - [Mockjs | 生成任意随机数据](http://mockjs.com)
 - [Easy Mock](https://github.com/easy-mock/easy-mock)
-- [wangEditor]()
-- [百度UEditor]()
-- [Quill]()
+- [wangEditor | 编译器](https://www.wangeditor.com/)
+- [百度UEditor | 编译器](https://github.com/fex-team/ueditor)
+- [Quill | 中文文档](https://www.kancloud.cn/liuwave/quill/1409423)
+- [TinyMCE | 富文本编译器](http://tinymce.ax-z.cn/)
 - [lodash | JavaScript实用工具库](https://www.lodashjs.com/)
-- [JQuery](https://jquery.com/download/)
+- [JQuery |  JS代码库，提供了大量的扩展](https://jquery.com/download/)
 - [zepto |  针对现代高级浏览器的JavaScript工具库](https://zeptojs.bootcss.com/)
 - [Axios | 网络请求库](https://www.axios-http.cn/)
 - [Fly.js | 基Promise的请求转发、强大的http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
@@ -164,6 +166,7 @@
 <!-- div:left-panel -->
 
 - [vue引导页](https://github.com/Mjhuu/vue-intro-step)
+- [Intro.js | 一个使用广泛的产品引导库](https://github.com/usablica/intro.js)
 - [禅道 | 项目管理](https://www.zentao.net/)
 - [vue-monoplasty-slide-verify | 基于 Vue2.0+ 的验证码插件](https://github.com/monoplasty/vue-monoplasty-slide-verify)
 - [webtorrent | 基于 JS 的流媒体种子客户端](https://github.com/webtorrent/webtorrent)
@@ -172,17 +175,18 @@
 - [博客网站 | vue3+ts+vite2+element](https://github.com/biaochenxuying/blog-vue-typescript)
 - [Vue+SpringBoot+MyBatis音乐网站](https://github.com/Yin-Hongwei/music-website)
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
-- [高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
-- [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
-- [高颜值的第三方网易云播放器 Electron版](https://github.com/qier222/YesPlayMusic)
+- [vue_wzz_cloudMusic | 高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
+- [Node.js API service | 网易云音乐API](https://github.com/Binaryify/NeteaseCloudMusicApi)
+- [YesPlayMusic | 高颜值的第三方网易云播放器Electron版](https://github.com/qier222/YesPlayMusic)
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
 - [学之思 | 来源考试系统](https://www.mindskip.net:888/)
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
 - [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
-- [基于 Vue 的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
+- [基于Vue的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [客户关系管理系统](https://github.com/zchengo/crm)
+- [微人事 | 前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
 
 <!-- div:right-panel -->
 
@@ -191,11 +195,11 @@
 - [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
 - [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
 - [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
-- [halo 一款现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
-- [godocms 一套开源办公套件](https://github.com/godocms/godocms)
+- [halo | 现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
+- [godocms | 开源办公套件](https://github.com/godocms/godocms)
 - [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
 - [RuoYi官方仓库-基于SpringBoot的权限管理系统](https://github.com/yangzongzhuan/RuoYi)
-- [Aurora---前后端分离博客](https://github.com/linhaojun857/aurora-public)
+- [Aurora | 前后端分离博客](https://github.com/linhaojun857/aurora-public)
 - [简单图床](https://github.com/icret/EasyImages2.0)
 - [隔离食用手册大全](https://github.com/YunYouJun/cook)
 - [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
@@ -204,6 +208,7 @@
 - [冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
 - [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
 - [一款简洁高效的VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
+- [DoraCMS | 基于Nodejs+eggjs+mongodb内容管理系统](https://github.com/doramart/DoraCMS)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -219,7 +224,6 @@
 - [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
 - [微信公众号管理系统](https://github.com/niefy/wx-manage)
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
-- [个人微信化身GPT机器人](https://github.com/869413421/wechatbot)
 - [ChatGPT化身QQ机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
 - [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
 - [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
@@ -258,7 +262,7 @@
 
 - [新浪微博爬虫，用python爬取新浪微博数据](https://github.com/dataabc/weiboSpider)
 - [一些非常有趣的python爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
-- [funNLP](https://github.com/fighting41love/funNLP)
+- [funNLP | 中文NLP资源库](https://github.com/fighting41love/funNLP)
 - [AI 写小说](https://github.com/BlinkDL/AI-Writer)
 - [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
 - [GitHub，解决访问时图裂、加载慢的问题](https://github.com/521xueweihan/GitHub520)
@@ -270,6 +274,7 @@
 - [团子翻译器 - 基于OCR的生肉翻译软件](https://github.com/PantsuDango/Dango-Translator)
 - [新版B站粉丝牌助手 全自动升级粉丝牌](https://github.com/XiaoMiku01/fansMedalHelper)
 - [分享GitHub有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+- [Douyin_TikTok_Download_API | 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -316,6 +321,7 @@
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
 - [千古前端图文教程](https://github.com/qianguyihao/web)
 - [vue-cli脚手架学习vue核心知识](https://github.com/trending/vue?since=daily&spoken_language_code=zh)
+- [小林图解计算机基础](https://xiaolincoding.com/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -346,8 +352,8 @@
 - [JS 技术的网站 | 每天推出一个JS技巧的网站](https://www.jstips.co/)
 - [W3Cplus | 推广国内行业的技术博客](https://www.jstips.co/)
 - [印记中文 | 最权威的技术中文文档社区](https://docschina.org/)
-- [ZDZN 文档教程](https://doc.zdzn.net/)
-- [Ruby China](https://ruby-china.org/)
+- [ZDZN 导航](https://doc.zdzn.net/)
+- [Ruby China | 社区交流](https://ruby-china.org/)
 - [nodejs技术社区](https://cnodejs.org/)
 - [前端精读周刊](https://github.com/ascoders/weekly)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
