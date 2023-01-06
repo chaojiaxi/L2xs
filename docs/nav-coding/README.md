@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2023-01-03 09:34:43
+ * @LastEditTime: 2023-01-06 13:29:08
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -31,7 +31,9 @@
 
 - [Github](https://github.com/)
 - [Gitee](https://gitee.com/)
+- [微博热榜](https://weibo.com/newlogin?tabtype=list&gid=1028039999&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F)
 - [百度](https://www.baidu.com/)
+- [QQ邮箱](https://mail.qq.com/)
 - [微博](http://weibo.com/)
 - [知乎](https://www.zhihu.com/)
 - [谷歌翻译](https://translate.google.cn/)
@@ -43,6 +45,7 @@
 <!-- div:right-panel -->
 
 - [哔哩哔哩](https://www.bilibili.com/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -67,6 +70,7 @@
 - [两个BT](https://www.bttwo.com/)
 - [完美看看](http://www.wanmeikk.me/)
 - [电影先生](https://dyxs20.com/?dianying.im)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -88,6 +92,7 @@
 - [小千解析](http://www.nikucms.com/)
 - [下歌吧音乐下载平台](https://music.y444.cn/#/)
 - [抖音/TikTok无水印在线解析](https://douyin.wtf/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -107,7 +112,7 @@
 - [大眼仔旭](http://www.dayanzai.me/)
 - [老殁免费分享优秀软件](https://www.mpyit.com/)
 - [异次元软件世界](https://www.iplaysoft.com/)
-- [MSDN](https://msdn.itellyou.cn/)
+- [iTellYou | 系统下载](https://next.itellyou.cn)
 - [软件缘](https://www.appcgn.com/)
 - [果核剥壳](https://www.ghxi.com/)
 - [我最喜欢的软件Windows版](https://love.appinn.com/)
@@ -116,6 +121,8 @@
 - [423DOWN](https://www.423down.com/)
 - [黑域基地](https://www.hybase.com/)
 - [分享蓝同学收集的软件资源、使用心得](https://github.com/lanbao2021/share)
+- [LR](https://lrepacks.net/)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -136,6 +143,7 @@
 - [马可菠萝](https://www.macbl.com/)
 - [Mac毒](https://www.macdo.cn/)
 - [Mac微信功能拓展/微信插件/微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -160,13 +168,14 @@
 - [腾讯新闻](http://news.qq.com/)
 - [羊城晚报](http://www.ycwb.com/)
 - [澎湃新闻](https://www.thepaper.cn/)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
 ### 壁纸
 
 - [极简壁纸](https://bz.zzzmh.cn/)
-- 持续更新至
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -177,6 +186,7 @@
 
 <!-- div:left-panel -->
 
+- [PDF补丁丁](https://github.com/wmjordan/PDFPatcher)
 - [I love PDF](https://www.ilovepdf.com/zh-cn)
 - [ABCD PDF](https://abcdpdf.com/)
 - [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
@@ -193,12 +203,13 @@
 - [超级PDF](https://xpdf.net/)
 - [天若OCR](http://ocr.tianruo.net/)
 - [白描在线识别](https://web.baimiaoapp.com/)
-- [remove](https://www.remove.bg/)
+- [remove | 图片去除背景](https://www.remove.bg/)
 - [身份证件加水印](http://tool.c7sky.com/id-card-watermark/)
-- [石墨文档](https://shimo.im/)
-- [印象笔记](https://www.yinxiang.com/)
-- [幕布](https://mubu.com/)
-- [语雀](https://www.yuque.com/)
+- [石墨文档 | 文档与知识库工具](https://shimo.im/)
+- [印象笔记 | 文档与知识库工具](https://www.yinxiang.com/)
+- [幕布 | 文档与知识库工具](https://mubu.com/)
+- [语雀 | 文档与知识库工具](https://www.yuque.com/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -212,6 +223,7 @@
 - [阿里云盘](https://www.aliyundrive.com/)
 - [蓝奏云盘](https://www.lanzou.com/)
 - [百度网盘](https://pan.baidu.com/)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -221,6 +233,14 @@
 - [135编译器](https://www.135editor.com/)
 - [Md2All](http://md.aclickall.com/)
 - [草料二维码](https://cli.im/tools)
+- [二维码梦工厂](https://www.qrdream.com/)
+- 内容持续更新
+- []()
+- []()
+- []()
+
+
+
 
 <!-- panels:end -->
 
@@ -239,6 +259,7 @@
 - [荔枝FM](https://www.lizhi.fm/)
 - [蜻蜓](https://www.qingting.fm/)
 - [猫耳FM](https://www.missevan.com/)
+- 内容持续更新
 
 <!-- div:right-panel -->
 
@@ -249,6 +270,7 @@
 - [腾讯问卷](https://wj.qq.com/)
 - [金数据](https://jinshuju.net/)
 - [iH5](https://www.ih5.cn/)
+- 内容持续更新
 
 <!-- panels:end -->
 
@@ -296,7 +318,7 @@
 - [Umi-OCR-基于PaddleOCR的OCR图片转文字识别软件](https://github.com/hiroi-sora/Umi-OCR)
 - [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
 - [在Windows上统计软件使用时长](https://github.com/Planshit/Tai)
-- [持续更新......]()
+- 内容持续更新
 
 #### **在线素材工具**
 
@@ -317,14 +339,14 @@
 - [Material Design Icons | 轻快、精美的符号图标](https://material.io/resources/icons/)
 - [Tabler Icons | 681枚可定制的开源SVG图标](https://tablericons.com/)
 - [Simple Icons  |  常见品牌的SVG图标](https://simpleicons.org/)
-- [持续更新......]()
+- 内容持续更新
 
 #### **在线画图工具**
 
 - [在线画图工具ProcessOn](https://www.processon.com/)
 - [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
 - [PlantUML在线编辑器](http://haha98k.com/)
-- [持续更新......]()
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -352,7 +374,7 @@
 - [UTF-8编解码工具](https://www.zxgj.cn/g/utf8)
 - [字符串编解码工具](https://www.zxgj.cn/g/enstring)
 - [URL编解码工具](http://tool.chinaz.com/tools/urlencode.aspx?jdfwkey=lbixz1)
-- [持续更新......]()
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -376,7 +398,7 @@
 - [SQL压缩/格式化工具](https://www.zxgj.cn/g/sqlformat)
 - [JSON和XML在线转换](https://www.zxgj.cn/g/jsonxml)
 - [JSON/YAML在线转换](http://www.fly63.com/tool/jsonyaml/)
-- [持续更新......]()
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -389,7 +411,7 @@
 
 - [正则表达式调试工具](https://regexr.com/)
 - [正则表达式可视化工具](https://jex.im/regulex/)
-- [持续更新......]()
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -412,7 +434,7 @@
 - [IP地址归属地查询](https://www.ip138.com/)
 - [IP地址查询](https://www.ipip.net/ip.html)
 - [HTTP在线接口测试工具](http://www.fly63.com/php/http/)
-- [持续更新......]()
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -434,7 +456,7 @@
 - [C#在线编译运行](https://rextester.com/)
 - [C/C++在线编译调试](https://www.onlinegdb.com/)
 - [在线编译工具套装](https://c.runoob.com/)
-- 持续更新......
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -456,7 +478,7 @@
 
 - [UUID在线生成器](https://www.zxgj.cn/g/uuid)
 - [随机数生成器](https://www.zxgj.cn/g/suijishu)
-- 持续更新......
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -480,7 +502,7 @@
 - [在线文本代码比对工具](http://www.fly63.com/tool/textdiff/)
 - [在线Chrome浏览器插件](https://www.crx4chrome.com/)
 - [在线接口文档管理工具](http://www.docway.net/)
-- 持续更新......
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -514,7 +536,7 @@
 - [视频转GIF工具](http://www.fly63.com/tool/giftxt/)
 - [二维码在线生成器](http://www.fly63.com/tool/ewm/)
 - [二维码在线解码](http://www.fly63.com/php/decoder/)
-- 持续更新......
+- 内容持续更新
 - []()
 
 
@@ -529,7 +551,7 @@
 - [在线代码截图工具](https://carbon.now.sh/)
 - [在线短链接工具](https://urlify.cn/)
 - [在线文本替换](http://www.fly63.com/tool/textreplace/)
-- 持续更新......
+- 内容持续更新
 - []()
 - []()
 - []()
@@ -543,4 +565,4 @@
 <!-- tabs:end -->
 
 
-### 持续更新......
+### 内容持续更新

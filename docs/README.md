@@ -183,7 +183,7 @@
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
 - [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
-- [基于Vue的在线音乐播放器（PC）](https://github.com/maomao1996/Vue-mmPlayer)
+- [mmPlayer | 基于Vue的在线音乐播放器](https://github.com/maomao1996/Vue-mmPlayer)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [客户关系管理系统](https://github.com/zchengo/crm)
 - [微人事 | 前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
@@ -242,15 +242,15 @@
 
 - [文章同步助手](https://github.com/wechatsync/Wechatsync)
 - [Tampermonkey 油猴脚本](https://www.tampermonkey.net/)
-- [Abcd PDF](https://chrome.zzzmh.cn/info/mcgnagemenncafhpabimmooimpngdcpn)
+- [Abcd PDF | 转换器](https://chrome.zzzmh.cn/info/mcgnagemenncafhpabimmooimpngdcpn)
 - [Adblock Plus 广告拦截](https://chrome.zzzmh.cn/info/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [Vue Devtools](https://chrome.zzzmh.cn/info/nhdogjmejiglipccpnnnanhbledajbpd)
-- [哔哩哔哩助手_bilibili helper](https://chrome.zzzmh.cn/info/kpbnombpnpcffllnianjibmpadjolanh)
+- [哔哩哔哩助手_bilibili](https://chrome.zzzmh.cn/info/kpbnombpnpcffllnianjibmpadjolanh)
 - [Github 加速器](https://chrome.zzzmh.cn/info/mfnkflidjnladnkldfonnaicljppahpg)
 - [SuperCopy 超级复制](https://chrome.zzzmh.cn/info/onepmapfbjohnegdmfhndpefjkppbjkm)
 - [一款完全被动监听的谷歌插件](https://github.com/graynjo/Heimdallr)
 - [Zotero translator中文网页学术抓取插件](https://github.com/l0o0/translators_CN)
-- [猫抓 chrome资源嗅探扩展](https://github.com/xifangczy/cat-catch)
+- [猫抓chrome资源嗅探扩展](https://github.com/xifangczy/cat-catch)
 - [收集B站时更加方便的浏览器扩展](https://github.com/HCLonely/awesome-bilibili-extra)
 - 内容持续更新
 
@@ -275,6 +275,7 @@
 - [新版B站粉丝牌助手 全自动升级粉丝牌](https://github.com/XiaoMiku01/fansMedalHelper)
 - [分享GitHub有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 - [Douyin_TikTok_Download_API | 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+- [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -310,12 +311,12 @@
 ---
 
 - [StackOverFlow](https://stackoverflow.com/)
-- [LeetCode](https://leetcode-cn.com/)
-- [LintCode](https://www.lintcode.com/)
-- [LeetCode刷题](https://github.com/doocs/leetcode)
+- [LeetCode | 刷题](https://leetcode-cn.com/)
+- [LintCode | 刷题](https://www.lintcode.com/)
+- [LeetCode | 刷题](https://github.com/doocs/leetcode)
+- [LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
 - [Nodejs-Roadmap | Node技术栈学习指南](https://github.com/qufei1993/Nodejs-Roadmap)
 - [如何提出正确的问题](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
-- [LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
 - [GitHub最全的前端资源汇总仓库](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [freeCodecamp中文社区 | 编程题闯关](https://learn.freecodecamp.one/)
@@ -337,13 +338,13 @@
 <!-- div:left-panel -->
 
 - [GitHub  |  高质量内容创作和分享平台](https://github.com/)
-- [Stackoverflow |一个回答技术问题的网站](https://stackoverflow.com/)
+- [Stackoverflow | 一个回答技术问题的网站](https://stackoverflow.com/)
 - [掘金 | 国内的很多优质前端文章都掘金](https://juejin.cn/)
 - [博客园  | 一个很纯粹的技术博客平台](https://www.cnblogs.com/)
 - [知乎 |  很多程序人喜欢泡在知乎](https://www.zhihu.com/)
 - [CSDN  | 老牌社区  程序员必上的一个社区](https://www.csdn.net/)
 - [v2ex  | 程序员分享和探索的社区](https://www.v2ex.com/)
-- [segmentfault  | 低调技术博客社区](https://segmentfault.com/)
+- [segmentfault  | 思否](https://segmentfault.com/)
 - [Node.js 中文社区 |  node专业中文社区](https://cnodejs.org/)
 - [博客杂志站点 | 一个 web 技术类的博客杂志站点](https://www.smashingmagazine.com/)
 
@@ -496,10 +497,8 @@
 ### 书籍推荐
 ---
 
-- [认知觉醒：开启自我改变的原动力]()
-- [认知驱动：做成一件对他人有用的事]()
-- [计算机电子书免费下载](https://github.com/itdevbooks/pdf)
-- [鸠摩搜书](https://www.jiumodiary.com/)
+- [《认知觉醒：开启自我改变的原动力》]()
+- [《认知驱动：做成一件对他人有用的事》]()
 - [《javascript 高级程序设计-第四版》]()
 - [《javascript 权威指南》]()
 - [《你不知道的 javascript 上-中-下卷]()
@@ -512,6 +511,8 @@
 - [《vue.js 实战》]()
 - [《CS 自学指南》](https://csdiy.wiki/)
 - [《影响现代软件架构的经典论文》](https://github.com/davideuler/architecture.of.internet-product)
+- [计算机电子书免费下载](https://github.com/itdevbooks/pdf)
+- [鸠摩搜书](https://www.jiumodiary.com/)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 - 内容持续更新
 
@@ -538,11 +539,6 @@
 <!-- panels:end -->
 
 
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
 ---
 ### 面试技巧
 ---
@@ -558,19 +554,6 @@
 - [各大银行的基本介绍和笔试面试](https://github.com/MikeCreken/lanlanInterview)
 - [你想知道的前端内容都在这](https://github.com/KieSun/all-of-frontend)
 - 内容持续更新
-
-<!-- div:right-panel -->
-
----
-### 优质文章
----
-
-- []()
-- []()
-- []()
-
-<!-- panels:end -->
-
 
 
 ---

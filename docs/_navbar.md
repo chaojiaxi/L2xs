@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 20:08:35
- * @LastEditTime: 2022-08-01 09:40:16
+ * @LastEditTime: 2023-01-06 13:18:37
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/_navbar.md
@@ -17,6 +17,7 @@
   * [前端3+1面试](http://www.h-camel.com/index.html)
   * [小呆导航](https://webjike.com/index.html)
   * [编程导航](https://www.code-nav.cn/)
+  * [数字生活指南](https://nav.guidebook.top/)
 
 
 * 开发教程

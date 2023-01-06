@@ -2,7 +2,7 @@
  * @Author: llxs
  * @Date: 2023-01-03 09:39:13
  * @LastEditors: llxs
- * @LastEditTime: 2023-01-03 10:47:54
+ * @LastEditTime: 2023-01-06 13:10:16
  * @Description: 
  * @custom_string_llxs_copyright: Copyright by llxs, All Rights Reserved. 
 -->
@@ -14,7 +14,9 @@
 #### 博客技术栈
 
 后端：node、express、mongodb
+
 admin端：vue、vuex、vue-router、wangeditor、mavon-editor、element-ui、axios
+
 用户端：vue、element-ui、axios
 
 #### 实现功能
@@ -45,14 +47,23 @@ admin端：vue、vuex、vue-router、wangeditor、mavon-editor、element-ui、ax
 - [x] 资源管理
 - [ ] 日志管理
 
+#### 记录遇到的坑
+
+1. 邮箱注册
+
+2. 图形验证
+
+
 #### 博客页面
 
+后台页面
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
         <img src="assets/img/blog01.png" width="100%"/>
     </a>
 </p>
 
+前台页面
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
         <img src="assets/img/blog02.png" width="100%"/>
