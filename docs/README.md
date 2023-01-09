@@ -167,47 +167,46 @@
 
 - [vue引导页](https://github.com/Mjhuu/vue-intro-step)
 - [Intro.js | 一个使用广泛的产品引导库](https://github.com/usablica/intro.js)
-- [禅道 | 项目管理](https://www.zentao.net/)
+- [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
+- [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
+- [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region)
 - [vue-monoplasty-slide-verify | 基于 Vue2.0+ 的验证码插件](https://github.com/monoplasty/vue-monoplasty-slide-verify)
 - [webtorrent | 基于 JS 的流媒体种子客户端](https://github.com/webtorrent/webtorrent)
 - [锤子商城 | 全栈电商型](https://github.com/yucccc/vue-mall)
-- [vueBlog | Vue+Node+MongoDB博客系统](https://github.com/chaohangz/vueBlog)
-- [博客网站 | vue3+ts+vite2+element](https://github.com/biaochenxuying/blog-vue-typescript)
+- [简单图床](https://github.com/icret/EasyImages2.0)
+- [隔离食用手册大全](https://github.com/YunYouJun/cook)
+- [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
 - [Vue+SpringBoot+MyBatis音乐网站](https://github.com/Yin-Hongwei/music-website)
-- [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
+- [mmPlayer | 基于Vue的在线音乐播放器](https://github.com/maomao1996/Vue-mmPlayer)
 - [vue_wzz_cloudMusic | 高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
 - [Node.js API service | 网易云音乐API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [YesPlayMusic | 高颜值的第三方网易云播放器Electron版](https://github.com/qier222/YesPlayMusic)
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
 - [学之思 | 来源考试系统](https://www.mindskip.net:888/)
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
-- [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
-- [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
-- [mmPlayer | 基于Vue的在线音乐播放器](https://github.com/maomao1996/Vue-mmPlayer)
-- [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
-- [客户关系管理系统](https://github.com/zchengo/crm)
 - [微人事 | 前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
+- [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 
 <!-- div:right-panel -->
 
-- [大前端技术](https://github.com/biaochenxuying/blog)
-- [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region)
-- [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
-- [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
-- [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
+- [vueBlog | Vue+Node+MongoDB博客系统](https://github.com/chaohangz/vueBlog)
+- [博客网站 | vue3+ts+vite2+element](https://github.com/biaochenxuying/blog-vue-typescript)
+- [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
+- [一款简洁高效的VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
+- [Aurora | 前后端分离博客](https://github.com/linhaojun857/aurora-public)
 - [halo | 现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
-- [godocms | 开源办公套件](https://github.com/godocms/godocms)
+- [一个用来深入学习并实战 Spring Boot 的项目](https://github.com/xkcoding/spring-boot-demo)
+- [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
 - [基于SpringBoot + Vue 开发的前后端分离博客](https://github.com/X1192176811/blog)
 - [RuoYi官方仓库-基于SpringBoot的权限管理系统](https://github.com/yangzongzhuan/RuoYi)
-- [Aurora | 前后端分离博客](https://github.com/linhaojun857/aurora-public)
-- [简单图床](https://github.com/icret/EasyImages2.0)
-- [隔离食用手册大全](https://github.com/YunYouJun/cook)
+- [大前端技术](https://github.com/biaochenxuying/blog)
+- [phpbrew | 切换php版本](https://github.com/phpbrew/phpbrew)
+- [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
+- [godocms | 开源办公套件](https://github.com/godocms/godocms)
 - [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
-- [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
-- [一个用来深入学习并实战 Spring Boot 的项目](https://github.com/xkcoding/spring-boot-demo)
 - [冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
+- [客户关系管理系统](https://github.com/zchengo/crm)
 - [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
-- [一款简洁高效的VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
 - [DoraCMS | 基于Nodejs+eggjs+mongodb内容管理系统](https://github.com/doramart/DoraCMS)
 - 内容持续更新
 
@@ -222,13 +221,15 @@
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [微信小程序案例库](https://github.com/Data-Camp/WeApp_Demos)
 - [公众号消息推送](https://github.com/sqdpt666/VxMessageWeatherActions)
+- [关于公众号推送](https://github.com/hzbnb/wx-push)
 - [微信公众号管理系统](https://github.com/niefy/wx-manage)
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
 - [ChatGPT化身QQ机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
 - [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
 - [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
 - [一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
-- [关于公众号推送](https://github.com/hzbnb/wx-push)
+- [WechatVideoSniffer | 微信视频号下载](https://github.com/xuncv/WechatVideoSniffer)
+- [WeChatDownloader | 微信视频号下载](https://github.com/xuncv/WeChatDownloader)
 - 内容持续更新
 
 
@@ -240,6 +241,7 @@
 ### 谷歌插件
 ---
 
+- [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 - [文章同步助手](https://github.com/wechatsync/Wechatsync)
 - [Tampermonkey 油猴脚本](https://www.tampermonkey.net/)
 - [Abcd PDF | 转换器](https://chrome.zzzmh.cn/info/mcgnagemenncafhpabimmooimpngdcpn)
@@ -358,6 +360,7 @@
 - [nodejs技术社区](https://cnodejs.org/)
 - [前端精读周刊](https://github.com/ascoders/weekly)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -465,6 +468,7 @@
 
 <!-- div:left-panel -->
 
+- [禅道 | 项目管理](https://www.zentao.net/)
 - [VSCode](https://code.visualstudio.com/)
 - [JetBrains Fleet](https://www.jetbrains.com/zh-cn/fleet/)
 - [Sublime Text](https://www.sublimetext.com/)
@@ -647,6 +651,7 @@
 - [Clash For Windows 汉化补丁和汉化脚本](https://github.com/BoyceLig/Clash_Chinese_Patch)
 - [clash for windows汉化版，提供clash for windows的汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 - [得意黑字体](https://github.com/atelier-anchor/smiley-sans)
+- [LXGW WenKai | 霞鹜文楷字体](https://github.com/lxgw/LxgwWenKai)
 
 <!-- div:right-panel -->
 

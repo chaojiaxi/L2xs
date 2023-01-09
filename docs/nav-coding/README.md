@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2023-01-06 13:29:08
+ * @LastEditTime: 2023-01-09 09:02:30
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -318,6 +318,7 @@
 - [Umi-OCR-基于PaddleOCR的OCR图片转文字识别软件](https://github.com/hiroi-sora/Umi-OCR)
 - [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
 - [在Windows上统计软件使用时长](https://github.com/Planshit/Tai)
+- [TAICHI-flet | windows桌面应用，爬取图片、音乐、小说、磁力链接]()
 - 内容持续更新
 
 #### **在线素材工具**
