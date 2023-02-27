@@ -186,6 +186,7 @@
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [微人事 | 前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
+- [匿名聊天室(nodejs+vue)](https://gitee.com/lifeixue/chat-vue)
 
 <!-- div:right-panel -->
 
@@ -214,7 +215,7 @@
 
 
 ---
-### 关于微信小程序
+### 微信小程序
 ---
 
 - [微信聊天记录持久化备份本地硬盘](https://github.com/greycodee/wechat-backup)
@@ -224,8 +225,9 @@
 - [关于公众号推送](https://github.com/hzbnb/wx-push)
 - [微信公众号管理系统](https://github.com/niefy/wx-manage)
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
-- [ChatGPT化身QQ机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
+- [ChatGPT-QQ聊天机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
 - [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
+- [基于OpenAI API和itchat实现的微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
 - [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
 - [一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
 - [WechatVideoSniffer | 微信视频号下载](https://github.com/xuncv/WechatVideoSniffer)
@@ -254,6 +256,7 @@
 - [Zotero translator中文网页学术抓取插件](https://github.com/l0o0/translators_CN)
 - [猫抓chrome资源嗅探扩展](https://github.com/xifangczy/cat-catch)
 - [收集B站时更加方便的浏览器扩展](https://github.com/HCLonely/awesome-bilibili-extra)
+- [插件化、定制化、无广告的免费音乐播放器](https://github.com/maotoumao/MusicFree)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -278,6 +281,9 @@
 - [分享GitHub有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 - [Douyin_TikTok_Download_API | 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
+- [爬取二手房数据](https://www.52pojie.cn/thread-1674991-1-1.html)
+- [python抖音上百万播放量的微信对话视频](https://www.52pojie.cn/thread-1732372-1-1.html)
+- [在线微信聊天生成器](https://www.52pojie.cn/thread-1716903-1-1.html)
 - 内容持续更新
 
 <!-- panels:end -->
