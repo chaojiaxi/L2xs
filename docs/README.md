@@ -209,6 +209,8 @@
 - [客户关系管理系统](https://github.com/zchengo/crm)
 - [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
 - [DoraCMS | 基于Nodejs+eggjs+mongodb内容管理系统](https://github.com/doramart/DoraCMS)
+- [dooringx | 快速高效搭建可视化拖拽低代码平台](https://github.com/H5-Dooring/dooringx)
+- [html2canvas | 实现浏览器内截屏的JavaScript库](https://github.com/niklasvh/html2canvas)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -269,6 +271,7 @@
 - [一些非常有趣的python爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 - [funNLP | 中文NLP资源库](https://github.com/fighting41love/funNLP)
 - [AI 写小说](https://github.com/BlinkDL/AI-Writer)
+- [AI绘画资料合集](https://github.com/hua1995116/awesome-ai-painting)
 - [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
 - [GitHub，解决访问时图裂、加载慢的问题](https://github.com/521xueweihan/GitHub520)
 - [收集整理 GitHub 上高质量、有趣的开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
@@ -524,6 +527,7 @@
 - [计算机电子书免费下载](https://github.com/itdevbooks/pdf)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+- [1000本的计算机经典书籍分享](https://github.com/forthespada/CS-Books)
 - 内容持续更新
 
 <!-- div:right-panel -->
