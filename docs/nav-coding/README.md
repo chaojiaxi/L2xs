@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2023-01-09 09:02:30
+ * @LastEditTime: 2023-05-05 16:52:41
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -319,6 +319,7 @@
 - [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
 - [在Windows上统计软件使用时长](https://github.com/Planshit/Tai)
 - [TAICHI-flet | windows桌面应用，爬取图片、音乐、小说、磁力链接]()
+- [学无止慕课下载器](https://github.com/PyJun/Mooc_Downloader)
 - 内容持续更新
 
 #### **在线素材工具**
