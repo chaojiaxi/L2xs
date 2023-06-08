@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2023-05-05 16:52:41
+ * @LastEditTime: 2023-06-08 13:06:57
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -48,7 +48,7 @@
 - 内容持续更新
 
 <!-- panels:end -->
-
+---
 ### 影视视频
 
 <!-- panels:start -->
@@ -96,7 +96,7 @@
 
 <!-- panels:end -->
 
-
+---
 ### 软件下载
 
 <!-- panels:start -->
@@ -218,6 +218,7 @@
 
 <!-- div:left-panel -->
 
+---
 ### 文件分享
 
 - [阿里云盘](https://www.aliyundrive.com/)
@@ -275,6 +276,30 @@
 <!-- panels:end -->
 
 
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+### 考试
+
+- [中国研究生招生信息网](https://yz.chsi.com.cn/)
+- [2023考研全流程_中国教育在线](https://www.eol.cn/e_ky/zt/common/kylc/pc.shtml)
+- [考研考试系统和考研试卷试题](https://www.examcoo.com/index/detail/mid/10)
+- [公开真题库|公务员...](https://www.gkzenti.cn/)
+- [国家公务员局](http://www.scs.gov.cn/)
+- [公务员考试|中公教育网](http://www.offcn.com/)
+- [中国计算机技术职业资格网](https://www.ruankao.org.cn/)
+- 内容持续更新
+
+<!-- div:right-panel -->
+
+### 其他
+
+- 内容持续更新
+
+<!-- panels:end -->
+
+
 ---
 ### 编程工具
 
@@ -285,9 +310,11 @@
 </p>
 
 
-<!-- tabs:start -->
+<!-- panels:start -->
 
-#### **软件推荐**
+<!-- div:left-panel -->
+
+### 软件推荐
 
 - [格式工厂v5.11.0 绿色纯净版](https://www.52pojie.cn/thread-1651312-1-1.html)
 - [360极速浏览器X_21.0.1120.0绿色版](https://www.52pojie.cn/thread-1659087-1-1.html)
@@ -322,249 +349,80 @@
 - [学无止慕课下载器](https://github.com/PyJun/Mooc_Downloader)
 - 内容持续更新
 
-#### **在线素材工具**
+<!-- div:right-panel -->
+
+### 素材
 
 - [免费透明背景图片素材](http://pngimg.com/)
 - [Emoji表情包下载](https://emojiisland.com/)
 - [open source icons](https://feathericons.com/)
 - [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 - [表情包在线网站](https://fabiaoqing.com/)
-- [免费PNG图片库](https://pluspng.com/)
-- [ICON图标在线下载](https://www.iconfinder.com/)
-- [极简壁纸](https://bz.zzzmh.cn/)
-- [Wallpaper Abyss壁纸](https://wall.alphacoders.com)
 - [Pixabay图片素材库](https://pixabay.com/zh/)
-- [Unsplash图片素材库](https://unsplash.com)
 - [Pexels图片素材库](http://www.pexels.com)
-- [NASA图片视频素材库](https://images.nasa.gov)
-- [Feather | 简洁美观的开源图标](https://feathericons.com/)
-- [Material Design Icons | 轻快、精美的符号图标](https://material.io/resources/icons/)
 - [Tabler Icons | 681枚可定制的开源SVG图标](https://tablericons.com/)
 - [Simple Icons  |  常见品牌的SVG图标](https://simpleicons.org/)
 - 内容持续更新
 
-#### **在线画图工具**
+<!-- panels:end -->
+
+
+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+### 在线图片工具
 
 - [在线画图工具ProcessOn](https://www.processon.com/)
 - [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
-- [PlantUML在线编辑器](http://haha98k.com/)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **在线编解码工具**
-
-- [BASE64编解码工具](https://base64.supfree.net/)
-- [MD5编码工具](https://www.zxgj.cn/g/md5)
-- [AES/DES加解密](http://www.fly63.com/tool/cipher/)
-- [JWT解码工具](http://jwt.calebb.net/)
-- [ASCII编解码工具](https://www.matools.com/code-convert-ascii)
-- [Unicode编解码工具](https://www.zxgj.cn/g/unicode)
-- [UTF-8编解码工具](https://www.zxgj.cn/g/utf8)
-- [字符串编解码工具](https://www.zxgj.cn/g/enstring)
-- [URL编解码工具](http://tool.chinaz.com/tools/urlencode.aspx?jdfwkey=lbixz1)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **在线转换工具**
-
-- [在线ASCII码对照表](http://www.fly63.com/tool/ascii/)
-- [通用进制转换工具](https://www.zxgj.cn/g/jinzhi)
-- [在线浮点数十进制转换](http://www.binaryconvert.com/)
-- [RGB颜色转换](https://www.zxgj.cn/g/yansezhi)
-- [时间戳转换工具](https://www.zxgj.cn/g/unix)
-- [计量单位换算工具](http://www.fly63.com/tool/unitable/)
-- [在线JSON解析](http://www.json.cn/)
-- [在线JS代码格式化工具](https://prettier.io/playground/)
-- [SQL压缩/格式化工具](https://www.zxgj.cn/g/sqlformat)
-- [JSON和XML在线转换](https://www.zxgj.cn/g/jsonxml)
-- [JSON/YAML在线转换](http://www.fly63.com/tool/jsonyaml/)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **正则表达式工具**
-
-- [正则表达式调试工具](https://regexr.com/)
-- [正则表达式可视化工具](https://jex.im/regulex/)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **网络工具**
-
-- [IP地址归属地查询](https://www.ip138.com/)
-- [IP地址查询](https://www.ipip.net/ip.html)
-- [HTTP在线接口测试工具](http://www.fly63.com/php/http/)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **在线编译运行工具**
-
-- [C#在线编译运行](https://rextester.com/)
-- [C/C++在线编译调试](https://www.onlinegdb.com/)
-- [在线编译工具套装](https://c.runoob.com/)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-
-#### **在线生成器**
-
-- [UUID在线生成器](https://www.zxgj.cn/g/uuid)
-- [随机数生成器](https://www.zxgj.cn/g/suijishu)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **其他常用在线开发相关工具**
-
-- [在线Nginx配置工具](https://nginxconfig.io/)
-- [在线文本代码比对工具](http://www.fly63.com/tool/textdiff/)
-- [在线Chrome浏览器插件](https://www.crx4chrome.com/)
-- [在线接口文档管理工具](http://www.docway.net/)
-- 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-#### **设计制作类工具**
-
+- [fly63工具箱](https://www.fly63.com/tool/home.html)
 - [在线PS](https://www.uupoop.com/)
-- [在线音频剪辑](https://www.weixinsyt.com/)
-- [在线视频剪辑](https://www.kapwing.com/)
 - [免费logo在线制作](http://www.uugai.com/)
 - [艺术字体在线生成](https://www.qt86.com/)
 - [在线表格转换工具](https://tableconvert.com/)
-- [在线海报设计工具](https://www.designcap.com/)
 - [图片智能放大工具](https://bigjpg.com/)
-- [二维码美化器](https://mh.cli.im/)
+- [草料二维码](https://cli.im/)
 - [在线代码截图工具](https://carbon.now.sh/)
-- [在线抠图工具](https://www.remove.bg/zh)
-- [ICO图标在线生成](http://www.fly63.com/php/ico/)
-- [SVG转PNG工具](http://www.fly63.com/tool/svg2img/)
-- [视频转GIF工具](http://www.fly63.com/tool/giftxt/)
-- [二维码在线生成器](http://www.fly63.com/tool/ewm/)
-- [二维码在线解码](http://www.fly63.com/php/decoder/)
+- [remove抠图工具](https://www.remove.bg/zh)
+- [AI抠图证件照换底色](https://koutu.gaoding.com/?hmsr=dh-dh21-koutu-web-wzsl-wke-gjgj&utm_medium=gjr&utm_source=dh)
+- [模糊图片秒转高清图](https://qingtu.cn/)
 - 内容持续更新
-- []()
+
+<!-- div:right-panel -->
+
+### 辅助工具
+
+- [RGB颜色转换](https://www.zxgj.cn/g/yansezhi)
+- [时间戳转换工具](https://www.zxgj.cn/g/unix)
+- [在线JSON解析](http://www.json.cn/)
+- [在线JS代码格式化工具](https://prettier.io/playground/)
+- [581个在线工具软件](https://www.zxgj.cn/)
+- [正则表达式调试工具](https://regexr.com/)
+- [正则表达式可视化工具](https://jex.im/regulex/)
+- [IP地址归属地查询](https://www.ip138.com/)
+- [IP地址查询](https://www.ipip.net/ip.html)
+- [在线菜鸟编译工具](https://c.runoob.com/)
+- [在线Nginx配置工具](https://nginxconfig.io/)
+- [在线工具2](https://tool.lu/)
+- 内容持续更新
+
+<!-- panels:end -->
 
 
-#### **写作辅助工具**
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+### 写作辅助工具
 
 - [在线字数统计](https://www.eteste.com/)
-- [mdnice markdown排版工具](https://mdnice.com/)
 - [md2all markdown排版工具](http://md.aclickall.com/)
 - [在线图床神器](https://picx.xpoet.cn/)
-- [在线免费图床](https://sm.ms/)
-- [图壳图床](https://imgkr.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
 - [在线短链接工具](https://urlify.cn/)
 - [在线文本替换](http://www.fly63.com/tool/textreplace/)
 - 内容持续更新
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
+<!-- div:right-panel -->
 
-<!-- tabs:end -->
-
+<!-- panels:end -->
 
 ### 内容持续更新
