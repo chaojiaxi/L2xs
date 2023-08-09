@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2023-06-08 17:30:02
+ * @LastEditTime: 2023-07-25 13:51:01
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -335,6 +335,7 @@
 - [snipaste | 截图神器](https://www.snipaste.com/)
 - [Flip PDF Professional]()
 - [Everything](https://www.voidtools.com/zh-cn/)
+- [PotPlayer影音播放支持流媒体](https://daumpotplayer.com/download/)
 - [微信对话聊天]()
 - [班迪录屏]()
 - [ToastFish摸鱼背单词](https://github.com/Uahh/ToastFish)

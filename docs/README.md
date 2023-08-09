@@ -288,6 +288,8 @@
 - [爬取二手房数据](https://www.52pojie.cn/thread-1674991-1-1.html)
 - [python抖音上百万播放量的微信对话视频](https://www.52pojie.cn/thread-1732372-1-1.html)
 - [在线微信聊天生成器](https://www.52pojie.cn/thread-1716903-1-1.html)
+- [各种免费API收集](https://github.com/fangzesheng/free-api)
+- [lxSpider爬虫案例合集](https://github.com/lixi5338619/lxSpider)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -371,6 +373,7 @@
 - [前端精读周刊](https://github.com/ascoders/weekly)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+- [科技爱好者周刊](https://github.com/ruanyf/weekly)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -629,6 +632,7 @@
 - [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 - [直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv)
+- [直播源相关资源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 - [获取58个直播平台的真实流媒体地址](https://github.com/wbt5/real-url)
 - 内容持续更新
 
