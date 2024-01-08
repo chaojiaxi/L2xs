@@ -1,4 +1,4 @@
-### 欢迎来到五伏高压博客网站 :id=read
+### 欢迎来到在新疆卖砂糖橘博客网站 :id=read
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
@@ -16,8 +16,8 @@
 
 <p align="center">
   <h2 align="center">座右铭：知识无价，产物有价。</h2>
-  <h2 align="center">遇到问题要敢于尝试解决问题（关键问题请上Google）</h2>
-  <h2 align="center">多看看别人的源码，学习别人的逻辑思维，真的很受用!!!</h2>
+  <h2 align="center">遇到问题要试着解决问题，没有什么问题是解决不了的</h2>
+  <h2 align="center">多看看大佬源码，多学习，多敲代码，多思考...</h2>
 </p>
 
 
@@ -26,9 +26,9 @@
 ---
 
 > [!note]
-> 本网站取名 **五伏高压**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源导航。
+> 本网站取名 **新疆卖砂糖橘**，是为了方便自己导航学习，分享自己学编程的笔记和记录资源导航。
 > 方便自己也方便他人。网站内容会保持**持续更新**，欢迎各位收藏、点赞！
-> 关注B站账号[五伏高压](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
+> 关注B站账号[新疆卖砂糖橘](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
 
 
 <!-- panels:start -->
