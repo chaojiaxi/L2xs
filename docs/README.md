@@ -215,6 +215,10 @@
 
 <!-- panels:end -->
 
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
 
 ---
 ### 微信小程序
@@ -236,6 +240,22 @@
 - [WeChatDownloader | 微信视频号下载](https://github.com/xuncv/WeChatDownloader)
 - [微信公众号爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
 - 内容持续更新
+
+<!-- div:right-panel -->
+
+---
+### AI
+---
+
+- [AI绘画](https://github.com/hua1995116/awesome-ai-painting)
+- [chatGPT](https://chat.openai.com/)
+- [文心一言](https://yiyan.baidu.com/)
+- [通义千问](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f73da21wNpcG)
+- [link AI](https://link-ai.tech/portal)
+- []()
+
+
+<!-- panels:end -->
 
 
 <!-- panels:start -->
@@ -337,6 +357,7 @@
 - [千古前端图文教程](https://github.com/qianguyihao/web)
 - [vue-cli脚手架学习vue核心知识](https://github.com/trending/vue?since=daily&spoken_language_code=zh)
 - [小林图解计算机基础](https://xiaolincoding.com/)
+- [RSS 订阅源抓取最新前端技术文章](https://github.com/ChanceYu/front-end-rss)
 - 内容持续更新
 
 <!-- panels:end -->

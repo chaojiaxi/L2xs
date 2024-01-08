@@ -317,6 +317,7 @@
 - [PDFPatcher | PDF处理工具](https://github.com/wmjordan/PDFPatcher)
 - [阅读3.0](https://github.com/gedoor/legado/releases/tag/3.22.072122)
 - [阅读APP书源](https://github.com/aoaostar/legado)
+- [香色闺阁书源](https://github.com/shidahuilang/shuyuan)
 - [异次元](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
 - [B23Downloader-已停更](https://github.com/vooidzero/B23Downloader)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
