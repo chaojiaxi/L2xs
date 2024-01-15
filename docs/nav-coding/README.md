@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2023-07-25 13:51:01
+ * @LastEditTime: 2024-01-15 14:23:36
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -322,6 +322,8 @@
 - [B23Downloader-已停更](https://github.com/vooidzero/B23Downloader)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
 - [哔哩下载姬（DownKyi）](https://github.com/leiurayer/downkyi)
+- [小红书视频下载](https://github.com/JoeanAmier/XHS-Downloader)
+- [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
 - [jellyfin-本地媒体库管理工具](https://github.com/jellyfin/jellyfin/releases)
@@ -340,6 +342,8 @@
 - [微信对话聊天]()
 - [班迪录屏]()
 - [ToastFish摸鱼背单词](https://github.com/Uahh/ToastFish)
+- [optimizer | Windows系统优化工具](https://github.com/hellzerg/optimizer)
+- [自动化下载、安装、激活Office的利器](https://github.com/OdysseusYuan/LKY_OfficeTools)
 - 内容持续更新
 
 <!-- div:right-panel -->

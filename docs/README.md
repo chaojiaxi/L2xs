@@ -60,6 +60,7 @@
 - [前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
 - [Github热榜](https://github.com/trending)
 - [Free Website Templates](https://www.themezy.com/)
+- [tailwindcss](https://www.tailwindcss.cn/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -187,6 +188,7 @@
 - [微人事 | 前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [匿名聊天室(nodejs+vue)](https://gitee.com/lifeixue/chat-vue)
+- [vue 纯前端的拼图人机验证、右滑拼图验证](https://github.com/javaLuo/vue-puzzle-vcode)
 
 <!-- div:right-panel -->
 
@@ -194,6 +196,7 @@
 - [博客网站 | vue3+ts+vite2+element](https://github.com/biaochenxuying/blog-vue-typescript)
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
 - [一款简洁高效的VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
+- [基于 Django 的 Hexo 静态博客管理后台](https://github.com/Qexo/Qexo?tab=readme-ov-file)
 - [Aurora | 前后端分离博客](https://github.com/linhaojun857/aurora-public)
 - [halo | 现代化的开源博客/CMS系统](https://github.com/halo-dev/halo)
 - [一个用来深入学习并实战 Spring Boot 的项目](https://github.com/xkcoding/spring-boot-demo)
@@ -303,6 +306,7 @@
 - [团子翻译器 - 基于OCR的生肉翻译软件](https://github.com/PantsuDango/Dango-Translator)
 - [新版B站粉丝牌助手 全自动升级粉丝牌](https://github.com/XiaoMiku01/fansMedalHelper)
 - [分享GitHub有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+= [HelloGitHub | 一个发现和分享有趣、入门级开源项目的平台](https://hellogithub.com/)
 - [Douyin_TikTok_Download_API | 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 - [爬取二手房数据](https://www.52pojie.cn/thread-1674991-1-1.html)
@@ -358,6 +362,19 @@
 - [vue-cli脚手架学习vue核心知识](https://github.com/trending/vue?since=daily&spoken_language_code=zh)
 - [小林图解计算机基础](https://xiaolincoding.com/)
 - [RSS 订阅源抓取最新前端技术文章](https://github.com/ChanceYu/front-end-rss)
+- [深入理解Vue.js实战](http://www.godbasin.com/vue-ebook/)
+- [Vue技术内幕](http://caibaojian.com/vue-design/)
+- [JavaScript Guidebook](https://tsejx.github.io/javascript-guidebook/)
+- [React Guidebook](https://tsejx.github.io/react-guidebook/)
+- [Webpack Guidebook](https://tsejx.github.io/webpack-guidebook/)
+- [ECMAScript 6简介](http://caibaojian.com/es6/)
+
+- []()
+- []()
+- []()
+- []()
+
+
 - 内容持续更新
 
 <!-- panels:end -->
@@ -378,6 +395,7 @@
 - [博客园  | 一个很纯粹的技术博客平台](https://www.cnblogs.com/)
 - [知乎 |  很多程序人喜欢泡在知乎](https://www.zhihu.com/)
 - [CSDN  | 老牌社区  程序员必上的一个社区](https://www.csdn.net/)
+- [learnku编程知识社区](https://learnku.com/)
 - [v2ex  | 程序员分享和探索的社区](https://www.v2ex.com/)
 - [segmentfault  | 思否](https://segmentfault.com/)
 - [Node.js 中文社区 |  node专业中文社区](https://cnodejs.org/)
@@ -477,6 +495,7 @@
 - [ESLint | avaScript和JSX检查工具](https://cn.eslint.org/)
 - [Github Page | Github提供的免费静态网站托管服务](https://pages.github.com/)
 - [Netlify | 30秒内部署你的网站](https://www.netlify.com/)
+- [零代码工具箱 | 专为前端打造](https://www.lingdaima.com/)
 
 <!-- div:right-panel -->
 
@@ -488,6 +507,7 @@
 - [Whistle | 代理抓包工具](https://wproxy.org/whistle/)
 - [Fiddler | 抓包工具](https://www.telerik.com/fiddler)
 - [TEXT文本美化工具](http://www.txttool.com/)
+- [MikuTools - 工具集合](https://tools.miku.ac/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -553,6 +573,7 @@
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 - [1000本的计算机经典书籍分享](https://github.com/forthespada/CS-Books)
+- [免费开源MySQL数据库设计大全](https://open.yesapi.cn/list.html)
 - 内容持续更新
 
 <!-- div:right-panel -->
