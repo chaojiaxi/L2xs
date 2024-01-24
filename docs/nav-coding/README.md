@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-01-15 14:23:36
+ * @LastEditTime: 2024-01-24 16:11:40
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -53,11 +53,8 @@
 - [素白白影视](https://www.subaibaiys.com/)
 - [18电影](https://www.18idy.com/)
 - [电影狗搜索](https://www.dianyinggou.com/)
-- [COKEMV影视](https://cokemv.me/)
-- [剧迷网](https://gimytv.com/)
-- [555电影](https://www.o8tv.com/)
-- [麻花电影](https://www.mhyyy.com/)
-- [人人影视分享站](https://github.com/tgbot-collection/YYeTsBot)
+- [555电影](https://55vid.shop/)
+- [freeok](https://www.freeok.vip/)
 - [简单动漫](https://www.36dm.com/)
 - [福利吧](https://fuliba23.net/)
 - [雨花阁BT搜索](https://github.com/yuhuage/dizhi)
@@ -70,16 +67,18 @@
 
 - [腾讯视频](https://v.qq.com/)
 - [爱奇艺](https://www.iqiyi.com/)
-- [西瓜视频](https://www.ixigua.com/)
 - [优酷](http://www.youku.com/)
+- [抖音](https://www.douyin.com/)
+- [小红书](https://www.douyin.com/)
+- [西瓜视频](https://www.ixigua.com/)
 - [虎牙](https://www.huya.com/)
 - [斗鱼](https://www.douyu.com/)
-- [分享网视频解析](https://vip.fxw.la/)
-- [小千解析](http://www.nikucms.com/)
 - [放屁网-MP3下载](https://www.fangpi.net/)
 - [音乐搜索器](http://music.itzo.cn/)
 - [抖音/TikTok无水印在线解析](https://douyin.wtf/)
 - [抖音短视频无水印解析](https://www.daimadog.com/douyin)
+- [全能VIP视频在线解析](https://www.wuhenge.com/html/video/)
+- [Blilidown](https://zhouql.vip/bilibili/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -177,12 +176,12 @@
 - [PDF补丁丁](https://github.com/wmjordan/PDFPatcher)
 - [I love PDF](https://www.ilovepdf.com/zh-cn)
 - [ABCD PDF](https://abcdpdf.com/)
-- [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
-- [PDF转Word](https://www.alltoall.net/)
-- [Wondershare HiPDF](https://www.hipdf.cn/)
-- [File Converter](https://file-converter.org/)
 - [All to All](https://www.alltoall.net/)
+- [Wondershare HiPDF](https://www.hipdf.cn/)
+- [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
 - [扫描王](https://www.camscanner.com/)
+- [即时工具](https://www.67tool.com/)
+- [金山PDF](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
 - [xJavaFxTool]()
 <!-- div:right-panel -->
 
