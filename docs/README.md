@@ -84,7 +84,6 @@
 - [不止于 CSS](https://github.com/chokcoco/iCSS)
 - [simple-icons | 免费SVG图标库](https://github.com/simple-icons/simple-icons)
 - [SpinKit | 纯 CSS 实现加载动画的项目](https://github.com/tobiasahlin/SpinKit)
-- [Sass Guidelines | 编写代码的通用准则](https://sass-guidelin.es/zh/)
 - [CSS3 Generator | 可视化实现](http://css3generator.com/)
 
 <!-- div:right-panel -->
@@ -114,6 +113,7 @@
 
 - [常用js库汇总](https://github.com/MrXujiang/frontend-developer-roadmap)
 - [西瓜播放器 | xgplayer.JS](https://v2.h5player.bytedance.com/)
+- [video.js]()
 - [MuiPlayer | HTML5视媒体播放](https://muiplayer.js.org/zh/)
 - [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
 - [Chimee | 组件化H5播放器框架](http://chimee.org/)
@@ -186,12 +186,15 @@
 - [学之思 | 来源考试系统](https://www.mindskip.net:888/)
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [微人事 | 前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
+- [前后端分离的博客项目项目vueblog](https://github.com/MarkerHub/vueblog)
+- [基于微信服务号平台的点餐系统](https://github.com/sqmax/springboot-project)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [匿名聊天室(nodejs+vue)](https://gitee.com/lifeixue/chat-vue)
 - [vue 纯前端的拼图人机验证、右滑拼图验证](https://github.com/javaLuo/vue-puzzle-vcode)
 
 <!-- div:right-panel -->
 
+- [newbee-mall 新峰商城](https://github.com/newbee-ltd/newbee-mall)
 - [vueBlog | Vue+Node+MongoDB博客系统](https://github.com/chaohangz/vueBlog)
 - [博客网站 | vue3+ts+vite2+element](https://github.com/biaochenxuying/blog-vue-typescript)
 - [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
@@ -214,6 +217,8 @@
 - [DoraCMS | 基于Nodejs+eggjs+mongodb内容管理系统](https://github.com/doramart/DoraCMS)
 - [dooringx | 快速高效搭建可视化拖拽低代码平台](https://github.com/H5-Dooring/dooringx)
 - [html2canvas | 实现浏览器内截屏的JavaScript库](https://github.com/niklasvh/html2canvas)
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [简历项目](https://github.com/salomonelli/best-resume-ever)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -242,6 +247,7 @@
 - [WechatVideoSniffer | 微信视频号下载](https://github.com/xuncv/WechatVideoSniffer)
 - [WeChatDownloader | 微信视频号下载](https://github.com/xuncv/WeChatDownloader)
 - [微信公众号爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
+- [高仿喜马拉雅](https://github.com/iDestin/Himalayan-lite)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -306,14 +312,17 @@
 - [团子翻译器 - 基于OCR的生肉翻译软件](https://github.com/PantsuDango/Dango-Translator)
 - [新版B站粉丝牌助手 全自动升级粉丝牌](https://github.com/XiaoMiku01/fansMedalHelper)
 - [分享GitHub有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
-= [HelloGitHub | 一个发现和分享有趣、入门级开源项目的平台](https://hellogithub.com/)
-- [Douyin_TikTok_Download_API | 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+= [HelloGitHub 一个发现和分享有趣、入门级开源项目的平台](https://hellogithub.com/)
+- [Douyin_TikTok_Download_API 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 - [爬取二手房数据](https://www.52pojie.cn/thread-1674991-1-1.html)
 - [python抖音上百万播放量的微信对话视频](https://www.52pojie.cn/thread-1732372-1-1.html)
 - [在线微信聊天生成器](https://www.52pojie.cn/thread-1716903-1-1.html)
 - [各种免费API收集](https://github.com/fangzesheng/free-api)
 - [lxSpider爬虫案例合集](https://github.com/lixi5338619/lxSpider)
+- [文件快递柜-匿名口令分享文本](https://github.com/vastsa/FileCodeBox)
+- [爬虫案例合集](https://github.com/lixi5338619/lxSpider)
+- [基于Streamlink的全自动直播录制工具](https://github.com/auqhjjqdo/LiveRecorder)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -368,13 +377,10 @@
 - [React Guidebook](https://tsejx.github.io/react-guidebook/)
 - [Webpack Guidebook](https://tsejx.github.io/webpack-guidebook/)
 - [ECMAScript 6简介](http://caibaojian.com/es6/)
-
 - []()
 - []()
 - []()
 - []()
-
-
 - 内容持续更新
 
 <!-- panels:end -->
@@ -413,6 +419,7 @@
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 - [科技爱好者周刊](https://github.com/ruanyf/weekly)
+- [中国重点高校等学术论文知识库](https://github.com/hoochanlon/hamulete)
 - 内容持续更新
 
 <!-- panels:end -->
