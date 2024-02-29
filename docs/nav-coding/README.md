@@ -38,6 +38,7 @@
 - [掘金](https://juejin.im/)
 - [铁血网](http://www.tiexue.net/)
 - [哔哩哔哩](https://www.bilibili.com/)
+- [社工库分享](https://github.com/telegram-sgk/SGK_Sites_and_Bots)
 - 内容持续更新
 
 ---
@@ -292,6 +293,31 @@
         <img src="assets/img/er004.png" width="100%"/>
     </a>
 </p>
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+### AIGC工具
+
+- [什么值得看](https://smzdk.top/#/)
+- [DownLoadPanda](https://dlpanda.com/zh-CN)
+- [TTS-Online 免费文字转语音](https://www.ttson.cn/)
+- [贴吧小助手](https://greasyfork.org/zh-CN/scripts/419001-%E8%B4%B4%E5%90%A7%E5%B0%8F%E5%8A%A9%E6%89%8B)
+- [白瓜AI助手](https://baigua.com/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- 内容持续更新
+
+<!-- div:right-panel -->
+
+- 内容持续更新
+
+<!-- panels:end -->
 
 
 <!-- panels:start -->

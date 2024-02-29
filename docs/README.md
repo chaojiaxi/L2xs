@@ -248,6 +248,7 @@
 - [WeChatDownloader | 微信视频号下载](https://github.com/xuncv/WeChatDownloader)
 - [微信公众号爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
 - [高仿喜马拉雅](https://github.com/iDestin/Himalayan-lite)
+- [聊天记录迁移功能](https://github.com/BlueMatthew/WechatExporter)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -256,6 +257,7 @@
 ### AI
 ---
 
+- [AI工具站](https://www.aigcyjs.com/)
 - [AI绘画](https://github.com/hua1995116/awesome-ai-painting)
 - [chatGPT](https://chat.openai.com/)
 - [文心一言](https://yiyan.baidu.com/)
