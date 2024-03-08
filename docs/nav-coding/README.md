@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-01-24 16:11:40
+ * @LastEditTime: 2024-03-08 09:37:32
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -326,6 +326,7 @@
 
 ### 软件推荐
 
+- [Max搶票機器人](https://github.com/max32002/tixcraft_bot)
 - [360极速浏览器X_21.0.1120.0绿色版](https://www.52pojie.cn/thread-1659087-1-1.html)
 - [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
 - [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
@@ -369,6 +370,7 @@
 - [ToastFish摸鱼背单词](https://github.com/Uahh/ToastFish)
 - [optimizer | Windows系统优化工具](https://github.com/hellzerg/optimizer)
 - [自动化下载、安装、激活Office的利器](https://github.com/OdysseusYuan/LKY_OfficeTools)
+- [免费开源的屏幕实时翻译工具](https://github.com/Danily07/Translumo)
 - 内容持续更新
 
 <!-- div:right-panel -->

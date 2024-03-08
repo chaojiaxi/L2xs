@@ -219,6 +219,7 @@
 - [html2canvas | 实现浏览器内截屏的JavaScript库](https://github.com/niklasvh/html2canvas)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [简历项目](https://github.com/salomonelli/best-resume-ever)
+- [根据截图生成网页](https://github.com/abi/screenshot-to-code)
 - 内容持续更新
 
 <!-- panels:end -->
