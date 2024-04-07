@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-03-22 09:39:46
+ * @LastEditTime: 2024-04-02 12:34:08
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -123,8 +123,7 @@
 - [爱奶酪](https://www.icheese.org/)
 - [imacapp](https://www.ifunmac.com/)
 - [苹果软件盒子](https://www.macappbox.com/)
-- [MacWk](https://macwk.com/)
-- [Digit77](https://www.digit77.com/)
+- [MacWk](https://macwk.cn/)
 - [Mac萌新网](https://www.macxin.com/)
 - [精品MAC应用分享](https://xclient.info/)
 - [马可菠萝](https://www.macbl.com/)

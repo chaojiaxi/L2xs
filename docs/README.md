@@ -242,11 +242,6 @@
 - [关于公众号推送](https://github.com/hzbnb/wx-push)
 - [微信公众号管理系统](https://github.com/niefy/wx-manage)
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
-- [ChatGPT-QQ聊天机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
-- [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
-- [基于OpenAI API和itchat实现的微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
-- [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
-- [一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
 - [WechatVideoSniffer | 微信视频号下载](https://github.com/xuncv/WechatVideoSniffer)
 - [WeChatDownloader | 微信视频号下载](https://github.com/xuncv/WeChatDownloader)
 - [微信公众号爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
@@ -267,7 +262,14 @@
 - [文心一言](https://yiyan.baidu.com/)
 - [通义千问](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f73da21wNpcG)
 - [link AI](https://link-ai.tech/portal)
-- []()
+- [QChatGPT](https://github.com/RockChinQ/QChatGPT)
+- [ChatGPT-QQ聊天机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
+- [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
+- [基于OpenAI API和itchat实现的微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
+- [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
+- [一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
+- [智能微秘书](https://github.com/leochen-g/wechat-assistant-pro)
+- [NGCBot | 基于Hook机制的微信机器人](https://github.com/ngc660sec/NGCBot)
 
 
 <!-- panels:end -->
@@ -300,7 +302,7 @@
 <!-- div:right-panel -->
 
 ---
-### 爬虫技术
+### python技术
 ---
 
 - [新浪微博爬虫，用python爬取新浪微博数据](https://github.com/dataabc/weiboSpider)
@@ -330,6 +332,7 @@
 - [爬虫案例合集](https://github.com/lixi5338619/lxSpider)
 - [基于Streamlink的全自动直播录制工具](https://github.com/auqhjjqdo/LiveRecorder)
 - [抓取抖音等视频图片评论点赞转发等](https://github.com/NanmiCoder/MediaCrawler)
+- [高清仪表盘图标](https://github.com/xushier/HD-Icons)
 - 内容持续更新
 
 <!-- panels:end -->
