@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 20:03:50
- * @LastEditTime: 2024-04-08 17:26:32
+ * @LastEditTime: 2024-04-08 17:31:42
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/_sidebar.md
@@ -15,7 +15,7 @@
 - [**Node**](blog/Node/README)
 - [**DataBase**](blog/DataBase/README)
 - [**Linux**](blog/Linux/README)
-- [**Other**](blog/Other/README)
+- [**Other**](blog/other/README)
 
 - **Links**
 - [**作者**](https://github.com/chaojiaxi)
