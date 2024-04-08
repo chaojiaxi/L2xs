@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-11 23:09:42
- * @LastEditTime: 2023-05-05 17:05:27
+ * @LastEditTime: 2024-04-08 09:13:37
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /L2xs/docs/blog/DataBase/README.md
@@ -14,6 +14,8 @@
 
 ### 数据库
 
-- [MongoDB安装](blog/DataBase/MongoDB)
-- [Mysql安装](blog/DataBase/Mysql)
+- [mongoDB安装](blog/DataBase/mongoDB)
+- [mysql安装](blog/DataBase/mysql)
+- [mongoDB备忘录](blog/DataBase/mongoDB_memorandum)
+- [mysql备忘录](blog/DataBase/mysql_memorandum)
 - [待更新]

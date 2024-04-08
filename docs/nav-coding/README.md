@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-04-02 12:34:08
+ * @LastEditTime: 2024-04-08 17:07:14
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -36,7 +36,6 @@
 - [腾讯视频](https://v.qq.com/)
 - [人民网](http://www.people.com.cn/)
 - [掘金](https://juejin.im/)
-- [铁血网](http://www.tiexue.net/)
 - [哔哩哔哩](https://www.bilibili.com/)
 - [社工库分享](https://github.com/telegram-sgk/SGK_Sites_and_Bots)
 - 内容持续更新
@@ -51,15 +50,15 @@
 #### 影视观看
 
 - [素白白影视](https://www.subaibaiys.com/)
-- [18电影](https://www.18idy.com/)
+- [80s电影](https://www.18idy.com/)
 - [电影狗搜索](https://www.dianyinggou.com/)
 - [555电影](https://55vid.shop/)
 - [freeok](https://www.freeok.vip/)
-- [简单动漫](https://www.36dm.com/)
-- [福利吧](https://fuliba23.net/)
-- [雨花阁BT搜索](https://github.com/yuhuage/dizhi)
-- [香色闺阁源 | ](https://github.com/zqzess/MyWebStorage)
-- [最热种子磁力链接搜索](https://github.com/fwonggh/Bthub)
+- [简单动漫](https://www.36dm.org/)
+- [福利吧](https://fuliba2023.net/)
+- [雨花阁BT搜索引擎](https://github.com/yuhuage/dizhi)
+- [香色闺阁源ios书源](https://github.com/zqzess/MyWebStorage)
+- [小草磁力BT搜索](https://github.com/fwonggh/Bthub)
 
 <!-- div:right-panel -->
 
@@ -77,7 +76,7 @@
 - [放屁网-MP3下载](https://www.fangpi.net/)
 - [音乐搜索器](http://music.itzo.cn/)
 - [抖音/TikTok无水印在线解析](https://douyin.wtf/)
-- [全能VIP视频在线解析](https://www.wuhenge.com/html/video/)
+- [DownLoadPanda](https://dlpanda.com/zh-CN)
 - [Blilidown](https://zhouql.vip/bilibili/)
 - 内容持续更新
 
@@ -100,7 +99,6 @@
 - [老殁免费分享优秀软件](https://www.mpyit.com/)
 - [异次元软件世界](https://www.iplaysoft.com/)
 - [iTellYou | 系统下载](https://next.itellyou.cn)
-- [软件缘](https://www.appcgn.com/)
 - [果核剥壳](https://www.ghxi.com/)
 - [我最喜欢的软件Windows版](https://love.appinn.com/)
 - [佛系软件](https://foxirj.com/)
@@ -109,18 +107,14 @@
 - [黑域基地](https://www.hybase.com/)
 - [分享蓝同学收集的软件资源、使用心得](https://github.com/lanbao2021/share)
 - [LR](https://lrepacks.net/)
-- 内容持续更新
+- [小众软件](https://www.appinn.com/)
+- [KoolCenter 源于玩家，服务玩家](https://www.koolcenter.com/)
 
 <!-- div:right-panel -->
 
 #### MAC软件
 
-- [小众软件](https://www.appinn.com/)
-- [KoolCenter | 源于玩家，服务玩家](https://www.koolcenter.com/)
-- [LR | 俄罗斯软件破解站](https://lrepacks.net/)
 - [Mac金币](https://www.macjb.com/)
-- [未来mac下载](https://mac.orsoon.com/)
-- [爱奶酪](https://www.icheese.org/)
 - [imacapp](https://www.ifunmac.com/)
 - [苹果软件盒子](https://www.macappbox.com/)
 - [MacWk](https://macwk.cn/)
@@ -136,7 +130,7 @@
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
-        <img src="assets/img/er011.png" width="100%"/>
+        <img src="assets/img/er008.png" width="100%"/>
     </a>
 </p>
 
@@ -161,6 +155,9 @@
 ### 壁纸
 
 - [极简壁纸](https://bz.zzzmh.cn/)
+- [彼岸图网](https://pic.netbian.com/)
+- [wallhere](https://wallhere.com/)
+- [wallhaven](https://wallhaven.icu/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -174,7 +171,6 @@
 
 - [PDF补丁丁](https://github.com/wmjordan/PDFPatcher)
 - [I love PDF](https://www.ilovepdf.com/zh-cn)
-- [ABCD PDF](https://abcdpdf.com/)
 - [All to All](https://www.alltoall.net/)
 - [Wondershare HiPDF](https://www.hipdf.cn/)
 - [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
@@ -207,6 +203,10 @@
 - [阿里云盘](https://www.aliyundrive.com/)
 - [蓝奏云盘](https://www.lanzou.com/)
 - [百度网盘](https://pan.baidu.com/)
+- [夸克网盘](https://www.quark.cn/)
+- [坚果云](https://www.jianguoyun.com/)
+- [123网盘](https://www.123pan.com/login)
+- [城通网盘](https://www.ctfile.com/)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -267,6 +267,8 @@
 - [国家公务员局](http://www.scs.gov.cn/)
 - [公务员考试|中公教育网](http://www.offcn.com/)
 - [中国计算机技术职业资格网](https://www.ruankao.org.cn/)
+- [教资资格证]()
+- [事业编单位]()
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -283,7 +285,7 @@
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
-        <img src="assets/img/er004.png" width="100%"/>
+        <img src="assets/img/er009.png" width="100%"/>
     </a>
 </p>
 
@@ -294,7 +296,6 @@
 ### AIGC工具
 
 - [什么值得看](https://smzdk.top/#/)
-- [DownLoadPanda](https://dlpanda.com/zh-CN)
 - [TTS-Online 免费文字转语音](https://www.ttson.cn/)
 - [贴吧小助手](https://greasyfork.org/zh-CN/scripts/419001-%E8%B4%B4%E5%90%A7%E5%B0%8F%E5%8A%A9%E6%89%8B)
 - [白瓜AI助手](https://baigua.com/)
@@ -318,20 +319,19 @@
 - [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
 - [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
 - [ip地址归属地查询_可单次查询、可批量查询](https://www.52pojie.cn/thread-1637698-1-4.html)
+- [WPS](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
 - [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
 - [百度文库下载](https://www.52pojie.cn/thread-1690024-1-1.html)
 - [360驱动大师 2.0.0.1790 纯净绿色单文件](https://www.52pojie.cn/thread-1650151-1-1.html)
-- [抖音视频网页解析](https://www.daimadog.com/douyin)
-- [某音某手某瓜视频解析下载水印工具-python环境才行]()
 - [PDFShaper Pro](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1534628)
 - [PotPlayer](https://potplayer.org/gengxin/713.html)
-- [File Converter | 文件格式转换软件](https://file-converter.org/)
-- [PDFPatcher | PDF处理工具](https://github.com/wmjordan/PDFPatcher)
+- [File Converter 文件格式转换软件](https://file-converter.org/)
+- [PDFPatcher PDF处理工具](https://github.com/wmjordan/PDFPatcher)
 - [阅读3.0](https://github.com/gedoor/legado/releases/tag/3.22.072122)
 - [阅读APP书源](https://github.com/aoaostar/legado)
 - [香色闺阁书源](https://github.com/shidahuilang/shuyuan)
-- [异次元](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
+- [异次元软件](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
 - [B23Downloader-已停更](https://github.com/vooidzero/B23Downloader)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
 - [哔哩下载姬（DownKyi）](https://github.com/leiurayer/downkyi)
@@ -345,6 +345,9 @@
 - [F12下载视频-m3u8](https://www.52pojie.cn/thread-1783663-1-1.html)
 - [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
 - [m3u8批量下载-逍遥一仙](https://www.52pojie.cn/thread-1631141-1-1.html)
+
+<!-- div:right-panel -->
+
 - [Windows上统计软件使用时长](https://github.com/Planshit/Tai)
 - [TAICHI-flet | windows桌面应用，爬取图片、音乐、小说、磁力链接](https://github.com/cuifengcn/TAICHI-flet)
 - [学无止慕课下载器](https://github.com/PyJun/Mooc_Downloader)
@@ -358,21 +361,13 @@
 - [optimizer | Windows系统优化工具](https://github.com/hellzerg/optimizer)
 - [自动化下载、安装、激活Office的利器](https://github.com/OdysseusYuan/LKY_OfficeTools)
 - [免费开源的屏幕实时翻译工具](https://github.com/Danily07/Translumo)
-- 内容持续更新
-
-<!-- div:right-panel -->
-
-### 素材
-
-- [免费透明背景图片素材](http://pngimg.com/)
-- [Emoji表情包下载](https://emojiisland.com/)
-- [open source icons](https://feathericons.com/)
-- [阿里巴巴矢量图标库](https://www.iconfont.cn/)
-- [表情包在线网站](https://fabiaoqing.com/)
-- [Pixabay图片素材库](https://pixabay.com/zh/)
-- [Pexels图片素材库](http://www.pexels.com)
-- [Tabler Icons | 681枚可定制的开源SVG图标](https://tablericons.com/)
-- [Simple Icons  |  常见品牌的SVG图标](https://simpleicons.org/)
+- [FSCapture 长截图+编辑]()
+- [IP地址修改器]()
+- [NasCab Setup 远程管理照片、视频]()
+- [易我数据修复]()
+- [文件批量重命名](https://www.52pojie.cn/thread-1907972-1-1.html)
+- [一点红语音合成]()
+- [WPS插件精灵]()
 - 内容持续更新
 
 <!-- panels:end -->
@@ -433,6 +428,19 @@
 - 内容持续更新
 
 <!-- div:right-panel -->
+
+### 素材
+
+- [免费透明背景图片素材](http://pngimg.com/)
+- [Emoji表情包下载](https://emojiisland.com/)
+- [open source icons](https://feathericons.com/)
+- [阿里巴巴矢量图标库](https://www.iconfont.cn/)
+- [表情包在线网站](https://fabiaoqing.com/)
+- [Pixabay图片素材库](https://pixabay.com/zh/)
+- [Pexels图片素材库](http://www.pexels.com)
+- [Tabler Icons | 681枚可定制的开源SVG图标](https://tablericons.com/)
+- [Simple Icons  |  常见品牌的SVG图标](https://simpleicons.org/)
+- 内容持续更新
 
 <!-- panels:end -->
 
