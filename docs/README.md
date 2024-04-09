@@ -27,8 +27,8 @@
 ---
 
 > [!note]
-> 本网站取名 **在新疆卖砂糖橘**，是为了方便自己导航学习，分享自己学编程的笔记和记录githua资源。
-> 关注B站账号[在新疆卖砂糖橘](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)
+> 本网站取名 **在新疆卖砂糖橘**，主要是为了方便自己学习，分享自己学编程的笔记和记录githua资源。
+> 关注B站账号 **[在新疆卖砂糖橘](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)**
 
 
 <!-- panels:start -->
@@ -48,7 +48,7 @@
 - [TypeScript 教程](https://github.com/xcatliu/typescript-tutorial)
 - [50projects50days](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
-- [为开发人员分享快速参考备忘单](https://github.com/jaywcjlove/reference)
+- [开发人员分享快速参考备忘单](https://github.com/jaywcjlove/reference)
 - [HTTP状态码](https://tool.oschina.net/commons?type=5)
 - 内容持续更新
 
@@ -76,26 +76,26 @@
 
 <!-- div:left-panel -->
 
-- [CSS Tricks 效果大全 | CSS的各种效果实现](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
-- [CSS Inspiration | CSS灵感的诞生地](https://github.com/chokcoco/CSS-Inspiration)
-- [CSS Tricks 常用样式 | 有很多常用的CSS样式](https://github.com/QiShaoXuan/css_tricks)
+- [CSS Tricks 效果大全](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
+- [CSS Inspiration 灵感](https://github.com/chokcoco/CSS-Inspiration)
+- [CSS Tricks 常用样式](https://github.com/QiShaoXuan/css_tricks)
 - [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
-- [CSS Minifier | 在线CSS代码简化/压缩工具](https://cssminifier.com/)
+- [CSS Minifier 代码简化/压缩工具](https://cssminifier.com/)
 - [css灵感](https://csscoco.com/inspiration/#/)
 - [不止于 CSS](https://github.com/chokcoco/iCSS)
-- [simple-icons | 免费SVG图标库](https://github.com/simple-icons/simple-icons)
-- [SpinKit | 纯 CSS 实现加载动画的项目](https://github.com/tobiasahlin/SpinKit)
+- [simple-icons 免费SVG图标库](https://github.com/simple-icons/simple-icons)
+- [SpinKit 加载动画](https://github.com/tobiasahlin/SpinKit)
 
 <!-- div:right-panel -->
 
-- [Sass 中文文档 | CSS扩展语言](https://sass-guidelin.es/zh/)
-- [Less.js 中文文档](https://less.bootcss.com/)
-- [stylus | CSS扩展](https://stylus-lang.com/)
-- [ColorHunt | 渐变色](https://colorhunt.co/)
-- [WebGradients | 好看的渐变色](https://webgradients.com/)
-- [渐变色 | uigradients](https://uigradients.com/#Disco)
-- [Animista | CSS动画库](https://animista.net/)
-- [Normalize.css | 重置样式](https://necolas.github.io/normalize.css/)
+- [Sass 文档](https://sass-guidelin.es/zh/)
+- [Less.js 文档](https://less.bootcss.com/)
+- [stylus 文档](https://stylus-lang.com/)
+- [ColorHunt 渐变色](https://colorhunt.co/)
+- [WebGradients 渐变色](https://webgradients.com/)
+- [uigradients 渐变色](https://uigradients.com/#Disco)
+- [Animista 动画库](https://animista.net/)
+- [Normalize.css 重置样式](https://necolas.github.io/normalize.css/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -113,28 +113,28 @@
 - [常用js库汇总](https://github.com/MrXujiang/frontend-developer-roadmap)
 - [西瓜播放器xgplayer.JS](https://v2.h5player.bytedance.com/)
 - [video.js推荐]()
-- [MuiPlayer | HTML5视媒体播放](https://muiplayer.js.org/zh/)
-- [moovie.js | HTML5 播放器](https://github.com/BMSVieira/moovie.js)
-- [Chimee | 组件化H5播放器框架](http://chimee.org/)
-- [slick：几乎实现了所有效果的幻灯轮播图插件库](https://github.com/kenwheeler/slick)
-- [videoUI: HTML5 Videojs](https://gitee.com/cnbrucelee/videoUI)
-- [50天用JavaScript完成50个web项目 | SegmentFault](https://segmentfault.com/a/1190000040481518)
-- [Linux命令大全(手册) – 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)
-- [Markdown 语法速查表 | Markdown 官方教程](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
-- [swiper | 滑动插件](https://www.swiper.com.cn/index.html)
-- [slick | 轮播图](https://github.com/kenwheeler/slick)
-- [iSlider | 移动端滑动组件](http://eux.baidu.com/iSlider/demo/index_chinese.html)
-- [Anime | 强大的、轻量级的用来制作动画的javascript库](http://animejs.com/)
-- [wow.js | 滚动展示动画](https://github.com/matthieua/WOW)
-- [mescroll.js | H5端运行的下拉刷新和上拉加载插件](http://www.mescroll.com/index.html)
-- [echarts | JavaScript开源可视化图标库](https://echarts.apache.org/zh/index.html)
-- [Made A Pie | 众多echarts案例](https://madeapie.com/#/)
+- [MuiPlayer 视媒体播放](https://muiplayer.js.org/zh/)
+- [moovie.js 播放器](https://github.com/BMSVieira/moovie.js)
+- [Chimee H5播放器框架](http://chimee.org/)
+- [slick 几乎实现了所有效果的幻灯轮播图插件库](https://github.com/kenwheeler/slick)
+- [videoUI](https://gitee.com/cnbrucelee/videoUI)
+- [50天用JavaScript完成50个web项目](https://segmentfault.com/a/1190000040481518)
+- [Linux命令大全](https://www.linuxcool.com/)
+- [Markdown 语法速查表](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
+- [swiper 滑动插件](https://www.swiper.com.cn/index.html)
+- [slick 轮播图](https://github.com/kenwheeler/slick)
+- [iSlider 移动端滑动组件](http://eux.baidu.com/iSlider/demo/index_chinese.html)
+- [Anime 制作动画的库](http://animejs.com/)
+- [wow.js 滚动展示动画](https://github.com/matthieua/WOW)
+- [mescroll.js 下拉刷新和上拉加载插件](http://www.mescroll.com/index.html)
+- [echarts 可视化图标库](https://echarts.apache.org/zh/index.html)
+- [Made A Pie echarts案例](https://madeapie.com/#/)
 
 <!-- div:right-panel -->
 
 - [WTF Ethers.js极简入门](https://github.com/WTFAcademy/WTF-Ethers)
-- [three.js| 中文文档](https://threejs.docschina.org/)
-- [elevator.js | 返回顶部过程中像电梯向上运行插件](https://github.com/tholman/elevator.js)
+- [three.js 文档](https://threejs.docschina.org/)
+- [elevator.js 返回顶部运行插件](https://github.com/tholman/elevator.js)
 - [dayjs日期处理类库](https://dayjs.fenxianglu.cn/)
 - [momentjs日期处理类库](http://momentjs.cn/docs/)
 - [pdfjs](http://mozilla.github.io/pdf.js/)
@@ -142,13 +142,13 @@
 - [Easy Mock](https://github.com/easy-mock/easy-mock)
 - [wangEditor编译器](https://www.wangeditor.com/)
 - [百度编译器UEditor](https://github.com/fex-team/ueditor)
-- [Quill | 中文文档](https://www.kancloud.cn/liuwave/quill/1409423)
-- [TinyMCE | 富文本编译器](http://tinymce.ax-z.cn/)
+- [Quill 文档](https://www.kancloud.cn/liuwave/quill/1409423)
+- [TinyMCE 富文本编译器](http://tinymce.ax-z.cn/)
 - [lodash.js](https://www.lodashjs.com/)
 - [JQuery](https://jquery.com/download/)
 - [zepto](https://zeptojs.com/)
 - [Axios](https://www.axios-http.cn/)
-- [Fly.js | 基Promise的请求转发、强大的http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
+- [Fly.js http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -163,7 +163,7 @@
 <!-- div:left-panel -->
 
 - [Vue+SpringBoot+MyBatis音乐网站](https://github.com/Yin-Hongwei/music-website)
-- [mmPlayer\在线音乐播放器](https://github.com/maomao1996/Vue-mmPlayer)
+- [mmPlayer在线音乐播放器](https://github.com/maomao1996/Vue-mmPlayer)
 - [vue_wzz_cloudMusic高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
 - [Node.js API service网易云音乐API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [YesPlayMusic 第三方网易云播放器Electron版](https://github.com/qier222/YesPlayMusic)
@@ -178,7 +178,7 @@
 - [学之思考试系统](https://www.mindskip.net:888/)
 - [Kinit开箱即用的中后台](https://github.com/vvandk/kinit)
 - [nodejs+vue匿名聊天室](https://gitee.com/lifeixue/chat-vue)
-- [Z-BlogPHP博客系统 | php+mysql+IIS](https://github.com/zblogcn/zblogphp)
+- [Z-BlogPHP博客系统](https://github.com/zblogcn/zblogphp)
 - [VuePress知识管理&博客(blog)主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
 - [Aurora 前后端分离博客](https://github.com/linhaojun857/aurora-public)
 - [halo 博客/CMS系统](https://github.com/halo-dev/halo)
@@ -202,7 +202,7 @@
 - [Intro.js 产品引导库](https://github.com/usablica/intro.js)
 - [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
 - [vue-monoplasty-slide-verify 验证码插件](https://github.com/monoplasty/vue-monoplasty-slide-verify)
-- [webtorrent | 基于 JS 的流媒体种子客户端](https://github.com/webtorrent/webtorrent)
+- [webtorrent 流媒体种子客户端](https://github.com/webtorrent/webtorrent)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [vue 纯前端的拼图人机验证、右滑拼图验证](https://github.com/javaLuo/vue-puzzle-vcode)
 - [Web思维导图](https://github.com/wanglin2/mind-map)
@@ -212,7 +212,7 @@
 - [EasyImage 简单图床](https://github.com/icret/EasyImages2.0)
 - [godocms 开源办公套件](https://github.com/godocms/godocms)
 - [dooringx 可视化拖拽低代码平台](https://github.com/H5-Dooring/dooringx)
-- [html2canvas | 实现浏览器内截屏的JavaScript库](https://github.com/niklasvh/html2canvas)
+- [html2canvas浏览器内截屏库](https://github.com/niklasvh/html2canvas)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [大前端技术](https://github.com/biaochenxuying/blog)
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
@@ -296,7 +296,7 @@
 
 - [python爬取新浪微博](https://github.com/dataabc/weiboSpider)
 - [有趣的python爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
-- [funNLP | 中文NLP资源库](https://github.com/fighting41love/funNLP)
+- [funNLP NLP资源库](https://github.com/fighting41love/funNLP)
 - [AI 写小说](https://github.com/BlinkDL/AI-Writer)
 - [AI绘画资料合集](https://github.com/hua1995116/awesome-ai-painting)
 - [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
@@ -335,7 +335,7 @@
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 - [文章同步助手](https://github.com/wechatsync/Wechatsync)
 - [Tampermonkey 油猴脚本](https://www.tampermonkey.net/)
-- [Abcd PDF | 转换器](https://chrome.zzzmh.cn/info/mcgnagemenncafhpabimmooimpngdcpn)
+- [Abcd PDF 转换器](https://chrome.zzzmh.cn/info/mcgnagemenncafhpabimmooimpngdcpn)
 - [Adblock Plus 广告拦截](https://chrome.zzzmh.cn/info/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [Vue Devtools](https://chrome.zzzmh.cn/info/nhdogjmejiglipccpnnnanhbledajbpd)
 - [哔哩哔哩助手_bilibili](https://chrome.zzzmh.cn/info/kpbnombpnpcffllnianjibmpadjolanh)
@@ -477,11 +477,11 @@
 <!-- div:right-panel -->
 
 - [jquery | cuizhifeng](https://jquery.cuishifeng.cn/)
-- [axios中文文档](http://www.axios-js.com/zh-cn/docs/)
-- [element中文文档](https://element.eleme.cn/#/zh-CN)
-- [webpack 中文文档](https://webpack.docschina.org/)
-- [Git中文教程](https://git-scm.com/book/zh/v2)
-- [SVN中文手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+- [axios 文档](http://www.axios-js.com/zh-cn/docs/)
+- [element 文档](https://element.eleme.cn/#/zh-CN)
+- [webpack  文档](https://webpack.docschina.org/)
+- [Git 教程](https://git-scm.com/book/zh/v2)
+- [SVN 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 - [凤凰架构](https://icyfenix.cn/)
 - [dicsify](https://docsify.js.org/#/)
 - [dumi 文档](https://d.umijs.org/zh-CN)
