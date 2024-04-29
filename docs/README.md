@@ -49,7 +49,6 @@
 - [50projects50days](https://github.com/bradtraversy/50projects50days)
 - [JavaScript 知识图谱教程](https://tsejx.github.io/javascript-guidebook//)
 - [开发人员分享快速参考备忘单](https://github.com/jaywcjlove/reference)
-- [HTTP状态码](https://tool.oschina.net/commons?type=5)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -58,6 +57,7 @@
 ### HTML教程
 ---
 
+- [HTTP状态码](https://tool.oschina.net/commons?type=5)
 - [前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
 - [Github热榜](https://github.com/trending)
 - [Free Website Templates](https://www.themezy.com/)
@@ -140,15 +140,15 @@
 - [pdfjs](http://mozilla.github.io/pdf.js/)
 - [Mockjs](http://mockjs.com)
 - [Easy Mock](https://github.com/easy-mock/easy-mock)
-- [wangEditor编译器](https://www.wangeditor.com/)
-- [百度编译器UEditor](https://github.com/fex-team/ueditor)
-- [Quill 文档](https://www.kancloud.cn/liuwave/quill/1409423)
-- [TinyMCE 富文本编译器](http://tinymce.ax-z.cn/)
 - [lodash.js](https://www.lodashjs.com/)
 - [JQuery](https://jquery.com/download/)
 - [zepto](https://zeptojs.com/)
 - [Axios](https://www.axios-http.cn/)
 - [Fly.js http请求库](https://wendux.github.io/dist/#/doc/flyio/readme)
+- [wangEditor编译器](https://www.wangeditor.com/)
+- [百度编译器UEditor](https://github.com/fex-team/ueditor)
+- [Quill 文档](https://www.kancloud.cn/liuwave/quill/1409423)
+- [TinyMCE 富文本编译器](http://tinymce.ax-z.cn/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -174,6 +174,7 @@
 - [前后端分离的外卖 Web App (SPA) 项目](https://github.com/Mintnoii/Vue-MintShop)
 - [前后端分离在线考试系统](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)
 - [前后端分离的博客项目项目vueblog](https://github.com/MarkerHub/vueblog)
+- [Kinit一套全部开源的快速开发平台](https://github.com/vvandk/kinit)
 - [微人事人力资源管理系统](https://github.com/lenve/vhr)
 - [学之思考试系统](https://www.mindskip.net:888/)
 - [Kinit开箱即用的中后台](https://github.com/vvandk/kinit)
@@ -268,6 +269,7 @@
 - [智谱清言](https://chatglm.cn/)
 - [腾讯混元大模型](https://hunyuan.tencent.com/)
 - [stable diffusion](https://stablediffusionweb.com/)
+- [图片生代码](https://www.octopus31.com/code/generate)
 - [midjourney](https://www.midjourney.com/)
 - [AI工具站](https://www.aigcyjs.com/)
 - [AI导航](https://ai.dreamthere.cn/)
@@ -324,6 +326,7 @@
 - [高清仪表盘图标](https://github.com/xushier/HD-Icons)
 - [Video-subtitle-remover硬字幕去除软件](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [EasySpider易采集](https://github.com/NaiboWang/EasySpider)
+- [超星学习通答题姬](https://github.com/SocialSisterYi/CxKitty)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -414,7 +417,7 @@
 
 <!-- div:left-panel -->
 
-- [GitHub ](https://github.com/)
+- [GitHub](https://github.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 - [掘金](https://juejin.cn/)
 - [博客园](https://www.cnblogs.com/)
@@ -457,17 +460,17 @@
 - [Vuejs.org 新版文档](https://staging-cn.vuejs.org/)
 - [Angular 文档](https://angular.cn/)
 - [Express 文档](http://expressjs.com/zh-cn/)
-- [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
+- [vue-element-admin 文档](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 - [MongoDB 文档](https://docs.mongoing.com/)
 - [Mongoose 文档](https://mongoosejs.com/)
 - [jQuery API 文档](https://www.jquery123.com/)
 - [React 文档](https://zh-hans.reactjs.org/)
 - [Nginx 文档](https://www.nginx.cn/doc/index.html)
-- [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+- [微信小程序文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [Bootstrap 文档](https://www.bootcss.com/)
 - [Moment.js 文档](http://momentjs.cn/docs/)
 - [Vuex 文档](https://vuex.vuejs.org/zh/)
-- [jQuery API 文档](http://hemin.cn/jq/)
+- [jquery API 文档](http://hemin.cn/jq/)
 - [Taro 文档](https://taro.jd.com/)
 - [kbone 文档](https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/extended/kbone/)
 - [mpvue 文档](http://mpvue.com/)
@@ -476,23 +479,22 @@
 
 <!-- div:right-panel -->
 
-- [jquery | cuizhifeng](https://jquery.cuishifeng.cn/)
 - [axios 文档](http://www.axios-js.com/zh-cn/docs/)
 - [element 文档](https://element.eleme.cn/#/zh-CN)
-- [webpack  文档](https://webpack.docschina.org/)
-- [Git 教程](https://git-scm.com/book/zh/v2)
-- [SVN 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+- [webpack 文档](https://webpack.docschina.org/)
+- [git 文档](https://git-scm.com/book/zh/v2)
+- [SVN 文档](http://svnbook.red-bean.com/nightly/zh/index.html)
 - [凤凰架构](https://icyfenix.cn/)
-- [dicsify](https://docsify.js.org/#/)
+- [dicsify 文档](https://docsify.js.org/#/)
 - [dumi 文档](https://d.umijs.org/zh-CN)
 - [Lodash 文档](https://www.lodashjs.com/)
 - [layui 文档](https://layui.github.io/)
 - [koa 文档](https://koajs.docschina.org/)
-- [Egg.js 文档](https://www.eggjs.org/zh-CN)
+- [egg.js 文档](https://www.eggjs.org/zh-CN)
 - [next 文档](https://docs.nestjs.com/)
 - [v-charts 文档](https://v-charts.js.org/#/)
-- [Ant Design 文档](https://ant.design/index-cn)
-- [Vuetify 文档](https://vuetifyjs.com/zh-Hans/)
+- [ant Design 文档](https://ant.design/index-cn)
+- [vuetify 文档](https://vuetifyjs.com/zh-Hans/)
 - [View Design 文档](https://www.iviewui.com/)
 - [vue cli 文档](https://cli.vuejs.org/zh/)
 - [koajs 文档](https://koajs.docschina.org/)
@@ -511,9 +513,9 @@
 
 <!-- div:left-panel -->
 
-- [NPM](https://www.npmjs.com/)
-- [cnpm](https://npmmirror.com/)
-- [webpack 构建工具](https://webpack.js.org/)
+- [NPM 包管理](https://www.npmjs.com/)
+- [cnpm 包管理](https://npmmirror.com/)
+- [webpack 构建工具打包器](https://webpack.js.org/)
 - [Yarn 包管理和构建工具](https://yarnpkg.com/)
 - [Gulp 构建工具](https://www.gulpjs.com.cn/)
 - [Babel ES6构建转换工具](https://babeljs.io/)
@@ -531,7 +533,7 @@
 - [GitBook 文档平台，支持团队协作](https://www.gitbook.com/)
 - [Whistle 代理抓包工具](https://wproxy.org/whistle/)
 - [Fiddler 抓包工具](https://www.telerik.com/fiddler)
-- [TEXT文本美化工具](http://www.txttool.com/)
+- [TEXT 文本美化工具](http://www.txttool.com/)
 - [MikuTools 工具集合](https://tools.miku.ac/)
 - 内容持续更新
 
@@ -554,17 +556,17 @@
 - [WebStom](https://www.jetbrains.com/webstorm/)
 - [Atom](https://atom.io/)
 - [Typora](https://www.typora.io/)
-- [Idea-Intellij IDEA]()
-- [PyCharm]()
+- [Idea-Intellij IDEA](https://www.jetbrains.com/idea/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
 
 <!-- div:right-panel -->
 
-- [MyEcplise]()
-- [Xcode]()
-- [SecureCRT]()
-- [Termius]()
-- [iTerm]()
-- [Postman]()
+- [MyEcplise](https://www.genuitec.com/products/myeclipse/)
+- [Xcode](https://developer.apple.com/xcode/)
+- [SecureCRT](https://www.vandyke.com/products/securecrt/)
+- [Termius](https://termius.com/)
+- [iTerm](https://iterm2.com/)
+- [Postman](https://www.postman.com/)
 - [Postman汉化中文版](https://github.com/hlmd/Postman-cn)
 - 内容持续更新
 
@@ -617,7 +619,7 @@
 - [慕课网](https://www.imooc.com/)
 - [腾讯课堂](https://ke.qq.com/)
 - [开课吧](https://www.kaikeba.com/)
-- [666资源站](https://666java.com/)
+- [666资源站·已失效](https://666java.com/)
 - [自用资源](https://github.com/heroaku/TVboxo)
 - 内容持续更新
 
@@ -630,6 +632,7 @@
 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - [前端面试3+1](https://github.com/haizlin/fe-interview)
+- [前端面试官网](http://www.h-camel.com/index.html)
 - [牛客网](https://www.nowcoder.com/)
 - [前端进阶之旅](https://interview2.poetries.top/)
 - [掘金面试宝典](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
@@ -698,7 +701,7 @@
 - [计算机保研交流群:605176069](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
 - [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
-- [直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv)
+- [直播源m3u8下载，电视直播网站推荐·失效](https://github.com/biancangming/wtv)
 - [直播源相关资源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 - [获取58个直播平台的真实流媒体地址](https://github.com/wbt5/real-url)
 - 内容持续更新
@@ -719,10 +722,8 @@
 - [最代码](http://www.zuidaima.com/)
 - [100素材网](http://www.100sucai.com/)
 - [LKs哔哩哔哩up主收集的网址](https://xiangjianan.github.io/lks/)
-- [翻墙-科学上网](https://github.com/Alvin9999/new-pac)
-- [科学上网1](https://github.com/xiaoming2028/FreePAC)
+- [科学上网1](https://github.com/Alvin9999/new-pac)
 - [科学上网2](https://github.com/yu-steven/openit)
-- [科学上网3](https://github.com/alanbobs999/TopFreeProxies)
 - [每日分享免费节点](https://github.com/abshare/abshare.github.io)
 - [Clash For Windows 汉化补丁和汉化脚本](https://github.com/BoyceLig/Clash_Chinese_Patch)
 - [clash for windows汉化版，提供clash for windows的汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
