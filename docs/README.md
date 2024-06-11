@@ -217,13 +217,20 @@
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [大前端技术](https://github.com/biaochenxuying/blog)
 - [正则表达式实例搜集](https://github.com/jaywcjlove/regexp-example)
+- [正则表达式的可视化](https://ihateregex.io/)
 - [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region)
 - [简单图床](https://github.com/icret/EasyImages2.0)
 - [隔离食用手册大全](https://github.com/YunYouJun/cook)
 - [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
 - [根据截图生成网页](https://github.com/abi/screenshot-to-code)
 - [省市区县乡镇三级或四级城市数据](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)
+- [迅排设计](https://xp.palxp.cn/)
+- [百度地图的大数据可视化库](https://github.com/TalkingData/inmap)
 - [低代码]()
+- [Papermark文件分享平台](https://github.com/mfts/papermark)
+- [undraw-ui Vue3的评论组件](https://github.com/readpage/undraw-ui)
+- [uppy文件上传组件](https://github.com/transloadit/uppy)
+
 - 内容持续更新
 
 <!-- panels:end -->
@@ -263,10 +270,10 @@
 
 - [chatGPT](https://chat.openai.com/)
 - [chatGPT镜像站点](https://github.com/xx025/carrot)
+- [智谱清言](https://chatglm.cn/)
 - [文心一言](https://yiyan.baidu.com/)
 - [通义千问](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f73da21wNpcG)
 - [讯飞星火](https://xinghuo.xfyun.cn/desk)
-- [智谱清言](https://chatglm.cn/)
 - [腾讯混元大模型](https://hunyuan.tencent.com/)
 - [stable diffusion](https://stablediffusionweb.com/)
 - [图片生代码](https://www.octopus31.com/code/generate)
@@ -327,6 +334,7 @@
 - [Video-subtitle-remover硬字幕去除软件](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [EasySpider易采集](https://github.com/NaiboWang/EasySpider)
 - [超星学习通答题姬](https://github.com/SocialSisterYi/CxKitty)
+- [AI拟声](https://github.com/babysor/MockingBird/tree/main)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -558,6 +566,7 @@
 - [Typora](https://www.typora.io/)
 - [Idea-Intellij IDEA](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [fishshell终端](https://fishshell.com/)
 
 <!-- div:right-panel -->
 
@@ -568,6 +577,7 @@
 - [iTerm](https://iterm2.com/)
 - [Postman](https://www.postman.com/)
 - [Postman汉化中文版](https://github.com/hlmd/Postman-cn)
+- [IDEA教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - 内容持续更新
 
 <!-- panels:end -->

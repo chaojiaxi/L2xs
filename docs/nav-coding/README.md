@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-04-29 08:57:13
+ * @LastEditTime: 2024-06-11 10:39:40
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -25,9 +25,12 @@
 
 ### 常用网站
 
+- [数字生活指南](https://nav.guidebook.top/)
 - [Github](https://github.com/)
 - [Gitee](https://gitee.com/)
 - [微博热榜](https://weibo.com/newlogin?tabtype=list&gid=1028039999&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F)
+- [readhub科技新闻热榜](https://readhub.cn/)
+- [今日热榜](https://tophub.today/)
 - [百度](https://www.baidu.com/)
 - [QQ邮箱](https://mail.qq.com/)
 - [微博](http://weibo.com/)
@@ -76,6 +79,7 @@
 - [虎牙](https://www.huya.com/)
 - [斗鱼](https://www.douyu.com/)
 - [放屁网-MP3下载](https://www.fangpi.net/)
+- [dtshot专辑下载](https://www.dtshot.com/)
 - [音乐搜索器](http://music.itzo.cn/)
 - [抖音/TikTok无水印在线解析](https://douyin.wtf/)
 - [DownLoadPanda](https://dlpanda.com/zh-CN)
@@ -184,12 +188,18 @@
 
 - [超级PDF](https://xpdf.net/)
 - [白描在线识别](https://web.baimiaoapp.com/)
-- [remove | 图片去除背景](https://www.remove.bg/)
+- [remove图片去除背景](https://www.remove.bg/)
 - [身份证件加水印](http://tool.c7sky.com/id-card-watermark/)
-- [石墨文档 | 文档与知识库工具](https://shimo.im/)
-- [印象笔记 | 文档与知识库工具](https://www.yinxiang.com/)
-- [幕布 | 文档与知识库工具](https://mubu.com/)
-- [语雀 | 文档与知识库工具](https://www.yuque.com/)
+- [石墨文档](https://shimo.im/)
+- [腾讯文档](https://docs.qq.com/)
+- [金山文档](https://www.kdocs.cn/welcome)
+- [印象笔记](https://www.yinxiang.com/)
+- [幕布](https://mubu.com/)
+- [语雀](https://www.yuque.com/)
+- [ProcessOn](https://www.processon.com/)
+- [Xmind](https://xmind.cn/)
+- [GitMind](https://gitmind.cn/)
+- [10分钟邮箱](https://rootsh.com/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -251,6 +261,7 @@
 - [腾讯问卷](https://wj.qq.com/)
 - [金数据](https://jinshuju.net/)
 - [iH5](https://www.ih5.cn/)
+- [番茄表单](https://fanqier.cn/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -277,6 +288,13 @@
 
 ### 其他
 
+- [paperyy免费论文查重](https://www.paperyy.com/)
+- [paperday免费论文查重](https://www.paperday.cn/)
+- [paperfree免费论文查重](https://www.paperfree.cn/)
+- [必剪](https://bcut.bilibili.cn/)
+- [剪映](https://www.capcut.cn/)
+- [文本转语音](https://www.text-to-speech.cn/)
+- [琅琅配音](https://www.lang123.top/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -309,12 +327,11 @@
 
 <!-- panels:end -->
 
+### 软件推荐
 
 <!-- panels:start -->
 
 <!-- div:left-panel -->
-
-### 软件推荐
 
 - [Max搶票機器人](https://github.com/max32002/tixcraft_bot)
 - [360极速浏览器X_21.0.1120.0绿色版](https://www.52pojie.cn/thread-1659087-1-1.html)
@@ -341,15 +358,15 @@
 - [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
+
+<!-- div:right-panel -->
+
 - [jellyfin-本地媒体库管理工具](https://github.com/jellyfin/jellyfin/releases)
 - [天若OCR](http://ocr.tianruo.net/)
 - [Umi-OCR-基于PaddleOCR的OCR图片转文字识别软件](https://github.com/hiroi-sora/Umi-OCR)
 - [F12下载视频-m3u8](https://www.52pojie.cn/thread-1783663-1-1.html)
 - [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
 - [m3u8批量下载-逍遥一仙](https://www.52pojie.cn/thread-1631141-1-1.html)
-
-<!-- div:right-panel -->
-
 - [Windows上统计软件使用时长](https://github.com/Planshit/Tai)
 - [TAICHI-flet | windows桌面应用，爬取图片、音乐、小说、磁力链接](https://github.com/cuifengcn/TAICHI-flet)
 - [学无止慕课下载器](https://github.com/PyJun/Mooc_Downloader)
@@ -370,6 +387,11 @@
 - [文件批量重命名](https://www.52pojie.cn/thread-1907972-1-1.html)
 - [一点红语音合成]()
 - [WPS插件精灵]()
+- [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
+- []()
+- []()
+- []()
+
 - 内容持续更新
 
 <!-- panels:end -->
@@ -394,6 +416,12 @@
 - [remove抠图工具](https://www.remove.bg/zh)
 - [AI抠图证件照换底色](https://koutu.gaoding.com/?hmsr=dh-dh21-koutu-web-wzsl-wke-gjgj&utm_medium=gjr&utm_source=dh)
 - [模糊图片秒转高清图](https://qingtu.cn/)
+- [清图](https://qingtu.cn/)
+- [bgsub消除图片背景](https://bgsub.cn/)
+- [稿定抠图](https://koutu.gaoding.com/)
+- []()
+- []()
+
 - 内容持续更新
 
 <!-- div:right-panel -->
