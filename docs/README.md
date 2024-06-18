@@ -230,7 +230,8 @@
 - [Papermark文件分享平台](https://github.com/mfts/papermark)
 - [undraw-ui Vue3的评论组件](https://github.com/readpage/undraw-ui)
 - [uppy文件上传组件](https://github.com/transloadit/uppy)
-
+- [数据可视化报表工具](https://github.com/jeecgboot/JimuReport)
+- [自定义的流程图编辑框架](https://github.com/didi/LogicFlow)
 - 内容持续更新
 
 <!-- panels:end -->
