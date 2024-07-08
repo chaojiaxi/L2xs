@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-06-11 10:39:40
+ * @LastEditTime: 2024-07-08 10:57:48
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -388,6 +388,8 @@
 - [一点红语音合成]()
 - [WPS插件精灵]()
 - [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
+- [obs推流直播](https://obsproject.com/)
+- [微信防撤回](https://github.com/huiyadanli/RevokeMsgPatcher)
 - 内容持续更新
 
 <!-- panels:end -->

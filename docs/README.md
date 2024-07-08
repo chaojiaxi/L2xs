@@ -149,6 +149,9 @@
 - [百度编译器UEditor](https://github.com/fex-team/ueditor)
 - [Quill 文档](https://www.kancloud.cn/liuwave/quill/1409423)
 - [TinyMCE 富文本编译器](http://tinymce.ax-z.cn/)
+- [Share.js分享](http://overtrue.me/share.js/)
+- [flv.js视频播放](https://github.com/bilibili/flv.js)
+- [moovie视频播放](https://github.com/BMSVieira/moovie.js)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -232,6 +235,7 @@
 - [uppy文件上传组件](https://github.com/transloadit/uppy)
 - [数据可视化报表工具](https://github.com/jeecgboot/JimuReport)
 - [自定义的流程图编辑框架](https://github.com/didi/LogicFlow)
+- [vue2单页面应用](https://github.com/bailicangdu/vue2-elm)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -412,6 +416,7 @@
 - [React Guidebook](https://tsejx.github.io/react-guidebook/)
 - [Webpack Guidebook](https://tsejx.github.io/webpack-guidebook/)
 - [ECMAScript 6简介](http://caibaojian.com/es6/)
+- [N-blog node教程](https://github.com/nswbmw/N-blog)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -508,6 +513,8 @@
 - [vue cli 文档](https://cli.vuejs.org/zh/)
 - [koajs 文档](https://koajs.docschina.org/)
 - [nuxtjs 文档](https://nuxtjs.org/)
+- [VuePress 文档](https://vuepress.vuejs.org/zh/)
+- [puppeteer]()
 - 内容持续更新
 
 <!-- panels:end -->
@@ -605,6 +612,7 @@
 - [《MySQL权威指南》](https://pan.baidu.com/s/1uGow9RNUz5ZpzpOKcJHcqw)
 - [《Node.js 开发指南》]()
 - [《vue.js 实战》]()
+- [《图说设计模式》](https://design-patterns.readthedocs.io/zh-cn/latest/index.html)
 - [《CS 自学指南》](https://csdiy.wiki/)
 - [《影响现代软件架构的经典论文》](https://github.com/davideuler/architecture.of.internet-product)
 - [计算机电子书免费下载](https://github.com/itdevbooks/pdf)
