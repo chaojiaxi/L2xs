@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-07-08 10:57:48
+ * @LastEditTime: 2024-10-09 15:38:17
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -115,7 +115,9 @@
 - [LR](https://lrepacks.net/)
 - [小众软件](https://www.appinn.com/)
 - [KoolCenter 源于玩家，服务玩家](https://www.koolcenter.com/)
-
+- [Puresys软件下载](https://www.puresys.net/)
+- [黑涩网](https://www.sunweihu.com)
+- [蓝奏云每日更新](https://705.lanzoui.com/b02ujvrej)
 <!-- div:right-panel -->
 
 #### MAC软件
@@ -338,7 +340,7 @@
 - [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
 - [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
 - [ip地址归属地查询_可单次查询、可批量查询](https://www.52pojie.cn/thread-1637698-1-4.html)
-- [WPS](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
+- [WPS 西北工业大学](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
 - [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
 - [百度文库下载](https://www.52pojie.cn/thread-1690024-1-1.html)
@@ -390,6 +392,8 @@
 - [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
 - [obs推流直播](https://obsproject.com/)
 - [微信防撤回](https://github.com/huiyadanli/RevokeMsgPatcher)
+- [Windows云音乐歌词获取](https://github.com/jitwxs/163MusicLyrics)
+- [免费的PDF加盖骑缝章工具](https://github.com/flytkgl/PDFQFZ)
 - 内容持续更新
 
 <!-- panels:end -->

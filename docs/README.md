@@ -149,7 +149,7 @@
 - [百度编译器UEditor](https://github.com/fex-team/ueditor)
 - [Quill 文档](https://www.kancloud.cn/liuwave/quill/1409423)
 - [TinyMCE 富文本编译器](http://tinymce.ax-z.cn/)
-- [Share.js分享](http://overtrue.me/share.js/)
+- [Share.js一键分享](http://overtrue.me/share.js/)
 - [flv.js视频播放](https://github.com/bilibili/flv.js)
 - [moovie视频播放](https://github.com/BMSVieira/moovie.js)
 - 内容持续更新
@@ -236,6 +236,9 @@
 - [数据可视化报表工具](https://github.com/jeecgboot/JimuReport)
 - [自定义的流程图编辑框架](https://github.com/didi/LogicFlow)
 - [vue2单页面应用](https://github.com/bailicangdu/vue2-elm)
+- [中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
+- [交互审计系统](https://github.com/dushixiang/next-terminal)
+- [抖音Vue](https://github.com/zyronon/douyin)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -249,7 +252,7 @@
 ### 微信小程序
 ---
 
-- [公众号下载视频使用猫抓插件]()
+- [公众号下载视频使用猫抓插件](https://github.com/xifangczy/cat-catch/releases)
 - [微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [微信聊天记录持久化备份本地硬盘](https://github.com/greycodee/wechat-backup)
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
@@ -261,6 +264,7 @@
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
 - [WechatVideoSniffer视频号下载](https://github.com/xuncv/WechatVideoSniffer)
 - [WeChatDownloader视频号下载](https://github.com/xuncv/WeChatDownloader)
+- [Fiddler爬取视频号下载]()
 - [微信公众号爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
 - [高仿喜马拉雅](https://github.com/iDestin/Himalayan-lite)
 - [聊天记录迁移功能](https://github.com/BlueMatthew/WechatExporter)
@@ -295,6 +299,7 @@
 - [基于OpenAi ChatGPT + WeChaty 实现的微信机器人](https://github.com/wangrongding/wechat-bot)
 - [智能微秘书](https://github.com/leochen-g/wechat-assistant-pro)
 - [NGCBot | 基于Hook机制的微信机器人](https://github.com/ngc660sec/NGCBot)
+- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -340,6 +345,8 @@
 - [EasySpider易采集](https://github.com/NaiboWang/EasySpider)
 - [超星学习通答题姬](https://github.com/SocialSisterYi/CxKitty)
 - [AI拟声](https://github.com/babysor/MockingBird/tree/main)
+- [微信机器人](https://github.com/lich0821/WeChatRobot)
+- [提取微信聊天记录](https://github.com/LC044/WeChatMsg)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -362,6 +369,7 @@
 - [猫抓chrome资源嗅探](https://github.com/xifangczy/cat-catch)
 - [收集B站时更加方便的浏览器扩展](https://github.com/HCLonely/awesome-bilibili-extra)
 - [插件化、定制化、无广告的免费音乐播放器](https://github.com/maotoumao/MusicFree)
+- [油猴脚本，网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -575,9 +583,6 @@
 - [Idea-Intellij IDEA](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [fishshell终端](https://fishshell.com/)
-
-<!-- div:right-panel -->
-
 - [MyEcplise](https://www.genuitec.com/products/myeclipse/)
 - [Xcode](https://developer.apple.com/xcode/)
 - [SecureCRT](https://www.vandyke.com/products/securecrt/)
@@ -586,6 +591,23 @@
 - [Postman](https://www.postman.com/)
 - [Postman汉化中文版](https://github.com/hlmd/Postman-cn)
 - [IDEA教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+- [Navicat Premium]()
+
+<!-- div:right-panel -->
+
+- [IIS环境教程](https://www.cnblogs.com/huibaoqiang/p/9924527.html)
+- [Docker Desktop](https://docs.docker.com/desktop/install/windows-install/)
+- [MYSQL环境](https://downloads.mysql.com/archives/community/)
+- [PHP环境](https://windows.php.net/downloads/releases/archives/)
+- [XAMPP](https://www.apachefriends.org/zh_cn/index.html)
+- [NODE环境](https://nodejs.org/zh-cn/download/package-manager)
+- [mongoDB环境](https://www.mongodb.com/try/download/community)
+- [redis环境](https://github.com/tporadowski/redis/releases)
+- [java环境](https://www.oracle.com/java/technologies/downloads/)
+- [tomcat环境](https://tomcat.apache.org/whichversion.html)
+- [python环境](https://www.python.org/downloads/windows/)
+- [go环境](https://go.dev/dl/)
+- [moven环境](https://maven.apache.org/download.cgi)
 - 内容持续更新
 
 <!-- panels:end -->
