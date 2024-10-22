@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-10-09 15:38:17
+ * @LastEditTime: 2024-10-11 11:36:00
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -74,7 +74,7 @@
 - [优酷](http://www.youku.com/)
 - [抖音](https://www.douyin.com/)
 - [视频号助手](https://channels.weixin.qq.com/login.html)
-- [小红书](https://www.douyin.com/)
+- [小红书](https://www.xiaohongshu.com/)
 - [西瓜视频](https://www.ixigua.com/)
 - [虎牙](https://www.huya.com/)
 - [斗鱼](https://www.douyu.com/)
@@ -130,6 +130,7 @@
 - [精品MAC应用分享](https://xclient.info/)
 - [马可菠萝](https://www.macbl.com/)
 - [Mac毒](https://www.macdo.cn/)
+- [xmac直接下载](https://xmac.app/)
 - [Mac微信功能拓展/微信插件/微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
 - 内容持续更新
 
