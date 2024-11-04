@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-10-11 11:36:00
+ * @LastEditTime: 2024-10-22 10:08:53
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -58,7 +58,7 @@
 - [80s电影](https://www.18idy.com/)
 - [电影狗搜索](https://www.dianyinggou.com/)
 - [555电影](https://55vid.shop/)
-- [freeok](https://www.freeok.vip/)
+- [freeok](https://www.freeok.pro/)
 - [简单动漫](https://www.36dm.org/)
 - [福利吧](https://fuliba2023.net/)
 - [雨花阁BT搜索引擎](https://github.com/yuhuage/dizhi)
@@ -361,6 +361,11 @@
 - [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
+- [obs推流直播](https://obsproject.com/)
+- [微信伴侣直播]()
+- [抖音伴侣直播](https://streamingtool.douyin.com/)
+- [哔哩哔哩直播姬](https://link.bilibili.com/p/help/index?id=1#/tools-tutorial)
+- [微信防撤回](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 <!-- div:right-panel -->
 
@@ -391,8 +396,6 @@
 - [一点红语音合成]()
 - [WPS插件精灵]()
 - [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
-- [obs推流直播](https://obsproject.com/)
-- [微信防撤回](https://github.com/huiyadanli/RevokeMsgPatcher)
 - [Windows云音乐歌词获取](https://github.com/jitwxs/163MusicLyrics)
 - [免费的PDF加盖骑缝章工具](https://github.com/flytkgl/PDFQFZ)
 - 内容持续更新
