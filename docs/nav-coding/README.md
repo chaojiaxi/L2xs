@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2024-10-22 10:08:53
+ * @LastEditTime: 2025-01-06 11:38:17
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -55,10 +55,13 @@
 #### 影视观看
 
 - [素白白影视](https://www.subaibaiys.com/)
-- [80s电影](https://www.18idy.com/)
-- [电影狗搜索](https://www.dianyinggou.com/)
-- [555电影](https://55vid.shop/)
-- [freeok](https://www.freeok.pro/)
+- [电影狗搜索](https://www.dyg2024.com/)
+- [片吧影院](https://www.pianbax.com/)
+- [音范丝-电影资源](https://www.yinfans.net/)
+- [爱看机器人](https://v.ikanbot.com/)
+- [7080搜索](https://7080.wang/)
+- [搜片.com](https://soupian.one/)
+- [555电影](https://www.wuwu9zd.wiki/index/home.html)
 - [简单动漫](https://www.36dm.org/)
 - [福利吧](https://fuliba2023.net/)
 - [雨花阁BT搜索引擎](https://github.com/yuhuage/dizhi)
@@ -361,6 +364,7 @@
 - [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
+- [长截图]()
 - [obs推流直播](https://obsproject.com/)
 - [微信伴侣直播]()
 - [抖音伴侣直播](https://streamingtool.douyin.com/)
