@@ -152,6 +152,7 @@
 - [Share.js一键分享](http://overtrue.me/share.js/)
 - [flv.js视频播放](https://github.com/bilibili/flv.js)
 - [moovie视频播放](https://github.com/BMSVieira/moovie.js)
+- [sharp nodejs图像处理库](https://github.com/lovell/sharp)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -304,6 +305,8 @@
 - [link AI](https://link-ai.tech/portal)
 - [QChatGPT](https://github.com/RockChinQ/QChatGPT)
 - [ChatGPT-QQ聊天机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
+- [LangBot机器人](https://github.com/RockChinQ/LangBot)
+- [AstrBot聊天机器人](https://github.com/Soulter/AstrBot)
 - [基于wechaty创建一个自己的ChatGPT机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
 - [基于OpenAI API和itchat实现的微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
 - [基于 OpenAI GPT-3和Mirai的QQ Bot聊天机器人](https://github.com/Byaidu/QChatBot-GPT)
@@ -755,6 +758,7 @@
 - [抖音/TikTok无水印解析API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 - [直播源m3u8下载，电视直播网站推荐·失效](https://github.com/biancangming/wtv)
+- [电视直播源](https://github.com/fanmingming/live)
 - [直播源相关资源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 - [获取58个直播平台的真实流媒体地址](https://github.com/wbt5/real-url)
 - 内容持续更新

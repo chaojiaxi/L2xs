@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2025-01-06 11:38:17
+ * @LastEditTime: 2025-02-16 08:57:03
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -359,12 +359,14 @@
 - [异次元软件](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
 - [B23Downloader-已停更](https://github.com/vooidzero/B23Downloader)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
+- [跨平台B站视频](https://github.com/ScottSloan/Bili23-Downloader)
 - [哔哩下载姬（DownKyi）](https://github.com/leiurayer/downkyi)
 - [小红书视频下载](https://github.com/JoeanAmier/XHS-Downloader)
 - [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
 - [长截图]()
+- [HiBitUninstaller软件卸载](http://www.hibitsoft.ir/Uninstaller.html)
 - [obs推流直播](https://obsproject.com/)
 - [微信伴侣直播]()
 - [抖音伴侣直播](https://streamingtool.douyin.com/)
@@ -396,6 +398,7 @@
 - [IP地址修改器]()
 - [NasCab Setup 远程管理照片、视频]()
 - [易我数据修复]()
+- [Readest沉浸式阅读](https://github.com/readest/readest)
 - [文件批量重命名](https://www.52pojie.cn/thread-1907972-1-1.html)
 - [一点红语音合成]()
 - [WPS插件精灵]()
