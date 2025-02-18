@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2025-02-16 08:57:03
+ * @LastEditTime: 2025-02-18 11:09:35
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -125,13 +125,13 @@
 
 #### MAC软件
 
-- [Mac金币](https://www.macjb.com/)
-- [imacapp](https://www.ifunmac.com/)
-- [苹果软件盒子](https://www.macappbox.com/)
-- [MacWk](https://macwk.cn/)
-- [Mac萌新网](https://www.macxin.com/)
-- [精品MAC应用分享](https://xclient.info/)
-- [马可菠萝](https://www.macbl.com/)
+- [Mac金币(VIP)](https://www.macjb.com/)
+- [imacapp(VIP)](https://www.ifunmac.com/)
+- [苹果软件盒子(VIP)](https://www.macappbox.com/)
+- [MacWk(夸克)](https://macwk.cn/)
+- [Mac萌新网(夸克)](https://www.macxin.com/)
+- [精品MAC应用(城通)](https://xclient.info/)
+- [马可菠萝(失效)](https://www.macbl.com/)
 - [Mac毒](https://www.macdo.cn/)
 - [xmac直接下载](https://xmac.app/)
 - [Mac微信功能拓展/微信插件/微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
@@ -167,9 +167,9 @@
 ### 壁纸
 
 - [极简壁纸](https://bz.zzzmh.cn/)
-- [彼岸图网](https://pic.netbian.com/)
 - [wallhere](https://wallhere.com/)
-- [wallhaven](https://wallhaven.icu/)
+- [彼岸图网]()
+- [wallhaven]()
 - 内容持续更新
 
 <!-- panels:end -->
@@ -181,28 +181,29 @@
 
 <!-- div:left-panel -->
 
-- [PDF补丁丁](https://github.com/wmjordan/PDFPatcher)
-- [I love PDF](https://www.ilovepdf.com/zh-cn)
-- [All to All](https://www.alltoall.net/)
-- [Wondershare HiPDF](https://www.hipdf.cn/)
-- [免费的在线PDF编辑器](https://pdfcandy.com/cn/)
-- [扫描王](https://www.camscanner.com/)
-- [即时工具](https://www.67tool.com/)
-- [金山PDF](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
+- [PDF补丁丁(软件)](https://github.com/wmjordan/PDFPatcher)
+- [I love PDF(好用)](https://www.ilovepdf.com/zh-cn)
+- [All to All(20M)](https://www.alltoall.net/)
+- [Wondershare HiPDF(登录)](https://www.hipdf.cn/)
+- [扫描王(软件)](https://www.camscanner.com/)
+- [即时工具(登录)](https://www.67tool.com/)
+- [金山PDF(软件)](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
 - [xJavaFxTool]()
 <!-- div:right-panel -->
 
-- [超级PDF](https://xpdf.net/)
+- [超级PDF(登录)](https://xpdf.net/)
 - [白描在线识别](https://web.baimiaoapp.com/)
 - [remove图片去除背景](https://www.remove.bg/)
-- [身份证件加水印](http://tool.c7sky.com/id-card-watermark/)
+- [身份证件加水印(失效)](http://tool.c7sky.com/id-card-watermark/)
 - [石墨文档](https://shimo.im/)
 - [腾讯文档](https://docs.qq.com/)
 - [金山文档](https://www.kdocs.cn/welcome)
 - [印象笔记](https://www.yinxiang.com/)
 - [幕布](https://mubu.com/)
 - [语雀](https://www.yuque.com/)
-- [ProcessOn](https://www.processon.com/)
+- [飞书](https://www.feishu.cn/)
+- [讯飞文档](https://iflydocs.com/)
+- [ProcessOn(思维导图)](https://www.processon.com/)
 - [Xmind](https://xmind.cn/)
 - [GitMind](https://gitmind.cn/)
 - [10分钟邮箱](https://rootsh.com/)
@@ -232,10 +233,9 @@
 ### 排版设计
 
 - [365编译器](http://www.365editor.com/)
-- [135编译器](https://www.135editor.com/)
+- [135编译器(常用)](https://www.135editor.com/)
 - [Md2All](http://md.aclickall.com/)
 - [草料二维码](https://cli.im/tools)
-- [二维码梦工厂](https://www.qrdream.com/)
 - 内容持续更新
 
 
@@ -263,7 +263,7 @@
 ### 表单问卷
 
 - [问卷网](https://www.wenjuan.com/)
-- [问卷星](https://www.wjx.cn/)
+- [问卷星(常用)](https://www.wjx.cn/)
 - [腾讯问卷](https://wj.qq.com/)
 - [金数据](https://jinshuju.net/)
 - [iH5](https://www.ih5.cn/)
@@ -344,6 +344,10 @@
 - [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
 - [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
 - [ip地址归属地查询_可单次查询、可批量查询](https://www.52pojie.cn/thread-1637698-1-4.html)
+- [高精度IP](https://www.ipuu.net/)
+- [测网速](https://www.speedtest.cn/)
+- [在线文件批量重命名](https://webrename.cn/)
+- [图床(图片托管)]()
 - [WPS 西北工业大学](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
 - [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
@@ -402,6 +406,7 @@
 - [文件批量重命名](https://www.52pojie.cn/thread-1907972-1-1.html)
 - [一点红语音合成]()
 - [WPS插件精灵]()
+- [HEU_KMS_Activator]()
 - [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
 - [Windows云音乐歌词获取](https://github.com/jitwxs/163MusicLyrics)
 - [免费的PDF加盖骑缝章工具](https://github.com/flytkgl/PDFQFZ)
@@ -416,7 +421,6 @@
 
 ### 在线图片工具
 
-- [在线画图工具ProcessOn](https://www.processon.com/)
 - [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
 - [fly63工具箱](https://www.fly63.com/tool/home.html)
 - [在线PS](https://www.uupoop.com/)
@@ -424,9 +428,7 @@
 - [艺术字体在线生成](https://www.qt86.com/)
 - [在线表格转换工具](https://tableconvert.com/)
 - [图片智能放大工具](https://bigjpg.com/)
-- [草料二维码](https://cli.im/)
 - [在线代码截图工具](https://carbon.now.sh/)
-- [remove抠图工具](https://www.remove.bg/zh)
 - [AI抠图证件照换底色](https://koutu.gaoding.com/?hmsr=dh-dh21-koutu-web-wzsl-wke-gjgj&utm_medium=gjr&utm_source=dh)
 - [模糊图片秒转高清图](https://qingtu.cn/)
 - [清图](https://qingtu.cn/)

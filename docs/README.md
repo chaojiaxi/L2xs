@@ -281,6 +281,7 @@
 ### 人工智能
 ---
 
+- [深度求索DeepSeek](https://chat.deepseek.com/)
 - [chatGPT](https://chat.openai.com/)
 - [chatGPT镜像站点](https://github.com/xx025/carrot)
 - [智谱清言-智谱](https://chatglm.cn/)
@@ -367,7 +368,7 @@
 <!-- div:right-panel -->
 
 ---
-### 谷歌插件
+### 插件
 ---
 
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
@@ -385,6 +386,7 @@
 - [收集B站时更加方便的浏览器扩展](https://github.com/HCLonely/awesome-bilibili-extra)
 - [插件化、定制化、无广告的免费音乐播放器](https://github.com/maotoumao/MusicFree)
 - [油猴脚本，网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
+- [OfficeAI](https://github.com/office-sec/OfficeAI/blob/main/README_zh.md)
 - 内容持续更新
 
 <!-- panels:end -->
