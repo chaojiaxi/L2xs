@@ -240,6 +240,7 @@
 - [中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 - [交互审计系统](https://github.com/dushixiang/next-terminal)
 - [抖音Vue](https://github.com/zyronon/douyin)
+- [个人主页，具有流体动画背景过渡效果](https://github.com/SimonAKing/HomePage)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -315,6 +316,7 @@
 - [智能微秘书](https://github.com/leochen-g/wechat-assistant-pro)
 - [NGCBot | 基于Hook机制的微信机器人](https://github.com/ngc660sec/NGCBot)
 - [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
+- [Kirara AI 多模态聊天机器人](https://kirara-docs.app.lss233.com/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -363,6 +365,7 @@
 - [AI拟声](https://github.com/babysor/MockingBird/tree/main)
 - [微信机器人](https://github.com/lich0821/WeChatRobot)
 - [提取微信聊天记录](https://github.com/LC044/WeChatMsg)
+- [图片去水印](https://github.com/zuruoke/watermark-removal)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -387,6 +390,7 @@
 - [插件化、定制化、无广告的免费音乐播放器](https://github.com/maotoumao/MusicFree)
 - [油猴脚本，网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
 - [OfficeAI](https://github.com/office-sec/OfficeAI/blob/main/README_zh.md)
+- [PT 助手](https://github.com/pt-plugins/PT-Plugin-Plus/releases)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -600,6 +604,7 @@
 - [Idea-Intellij IDEA](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [fishshell终端](https://fishshell.com/)
+- [final Shell远程终端]()
 - [MyEcplise](https://www.genuitec.com/products/myeclipse/)
 - [Xcode](https://developer.apple.com/xcode/)
 - [SecureCRT](https://www.vandyke.com/products/securecrt/)

@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2025-02-18 11:09:35
+ * @LastEditTime: 2025-07-10 09:18:46
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -121,6 +121,7 @@
 - [Puresys软件下载](https://www.puresys.net/)
 - [黑涩网](https://www.sunweihu.com)
 - [蓝奏云每日更新](https://705.lanzoui.com/b02ujvrej)
+- [5P资源网](https://5pw.pw/)
 <!-- div:right-panel -->
 
 #### MAC软件
@@ -344,10 +345,11 @@
 - [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
 - [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
 - [ip地址归属地查询_可单次查询、可批量查询](https://www.52pojie.cn/thread-1637698-1-4.html)
+- [海鸥Office AI助手](https://www.office-ai.cn/static/introductions/officeai/download.html)
 - [高精度IP](https://www.ipuu.net/)
 - [测网速](https://www.speedtest.cn/)
 - [在线文件批量重命名](https://webrename.cn/)
-- [图床(图片托管)]()
+- [局域网文件共享工具](https://www.52pojie.cn/thread-1966121-1-1.html)
 - [WPS 西北工业大学](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
 - [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
@@ -363,24 +365,30 @@
 - [异次元软件](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
 - [B23Downloader-已停更](https://github.com/vooidzero/B23Downloader)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
+- [Bili23 Downloader](https://github.com/ScottSloan/Bili23-Downloader/releases)
 - [跨平台B站视频](https://github.com/ScottSloan/Bili23-Downloader)
 - [哔哩下载姬（DownKyi）](https://github.com/leiurayer/downkyi)
 - [小红书视频下载](https://github.com/JoeanAmier/XHS-Downloader)
 - [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
 - [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
 - [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
-- [长截图]()
-- [HiBitUninstaller软件卸载](http://www.hibitsoft.ir/Uninstaller.html)
+- [HiBitUninstaller，官方](http://www.hibitsoft.ir/Uninstaller.html)
+- [HiBit Uninstaller，吾爱](https://www.52pojie.cn/thread-1884393-1-1.html)
+- [Geek Uninstaller软件卸载同上]()
+- [IObi tUninstaller软件卸载同上]()
 - [obs推流直播](https://obsproject.com/)
 - [微信伴侣直播]()
 - [抖音伴侣直播](https://streamingtool.douyin.com/)
 - [哔哩哔哩直播姬](https://link.bilibili.com/p/help/index?id=1#/tools-tutorial)
-- [微信防撤回](https://github.com/huiyadanli/RevokeMsgPatcher)
+- [微信防撤回,软件](https://github.com/huiyadanli/RevokeMsgPatcher)
+- [微信防撤回，替换weChatWin.dll](https://www.52pojie.cn/thread-1999026-1-1.html)
+- [jellyfin-本地媒体库管理工具](https://github.com/jellyfin/jellyfin/releases)
+- [天若OCR](http://ocr.tianruo.net/)
+- [jarkViewer看图](https://github.com/jark006/jarkViewer)
+- [中国软件著作权申请教程&模板文件](https://github.com/AlexanderZhou01/China-software-copyright)
 
 <!-- div:right-panel -->
 
-- [jellyfin-本地媒体库管理工具](https://github.com/jellyfin/jellyfin/releases)
-- [天若OCR](http://ocr.tianruo.net/)
 - [Umi-OCR-基于PaddleOCR的OCR图片转文字识别软件](https://github.com/hiroi-sora/Umi-OCR)
 - [F12下载视频-m3u8](https://www.52pojie.cn/thread-1783663-1-1.html)
 - [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
@@ -389,27 +397,35 @@
 - [TAICHI-flet | windows桌面应用，爬取图片、音乐、小说、磁力链接](https://github.com/cuifengcn/TAICHI-flet)
 - [学无止慕课下载器](https://github.com/PyJun/Mooc_Downloader)
 - [snipaste | 截图神器](https://www.snipaste.com/)
-- [Flip PDF Professional]()
 - [Everything](https://www.voidtools.com/zh-cn/)
 - [PotPlayer影音播放支持流媒体](https://daumpotplayer.com/download/)
-- [微信对话聊天]()
-- [班迪录屏]()
 - [ToastFish摸鱼背单词](https://github.com/Uahh/ToastFish)
 - [optimizer | Windows系统优化工具](https://github.com/hellzerg/optimizer)
 - [自动化下载、安装、激活Office的利器](https://github.com/OdysseusYuan/LKY_OfficeTools)
 - [免费开源的屏幕实时翻译工具](https://github.com/Danily07/Translumo)
-- [FSCapture 长截图+编辑]()
-- [IP地址修改器]()
-- [NasCab Setup 远程管理照片、视频]()
-- [易我数据修复]()
 - [Readest沉浸式阅读](https://github.com/readest/readest)
 - [文件批量重命名](https://www.52pojie.cn/thread-1907972-1-1.html)
-- [一点红语音合成]()
-- [WPS插件精灵]()
-- [HEU_KMS_Activator]()
 - [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
 - [Windows云音乐歌词获取](https://github.com/jitwxs/163MusicLyrics)
 - [免费的PDF加盖骑缝章工具](https://github.com/flytkgl/PDFQFZ)
+- [图床(图片托管)]()
+- [百度云不限速]()
+- [FSCapture 长截图+编辑]()
+- [IP地址修改器]()
+- [NasCab Setup 远程管理照片、视频]()
+- [一点红语音合成]()
+- [WPS插件精灵]()
+- [HEU_KMS_Activator]()
+- [易我数据修复]()
+- [微信对话聊天]()
+- [班迪录屏]()
+- [Flip PDF Professional]()
+- [长截图]()
+- [Topaz,photo图片无损放大,video视频无损放大]()
+- [一键修复打印机无法访问问题]()
+- [解除无法点击右键问题]()
+- [打印机驱动下载办法]()
+- [Auto CDR]()
 - 内容持续更新
 
 <!-- panels:end -->
