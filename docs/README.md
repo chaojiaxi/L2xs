@@ -168,6 +168,7 @@
 
 - [Vue+SpringBoot+MyBatis音乐网站](https://github.com/Yin-Hongwei/music-website)
 - [mmPlayer在线音乐播放器](https://github.com/maomao1996/Vue-mmPlayer)
+- [铜钟](https://github.com/enzeberg/tonzhon-music)
 - [vue_wzz_cloudMusic高仿网易云音乐](https://github.com/wzz1206414629/NeteaseCloudMusic-Vue)
 - [Node.js API service网易云音乐API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [YesPlayMusic 第三方网易云播放器Electron版](https://github.com/qier222/YesPlayMusic)
@@ -199,7 +200,9 @@
 - [万岳在线教育PHP](https://github.com/trending/php?since=daily&spoken_language_code=zh)
 - [面试鸭开源项目](https://github.com/liyupi/mianshiya-public)
 - [简历项目](https://github.com/salomonelli/best-resume-ever)
-
+- [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin)
+- [Vue Admin Better](https://github.com/zxwk1998/vue-admin-better)
+- [快图设计 开源图片编辑器](https://github.com/ikuaitu/vue-fabric-editor)
 <!-- div:right-panel -->
 
 
@@ -241,6 +244,8 @@
 - [交互审计系统](https://github.com/dushixiang/next-terminal)
 - [抖音Vue](https://github.com/zyronon/douyin)
 - [个人主页，具有流体动画背景过渡效果](https://github.com/SimonAKing/HomePage)
+- [CRMEB开源商城系统Java版](https://github.com/crmeb/crmeb_java)
+- [若依pro](https://github.com/YunaiV/ruoyi-vue-pro)
 - 内容持续更新
 
 <!-- panels:end -->
