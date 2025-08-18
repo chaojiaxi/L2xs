@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2025-07-10 09:18:46
+ * @LastEditTime: 2025-08-18 15:12:09
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -122,6 +122,7 @@
 - [黑涩网](https://www.sunweihu.com)
 - [蓝奏云每日更新](https://705.lanzoui.com/b02ujvrej)
 - [5P资源网](https://5pw.pw/)
+- [分享纯净好资源，网盘下载](https://www.mefcl.com/)
 <!-- div:right-panel -->
 
 #### MAC软件
@@ -129,6 +130,7 @@
 - [Mac金币(VIP)](https://www.macjb.com/)
 - [imacapp(VIP)](https://www.ifunmac.com/)
 - [苹果软件盒子(VIP)](https://www.macappbox.com/)
+- [macApp](https://macapp.org.cn/)
 - [MacWk(夸克)](https://macwk.cn/)
 - [Mac萌新网(夸克)](https://www.macxin.com/)
 - [精品MAC应用(城通)](https://xclient.info/)
@@ -287,6 +289,7 @@
 - [国家公务员局](http://www.scs.gov.cn/)
 - [公务员考试|中公教育网](http://www.offcn.com/)
 - [中国计算机技术职业资格网](https://www.ruankao.org.cn/)
+- [国家法律法规数据库](https://flk.npc.gov.cn/)
 - [教资资格证]()
 - [事业编单位]()
 - 内容持续更新
@@ -302,6 +305,7 @@
 - [剪映](https://www.capcut.cn/)
 - [文本转语音](https://www.text-to-speech.cn/)
 - [琅琅配音](https://www.lang123.top/)
+- [包子漫画](https://cn.baozimhcn.com/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -324,7 +328,7 @@
 
 - [什么值得看](https://smzdk.top/#/)
 - [TTS-Online 免费文字转语音](https://www.ttson.cn/)
-- [贴吧小助手](https://greasyfork.org/zh-CN/scripts/419001-%E8%B4%B4%E5%90%A7%E5%B0%8F%E5%8A%A9%E6%89%8B)
+- [贴吧小助手]()
 - [白瓜AI助手](https://baigua.com/)
 - 内容持续更新
 
@@ -340,7 +344,7 @@
 
 <!-- div:left-panel -->
 
-- [Max搶票機器人](https://github.com/max32002/tixcraft_bot)
+- [Max搶票機器人]()
 - [360极速浏览器X_21.0.1120.0绿色版](https://www.52pojie.cn/thread-1659087-1-1.html)
 - [PDF 电子骑缝盖章工具3.15](https://www.52pojie.cn/thread-1645401-1-1.html)
 - [微软常用运行库合集](https://www.52pojie.cn/thread-1652556-1-3.html)
@@ -349,9 +353,9 @@
 - [高精度IP](https://www.ipuu.net/)
 - [测网速](https://www.speedtest.cn/)
 - [在线文件批量重命名](https://webrename.cn/)
-- [局域网文件共享工具](https://www.52pojie.cn/thread-1966121-1-1.html)
+- [FileShare 局域网文件共享工具](https://www.52pojie.cn/thread-1966121-1-1.html)
 - [WPS 西北工业大学](https://it.nwpu.edu.cn/xzzq/zbhrjxz.htm)
-- [wps2019 邮政企业专业版,自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
+- [wps2019 邮政企业专业版，自动激活](https://www.52pojie.cn/thread-1630701-1-3.html)
 - [免费系統工具 CCleaner](https://www.52pojie.cn/thread-1651940-1-2.html)
 - [百度文库下载](https://www.52pojie.cn/thread-1690024-1-1.html)
 - [360驱动大师 2.0.0.1790 纯净绿色单文件](https://www.52pojie.cn/thread-1650151-1-1.html)
@@ -363,44 +367,48 @@
 - [阅读APP书源](https://github.com/aoaostar/legado)
 - [香色闺阁书源](https://github.com/shidahuilang/shuyuan)
 - [异次元软件](https://mp.weixin.qq.com/s/Df6fICfAxsC9WWgmlEWJmQ)
-- [B23Downloader-已停更](https://github.com/vooidzero/B23Downloader)
+- [B23Downloader已停更](https://github.com/vooidzero/B23Downloader)
 - [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
 - [Bili23 Downloader](https://github.com/ScottSloan/Bili23-Downloader/releases)
 - [跨平台B站视频](https://github.com/ScottSloan/Bili23-Downloader)
 - [哔哩下载姬（DownKyi）](https://github.com/leiurayer/downkyi)
 - [小红书视频下载](https://github.com/JoeanAmier/XHS-Downloader)
 - [TikTokDownloader下载](https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file)
-- [eSearch-识图搜索](https://github.com/xushengfeng/eSearch)
-- [XMusicDownloader-开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
-- [HiBitUninstaller，官方](http://www.hibitsoft.ir/Uninstaller.html)
-- [HiBit Uninstaller，吾爱](https://www.52pojie.cn/thread-1884393-1-1.html)
-- [Geek Uninstaller软件卸载同上]()
-- [IObi tUninstaller软件卸载同上]()
+- [eSearch 识图搜索](https://github.com/xushengfeng/eSearch)
+- [XMusicDownloader 开源音乐下载神器](https://github.com/jadepeng/XMusicDownloader)
+- [HiBit Uninstaller 官方](http://www.hibitsoft.ir/Uninstaller.html)
+- [HiBit Uninstaller 吾爱](https://www.52pojie.cn/thread-1884393-1-1.html)
+- [Geek Uninstaller 软件卸载]()
+- [IObi tUninstaller 软件卸载]()
 - [obs推流直播](https://obsproject.com/)
+- [obs插件](https://www.obsworks.com/)
 - [微信伴侣直播]()
 - [抖音伴侣直播](https://streamingtool.douyin.com/)
 - [哔哩哔哩直播姬](https://link.bilibili.com/p/help/index?id=1#/tools-tutorial)
-- [微信防撤回,软件](https://github.com/huiyadanli/RevokeMsgPatcher)
-- [微信防撤回，替换weChatWin.dll](https://www.52pojie.cn/thread-1999026-1-1.html)
-- [jellyfin-本地媒体库管理工具](https://github.com/jellyfin/jellyfin/releases)
+- [微信防撤回 吾爱替换文件](https://www.52pojie.cn/thread-1999026-1-1.html)
+- [jellyfin 本地媒体库管理工具](https://github.com/jellyfin/jellyfin/releases)
 - [天若OCR](http://ocr.tianruo.net/)
 - [jarkViewer看图](https://github.com/jark006/jarkViewer)
 - [中国软件著作权申请教程&模板文件](https://github.com/AlexanderZhou01/China-software-copyright)
 
 <!-- div:right-panel -->
 
+- [todesk 远程软件](https://www.todesk.com/)
+- [向日葵 远程软件](https://sunlogin.oray.com/)
+- [WinRAR 解压神器]()
+- [格式工厂 绿色版](https://www.52pojie.cn/thread-2051928-1-1.html)
 - [Umi-OCR-基于PaddleOCR的OCR图片转文字识别软件](https://github.com/hiroi-sora/Umi-OCR)
-- [F12下载视频-m3u8](https://www.52pojie.cn/thread-1783663-1-1.html)
-- [m3u8-downloader-m3u8视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
+- [F12下载视频 m3u8](https://www.52pojie.cn/thread-1783663-1-1.html)
+- [m3u8-downloader-m3u8 视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
 - [m3u8批量下载-逍遥一仙](https://www.52pojie.cn/thread-1631141-1-1.html)
 - [Windows上统计软件使用时长](https://github.com/Planshit/Tai)
-- [TAICHI-flet | windows桌面应用，爬取图片、音乐、小说、磁力链接](https://github.com/cuifengcn/TAICHI-flet)
+- [TAICHI-flet windows桌面应用，爬取图片、音乐、小说、磁力链接](https://github.com/cuifengcn/TAICHI-flet)
 - [学无止慕课下载器](https://github.com/PyJun/Mooc_Downloader)
-- [snipaste | 截图神器](https://www.snipaste.com/)
+- [snipaste 截图神器，推荐](https://www.snipaste.com/)
 - [Everything](https://www.voidtools.com/zh-cn/)
 - [PotPlayer影音播放支持流媒体](https://daumpotplayer.com/download/)
 - [ToastFish摸鱼背单词](https://github.com/Uahh/ToastFish)
-- [optimizer | Windows系统优化工具](https://github.com/hellzerg/optimizer)
+- [optimizer Windows系统优化工具](https://github.com/hellzerg/optimizer)
 - [自动化下载、安装、激活Office的利器](https://github.com/OdysseusYuan/LKY_OfficeTools)
 - [免费开源的屏幕实时翻译工具](https://github.com/Danily07/Translumo)
 - [Readest沉浸式阅读](https://github.com/readest/readest)
@@ -418,14 +426,20 @@
 - [HEU_KMS_Activator]()
 - [易我数据修复]()
 - [微信对话聊天]()
-- [班迪录屏]()
-- [Flip PDF Professional]()
-- [长截图]()
-- [Topaz,photo图片无损放大,video视频无损放大]()
-- [一键修复打印机无法访问问题]()
+- [班迪录屏](https://www.52pojie.cn/thread-1093646-1-1.html)
+- [Flip PDF Professional 电子书翻页]()
+- [PixPin 截图](https://www.52pojie.cn/thread-2035611-1-1.html)
+- [Topaz Photo 人工智能图片降噪](https://www.52pojie.cn/thread-2005929-1-1.html)
+- [Topaz Video 智能视频无损放大](https://www.52pojie.cn/thread-2032944-1-1.html)
+- [一键共享打印机]()
+- [打印机修复工具]()
+- [打印机驱动下载]()
 - [解除无法点击右键问题]()
-- [打印机驱动下载办法]()
-- [Auto CDR]()
+- [Auto CDR 2020 简体中文]()
+- [迅雷]()
+- [雷电模拟器]()
+- [桌面数字时钟]()
+- [PPT演讲倒计时]()
 - 内容持续更新
 
 <!-- panels:end -->
@@ -437,15 +451,13 @@
 
 ### 在线图片工具
 
-- [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
-- [fly63工具箱](https://www.fly63.com/tool/home.html)
+- [在线思维导图MindLine](http://www.mindline.cn/webapp)
+- [fly63在线工具](https://www.fly63.com/tool/home.html)
 - [在线PS](https://www.uupoop.com/)
 - [免费logo在线制作](http://www.uugai.com/)
 - [艺术字体在线生成](https://www.qt86.com/)
-- [在线表格转换工具](https://tableconvert.com/)
 - [图片智能放大工具](https://bigjpg.com/)
 - [在线代码截图工具](https://carbon.now.sh/)
-- [AI抠图证件照换底色](https://koutu.gaoding.com/?hmsr=dh-dh21-koutu-web-wzsl-wke-gjgj&utm_medium=gjr&utm_source=dh)
 - [模糊图片秒转高清图](https://qingtu.cn/)
 - [清图](https://qingtu.cn/)
 - [bgsub消除图片背景](https://bgsub.cn/)
@@ -467,7 +479,7 @@
 - [IP地址查询](https://www.ipip.net/ip.html)
 - [在线菜鸟编译工具](https://c.runoob.com/)
 - [在线Nginx配置工具](https://nginxconfig.io/)
-- [在线工具2](https://tool.lu/)
+- [在线工具](https://tool.lu/)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -479,25 +491,20 @@
 ### 写作辅助工具
 
 - [在线字数统计](https://www.eteste.com/)
-- [md2all markdown排版工具](http://md.aclickall.com/)
 - [在线图床神器](https://picx.xpoet.cn/)
-- [在线短链接工具](https://urlify.cn/)
 - [在线文本替换](http://www.fly63.com/tool/textreplace/)
 - 内容持续更新
 
 <!-- div:right-panel -->
 
-### 素材
+### 图标素材
 
-- [免费透明背景图片素材](http://pngimg.com/)
-- [Emoji表情包下载](https://emojiisland.com/)
-- [open source icons](https://feathericons.com/)
 - [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 - [表情包在线网站](https://fabiaoqing.com/)
 - [Pixabay图片素材库](https://pixabay.com/zh/)
 - [Pexels图片素材库](http://www.pexels.com)
-- [Tabler Icons | 681枚可定制的开源SVG图标](https://tablericons.com/)
-- [Simple Icons  |  常见品牌的SVG图标](https://simpleicons.org/)
+- [Tabler Icons 681枚可定制的开源SVG图标](https://tablericons.com/)
+- [Simple Icons 常见品牌的SVG图标](https://simpleicons.org/)
 - 内容持续更新
 
 <!-- panels:end -->

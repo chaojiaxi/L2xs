@@ -290,6 +290,9 @@
 - [深度求索DeepSeek](https://chat.deepseek.com/)
 - [chatGPT](https://chat.openai.com/)
 - [chatGPT镜像站点](https://github.com/xx025/carrot)
+- [Cursor]()
+- [Sora]()
+- [Gemini]()
 - [智谱清言-智谱](https://chatglm.cn/)
 - [文心一言-百度](https://yiyan.baidu.com/)
 - [豆包-字节](https://www.doubao.com/chat/)
@@ -302,6 +305,9 @@
 - [Cursor](https://www.cursor.com/)
 - [元宝-腾讯](https://yuanbao.tencent.com/chat/)
 - [可灵AI](https://klingai.kuaishou.com/)
+- [秘塔AI](https://metaso.cn/)
+- [即梦AI](https://metaso.cn/)
+- [天工AI](https://metaso.cn/)
 - [魔音工坊](https://www.moyin.com/)
 - [stable diffusion](https://stablediffusionweb.com/)
 - [图片生代码](https://www.octopus31.com/code/generate)
@@ -335,7 +341,7 @@
 ### python技术
 ---
 
-- [python爬取新浪微博](https://github.com/dataabc/weiboSpider)
+- [python爬取新浪微博用户信息](https://github.com/dataabc/weiboSpider)
 - [有趣的python爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 - [funNLP NLP资源库](https://github.com/fighting41love/funNLP)
 - [AI 写小说](https://github.com/BlinkDL/AI-Writer)
@@ -367,10 +373,11 @@
 - [Video-subtitle-remover硬字幕去除软件](https://github.com/YaoFANGUK/video-subtitle-remover)
 - [EasySpider易采集](https://github.com/NaiboWang/EasySpider)
 - [超星学习通答题姬](https://github.com/SocialSisterYi/CxKitty)
-- [AI拟声](https://github.com/babysor/MockingBird/tree/main)
+- [AI克隆声](https://github.com/babysor/MockingBird/tree/main)
 - [微信机器人](https://github.com/lich0821/WeChatRobot)
 - [提取微信聊天记录](https://github.com/LC044/WeChatMsg)
 - [图片去水印](https://github.com/zuruoke/watermark-removal)
+- [人人影视](https://github.com/tgbot-collection/YYeTsBot)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -609,7 +616,7 @@
 - [Idea-Intellij IDEA](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [fishshell终端](https://fishshell.com/)
-- [final Shell远程终端]()
+- [FinalShell远程终端]()
 - [MyEcplise](https://www.genuitec.com/products/myeclipse/)
 - [Xcode](https://developer.apple.com/xcode/)
 - [SecureCRT](https://www.vandyke.com/products/securecrt/)
@@ -618,7 +625,9 @@
 - [Postman](https://www.postman.com/)
 - [Postman汉化中文版](https://github.com/hlmd/Postman-cn)
 - [IDEA教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
-- [Navicat Premium]()
+- [Navicat Premium](https://www.navicat.com.cn/download/navicat-premium)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [Fiddler抓包](https://www.telerik.com/download/fiddler)
 
 <!-- div:right-panel -->
 
