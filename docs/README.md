@@ -203,13 +203,13 @@
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin)
 - [Vue Admin Better](https://github.com/zxwk1998/vue-admin-better)
 - [快图设计 开源图片编辑器](https://github.com/ikuaitu/vue-fabric-editor)
-<!-- div:right-panel -->
-
-
 - [vue引导页](https://github.com/Mjhuu/vue-intro-step)
 - [Intro.js 产品引导库](https://github.com/usablica/intro.js)
 - [vue年会抽奖](https://github.com/vitozyf/lucky-draw)
 - [vue-monoplasty-slide-verify 验证码插件](https://github.com/monoplasty/vue-monoplasty-slide-verify)
+
+<!-- div:right-panel -->
+
 - [webtorrent 流媒体种子客户端](https://github.com/webtorrent/webtorrent)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [vue 纯前端的拼图人机验证、右滑拼图验证](https://github.com/javaLuo/vue-puzzle-vcode)
@@ -246,6 +246,9 @@
 - [个人主页，具有流体动画背景过渡效果](https://github.com/SimonAKing/HomePage)
 - [CRMEB开源商城系统Java版](https://github.com/crmeb/crmeb_java)
 - [若依pro](https://github.com/YunaiV/ruoyi-vue-pro)
+- [云音乐歌词获取处理工具](https://github.com/jitwxs/163MusicLyrics)
+- [Vue3+Vite+Element+TS后台管理系统](https://github.com/pure-admin/vue-pure-admin)
+- [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin)
 - 内容持续更新
 
 <!-- panels:end -->
@@ -354,7 +357,7 @@
 - [开发者边车，github打不开，加速](https://github.com/docmirror/dev-sidecar/releases)
 - [哔哩哔哩-API](https://github.com/SocialSisterYi/bilibili-API-collect)
 - [掘金定时签到任务](https://github.com/hccluck/public_actions)
-- [团子翻译器OCR的生肉翻译软件](https://github.com/PantsuDango/Dango-Translator)
+- [团子翻译器OCR翻译软件](https://github.com/PantsuDango/Dango-Translator)
 - [新版B站粉丝牌助手](https://github.com/XiaoMiku01/fansMedalHelper)
 - [GitHub有趣、入门级开源项目](https://github.com/521xueweihan/HelloGitHub)
 - [HelloGitHub](https://hellogithub.com/)
@@ -378,6 +381,7 @@
 - [提取微信聊天记录](https://github.com/LC044/WeChatMsg)
 - [图片去水印](https://github.com/zuruoke/watermark-removal)
 - [人人影视](https://github.com/tgbot-collection/YYeTsBot)
+- [文本编辑器剪视频](https://github.com/mli/autocut)
 - 内容持续更新
 
 <!-- div:right-panel -->
@@ -702,6 +706,26 @@
 
 <!-- panels:end -->
 
+---
+### GO技术
+---
+
+- [软硬路由公网神器](https://github.com/gdy666/lucky/releases)
+- [网易云音乐命令行客户端](https://github.com/go-musicfox/go-musicfox)
+- [基于各大企业信息API的工具](https://github.com/wgpsec/ENScan_GO)
+- [BaiduPCS-Go 百度网盘客户端](https://github.com/qjfoidnh/BaiduPCS-Go)
+- 内容持续更新
+
+---
+
+---
+### C技术
+---
+
+- [Notepad-- 轻量级文本编辑器软件](https://github.com/cxasm/notepad--)
+- 内容持续更新
+
+---
 
 ---
 ### 面试技巧
@@ -804,22 +828,22 @@
 - [科学上网2](https://github.com/yu-steven/openit)
 - [每日分享免费节点](https://github.com/abshare/abshare.github.io)
 - [Clash For Windows 汉化补丁和汉化脚本](https://github.com/BoyceLig/Clash_Chinese_Patch)
-- [clash for windows汉化版，提供clash for windows的汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+- [clash for windows 汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 - [得意黑字体](https://github.com/atelier-anchor/smiley-sans)
-- [LXGW WenKai | 霞鹜文楷字体](https://github.com/lxgw/LxgwWenKai)
+- [LXGW WenKai 霞鹜文楷字体](https://github.com/lxgw/LxgwWenKai)
 
 <!-- div:right-panel -->
 
 - [中国各二线以上城市的互联网环境以及生活成本](https://github.com/csguide-dabai/Programmer-look-at-China)
 - [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
 - [翻墙软件VPN推荐](https://github.com/vpncn/vpncn.github.io)
-- [Youtube-油管](https://www.youtube.com)
-- [Netflix-奈飞](https://www.netflix.com)
-- [TikTok-抖音国际版](https://www.tiktok.com/)
-- [Facebook-脸书](http://www.facebook.com)
-- [Twitter-推特](http://www.twitter.com)
-- [Reddit，热门事实社交论坛](https://www.reddit.com)
-- [Quora，知乎就是学的它](https://www.quora.com)
+- [Youtube 油管](https://www.youtube.com)
+- [Netflix 奈飞](https://www.netflix.com)
+- [TikTok 抖音国际版](https://www.tiktok.com/)
+- [Facebook 脸书](http://www.facebook.com)
+- [Twitter 推特](http://www.twitter.com)
+- [Reddit 热门事实社交论坛](https://www.reddit.com)
+- [Quora 知乎就是学的它](https://www.quora.com)
 - 内容持续更新
 
 <!-- panels:end -->
