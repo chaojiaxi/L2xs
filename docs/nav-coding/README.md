@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2025-08-18 15:12:09
+ * @LastEditTime: 2025-10-11 17:09:46
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -25,6 +25,9 @@
 
 ### 常用网站
 
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 - [数字生活指南](https://nav.guidebook.top/)
 - [Github](https://github.com/)
 - [Gitee](https://gitee.com/)
@@ -33,6 +36,9 @@
 - [今日热榜](https://tophub.today/)
 - [百度](https://www.baidu.com/)
 - [QQ邮箱](https://mail.qq.com/)
+
+<!-- div:right-panel -->
+
 - [微博](http://weibo.com/)
 - [知乎](https://www.zhihu.com/)
 - [谷歌翻译](https://translate.google.cn/)
@@ -43,7 +49,10 @@
 - [社工库分享](https://github.com/telegram-sgk/SGK_Sites_and_Bots)
 - [中国庭审公开网](https://tingshen.court.gov.cn/)
 - [中国裁判文书网](https://wenshu.court.gov.cn/#)
+- [国家法律法规数据库](https://flk.npc.gov.cn/i)
 - 内容持续更新
+
+<!-- div:right-panel -->
 
 ---
 ### 影视视频

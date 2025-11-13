@@ -1,4 +1,4 @@
-### 欢迎来到“在新疆卖砂糖橘”博客网站 :id=read
+### 欢迎来到【前端摸鱼塘】博客网站 :id=read
 
 <p align="certer">
     <a href="https://chaojiaxi.github.io/L2xs/#/" target="_self">
@@ -17,8 +17,8 @@
 <p align="center">
   <h2 align="center">知识无价，产物有价</h2>
   <h2 align="center">求人不如求己</h2>
-  <h2 align="center">遇到问题要先尝试去解决，99%的问题在互联网上都是能解决的...</h2>
-  <h2 align="center">看源码，敲代码，思考，输出...</h2>
+  <h2 align="center">遇到问题先想法设法去解决，99%的问题在互联网上都是能解决的...</h2>
+  <h2 align="center">学习，思考，输出...</h2>
 </p>
 
 
@@ -27,8 +27,8 @@
 ---
 
 > [!note]
-> 本网站取名 **在新疆卖砂糖橘**，主要是为了方便自己学习，分享自己学编程的笔记和记录githua资源。
-> 关注B站账号 **[在新疆卖砂糖橘](https://space.bilibili.com/410074229?spm_id_from=333.1007.0.0)**
+> 本网站取名 **前端摸鱼塘**，主要是为了方便自己学习，分享自己收集的githua、软件、网站。
+> 关注微信公众号 **前端摸鱼塘**
 
 
 <!-- panels:start -->
