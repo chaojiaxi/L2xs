@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-09 19:59:53
- * @LastEditTime: 2025-10-11 17:09:46
+ * @LastEditTime: 2025-11-26 11:30:46
  * @LastEditors: llxs
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /docsify/blog/README.md
@@ -52,7 +52,7 @@
 - [国家法律法规数据库](https://flk.npc.gov.cn/i)
 - 内容持续更新
 
-<!-- div:right-panel -->
+<!-- panels:end -->
 
 ---
 ### 影视视频
@@ -132,6 +132,7 @@
 - [蓝奏云每日更新](https://705.lanzoui.com/b02ujvrej)
 - [5P资源网](https://5pw.pw/)
 - [分享纯净好资源，网盘下载](https://www.mefcl.com/)
+
 <!-- div:right-panel -->
 
 #### MAC软件
