@@ -16,9 +16,9 @@
 
 <p align="center">
   <h2 align="center">知识无价，产物有价</h2>
-  <h2 align="center">求人不如求己</h2>
-  <h2 align="center">遇到问题先想法设法去解决，99%的问题在互联网上都是能解决的...</h2>
-  <h2 align="center">学习，思考，输出...</h2>
+  <h2 align="center">与其依赖别人，不如先靠自己。</h2>
+  <h2 align="center">遇到问题要学会解决，99%在互联网上都已给出答案...</h2>
+  <h2 align="center">学习，思考，输出...方能不断进步</h2>
 </p>
 
 
@@ -27,7 +27,7 @@
 ---
 
 > [!note]
-> 本网站取名 **前端摸鱼塘**，主要是为了方便自己学习，分享自己收集的githua、软件、网站。
+> 本网站取名 **前端摸鱼塘**，主要是为了方便自己学习，分享自己收集的githua资源、软件、网站等。
 > 关注微信公众号 **前端摸鱼塘**
 
 
@@ -253,14 +253,16 @@
 
 <!-- panels:end -->
 
-<!-- panels:start -->
-
-<!-- div:left-panel -->
 
 
 ---
 ### 微信小程序
 ---
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
 
 - [公众号下载视频使用猫抓插件](https://github.com/xifangczy/cat-catch/releases)
 - [微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -272,6 +274,10 @@
 - [关于公众号推送](https://github.com/hzbnb/wx-push)
 - [微信公众号管理系统](https://github.com/niefy/wx-manage)
 - [微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)
+
+
+<!-- div:right-panel -->
+
 - [WechatVideoSniffer视频号下载](https://github.com/xuncv/WechatVideoSniffer)
 - [WeChatDownloader视频号下载](https://github.com/xuncv/WeChatDownloader)
 - [resDownloader视频号下载](https://github.com/putyy/res-downloader)
@@ -284,18 +290,24 @@
 - [职业考试刷题小程序](https://github.com/kesixin/QuestionWechatApp)
 - 内容持续更新
 
-<!-- div:right-panel -->
+<!-- panels:end -->
+
+
 
 ---
 ### 人工智能
 ---
 
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
 - [深度求索DeepSeek](https://chat.deepseek.com/)
 - [chatGPT](https://chat.openai.com/)
 - [chatGPT镜像站点](https://github.com/xx025/carrot)
-- [Cursor]()
-- [Sora]()
-- [Gemini]()
+- [Cursor](https://www.cursor.com/)
+- [Sora](https://sora.chatgpt.com/)
+- [Gemini](https://gemini.google.com/)
 - [智谱清言-智谱](https://chatglm.cn/)
 - [文心一言-百度](https://yiyan.baidu.com/)
 - [豆包-字节](https://www.doubao.com/chat/)
@@ -305,13 +317,20 @@
 - [腾讯混元大模型-腾讯](https://hunyuan.tencent.com/)
 - [Kimi-月之暗面](https://kimi.moonshot.cn/)
 - [天工AI-昆仑万维](https://www.tiangong.cn/)
-- [Cursor](https://www.cursor.com/)
 - [元宝-腾讯](https://yuanbao.tencent.com/chat/)
 - [可灵AI](https://klingai.kuaishou.com/)
 - [秘塔AI](https://metaso.cn/)
 - [即梦AI](https://metaso.cn/)
 - [天工AI](https://metaso.cn/)
 - [魔音工坊](https://www.moyin.com/)
+- [coze扣子](https://www.coze.cn)
+- [飞书多维表格](https://base.feishu.cn/)
+- [BuildingAI](https://buildingai.cc/)
+- [哩布哩布AI](https://www.liblib.art/)
+- [OpenNana提示词](https://opennana.com/)
+
+<!-- div:right-panel -->
+
 - [AI PPT](https://www.aippt.cn/)
 - [问小白](https://www.wenxiaobai.com/)
 - [海螺AI](https://hailuoai.com/)
@@ -341,6 +360,7 @@
 <!-- panels:end -->
 
 
+
 <!-- panels:start -->
 
 <!-- div:left-panel -->
@@ -366,6 +386,10 @@
 - [新版B站粉丝牌助手](https://github.com/XiaoMiku01/fansMedalHelper)
 - [GitHub有趣、入门级开源项目](https://github.com/521xueweihan/HelloGitHub)
 - [HelloGitHub](https://hellogithub.com/)
+
+
+<!-- div:right-panel -->
+
 - [Douyin_TikTok_Download_API 开箱即用抖音数据爬取工具](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 - [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 - [爬取二手房数据](https://www.52pojie.cn/thread-1674991-1-1.html)
@@ -389,11 +413,17 @@
 - [文本编辑器剪视频](https://github.com/mli/autocut)
 - 内容持续更新
 
-<!-- div:right-panel -->
+<!-- panels:end -->
+
+
 
 ---
 ### 插件
 ---
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
 
 - [谷歌插件demo](https://github.com/sxei/chrome-plugin-demo)
 - [文章同步助手](https://github.com/wechatsync/Wechatsync)
@@ -403,6 +433,9 @@
 - [Vue Devtools](https://chrome.zzzmh.cn/info/nhdogjmejiglipccpnnnanhbledajbpd)
 - [哔哩哔哩助手_bilibili](https://chrome.zzzmh.cn/info/kpbnombpnpcffllnianjibmpadjolanh)
 - [Github 加速器](https://chrome.zzzmh.cn/info/mfnkflidjnladnkldfonnaicljppahpg)
+
+<!-- div:right-panel -->
+
 - [SuperCopy 超级复制](https://chrome.zzzmh.cn/info/onepmapfbjohnegdmfhndpefjkppbjkm)
 - [一款完全被动监听的谷歌插件](https://github.com/graynjo/Heimdallr)
 - [Zotero translator中文网页学术抓取插件](https://github.com/l0o0/translators_CN)
